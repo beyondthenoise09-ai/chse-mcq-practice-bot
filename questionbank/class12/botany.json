@@ -1,0 +1,7244 @@
+[
+ {
+  "id": "bot1_1",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "medium",
+  "question": "The end product(s) of sexual reproduction in flowering plants is / are :",
+  "options": {
+   "a": "gametes",
+   "b": "spores",
+   "c": "zygote",
+   "d": "sporocarps"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_2",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "medium",
+  "question": "Which are the two essential whorls of a flower that bear sexual reproductive units ?",
+  "options": {
+   "a": "calyx and Corolla",
+   "b": "corolla and androecium",
+   "c": "corolla and gynoecium",
+   "d": "androecium and gynoecium"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_3",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "easy",
+  "question": "The innermost wall layer of a microsporangium is :",
+  "options": {
+   "a": "endothecium",
+   "b": "tapetum",
+   "c": "epidermis",
+   "d": "endodermis"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_4",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "medium",
+  "question": "Which one is responsible for the nutrition of developing pollens ?",
+  "options": {
+   "a": "Tapetum",
+   "b": "Endodermis",
+   "c": "Epidermis",
+   "d": "Columella T-I N IN FLOWERING PLANTS up - A the choices given under each bit :"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_5",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "hard",
+  "question": "Which one is the last cell of male sporophytic generation ?",
+  "options": {
+   "a": "Megaspore mother cell",
+   "b": "Megaspore",
+   "c": "Microspore mother cell",
+   "d": "Microspore"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_6",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "hard",
+  "question": "Which one is not the characteristic feature of sporopollenin ?",
+  "options": {
+   "a": "dominant component of pollen wall.",
+   "b": "can be easily degraded by enzymes",
+   "c": "can not be degraded by enzymes",
+   "d": "helps pollen grains to be preserved as fossils"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_7",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "easy",
+  "question": "Which one is different from other three ?",
+  "options": {
+   "a": "microspore",
+   "b": "pollen grain",
+   "c": "sperm",
+   "d": "anther"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_8",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "hard",
+  "question": "Which is not the characteristic of vegetative cell of the pollen grains ?",
+  "options": {
+   "a": "Spindle shaped",
+   "b": "Abundant reserve food materials",
+   "c": "Large irregular shaped nucleus",
+   "d": "Bigger than the generative cell"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_9",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "easy",
+  "question": "The part of the carpel that receives pollen grains is called :",
+  "options": {
+   "a": "Ovary",
+   "b": "Ovule",
+   "c": "Stigma",
+   "d": "Style"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_10",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "easy",
+  "question": "Which are also called ovules ?",
+  "options": {
+   "a": "Microsporangia",
+   "b": "Megasporangia",
+   "c": "Nucellus",
+   "d": "Anthers"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_11",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "easy",
+  "question": "Which of the following possess one seeded ovules ?",
+  "options": {
+   "a": "Wheat, Rice, Mango",
+   "b": "Wheat, Rice, Papaya",
+   "c": "Wheat, Mango, Orchids",
+   "d": "Rice, Mango, Watermelon"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_12",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "hard",
+  "question": "Which is the correct sequence ?",
+  "options": {
+   "a": "Thalamus, ovary, stigma and style",
+   "b": "Thalamus, ovary, style and stigma",
+   "c": "Stigma, ovary, thalamus and style",
+   "d": "Style, ovary, thalamus and stigma"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_13",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "easy",
+  "question": "Which one is the female gametophyte of angiosperms ?",
+  "options": {
+   "a": "Nucellus",
+   "b": "Ovary",
+   "c": "Ovule",
+   "d": "Embryo sac"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_14",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "easy",
+  "question": "Synergids one part of :",
+  "options": {
+   "a": "Antipodals",
+   "b": "Central Cell",
+   "c": "Egg apparatus",
+   "d": "Polar nuclei"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_15",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "easy",
+  "question": "Filiform apparatus are prolongation of :",
+  "options": {
+   "a": "Antipodal cells",
+   "b": "Synergids",
+   "c": "Polar nuclei",
+   "d": "Egg cell"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_16",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "easy",
+  "question": "A typical embryo sac in angiosperms is 8 nucleate and :",
+  "options": {
+   "a": "8 Celled",
+   "b": "7 Celled",
+   "c": "6 Celled",
+   "d": "4 Celled"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_17",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "medium",
+  "question": "Which pair shows autogamous pollination ?",
+  "options": {
+   "a": "Cleistogamous & geitonogamous",
+   "b": "Cleistogamous & chasmogamous",
+   "c": "Cleistogamous & Xenogamous",
+   "d": "Chasmogamous & Xenogamous"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_18",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "hard",
+  "question": "Which is not a characteristic of Cleistogamous flower ?",
+  "options": {
+   "a": "never open.",
+   "b": "anther and stigma on separate flowers.",
+   "c": "anthers and stigma in close contact.",
+   "d": "borne in same flower."
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_19",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "medium",
+  "question": "Indicate the characteristics of wind pollinated flowers ?",
+  "options": {
+   "a": "Large, coloured, fragrant and have nectar.",
+   "b": "Small coloured flowers with light pollen grains carried in water.",
+   "c": "Small flowers, light and non- sticky pollen grains produced in large numbers.",
+   "d": "Large, Coloured, nectary, pollen grains sticky."
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_20",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "medium",
+  "question": "Which part of the flower provides nutrition to the insects in the process of pollination ?",
+  "options": {
+   "a": "Nectar",
+   "b": "Colour",
+   "c": "Scent",
+   "d": "Size"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_21",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "hard",
+  "question": "Which is not an outbreeding device ?",
+  "options": {
+   "a": "Pollen release and stigma receptivity not synchronised.",
+   "b": "Anther and stigma placed at different positions.",
+   "c": "Bisexual flowers and reproductive organs mature simultaneously.",
+   "d": "Flowers are unisexual."
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_22",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "easy",
+  "question": "Geitonogamy occurs in :",
+  "options": {
+   "a": "Maize",
+   "b": "Oxalis",
+   "c": "Viola",
+   "d": "Commelina"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_23",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "medium",
+  "question": "When in a bisxual flower, pollen matures first and ovary matures later, it is called :",
+  "options": {
+   "a": "Protogyny",
+   "b": "Protandry",
+   "c": "Unisexuality",
+   "d": "Heteromorphism"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_24",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "easy",
+  "question": "Which one does divide to form male gamete ?",
+  "options": {
+   "a": "Tube cell",
+   "b": "Antipodal cell",
+   "c": "Generative cell",
+   "d": "Vegetative cell"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_25",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "easy",
+  "question": "Which part of the embryo sac does contain filiform apparatus ?",
+  "options": {
+   "a": "Egg cells",
+   "b": "Antipodal cell",
+   "c": "Central cell",
+   "d": "Synergids"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_26",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "hard",
+  "question": "Which one can not be included under Pollen-Pistil interaction?",
+  "options": {
+   "a": "Pollen recognition",
+   "b": "Pollen tube growth",
+   "c": "Pollen maturation",
+   "d": "Pollen inhibition"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_27",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "medium",
+  "question": "The process of removal of anthers from flower bud before anther dehisces in order to initiate hybridization is called :",
+  "options": {
+   "a": "emasculation",
+   "b": "pollination",
+   "c": "geitonogamy",
+   "d": "bagging"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_28",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "easy",
+  "question": "In triple fusion, male gamete fuses with:",
+  "options": {
+   "a": "Synergids",
+   "b": "Central Cell",
+   "c": "Antipodals",
+   "d": "Egg Cell"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_29",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "easy",
+  "question": "Which process does result in Zygote?",
+  "options": {
+   "a": "Syngamy",
+   "b": "Triple fusion",
+   "c": "Pollen rejection",
+   "d": "Pollen incompatibility"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_30",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "easy",
+  "question": "Which one is a triploid structure ?",
+  "options": {
+   "a": "egg cell",
+   "b": "embryo",
+   "c": "zygote",
+   "d": "primary endosperm nucleus"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_31",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "medium",
+  "question": "Which is unrelated pair ?",
+  "options": {
+   "a": "Syngamy-Zygote",
+   "b": "Zygote-Embryo",
+   "c": "Primary endosperm nucleus- zygote",
+   "d": "Primary endosperm nucleus- endosperm"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_32",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "easy",
+  "question": "Which one is example of free nuclear endosperm ?",
+  "options": {
+   "a": "Coconut Kernel",
+   "b": "Coconut water",
+   "c": "Rice grain",
+   "d": "Bean seeds"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_33",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "easy",
+  "question": "One of the following has no persistent seed coat.",
+  "options": {
+   "a": "Rice",
+   "b": "Wheat",
+   "c": "Maize",
+   "d": "Groundnut"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_36",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "hard",
+  "question": "Which is the correct sequence in the formation of nuclear endosperm?",
+  "options": {
+   "a": "Primary endosperm nucleus  Vacuolation  Free nuclear division  Cell organisation",
+   "b": "Cell organization  Primary endosperm nulceus  Vacuolation  Free nuclear division",
+   "c": "Primary endosperm nucleus  Free nuclear division  Vacuolation  Cell organisation",
+   "d": "Primary endosperm nucleus  Cell organisation  Vacuolation  Free nuclear division"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_37",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "easy",
+  "question": "Embryo develops from :",
+  "options": {
+   "a": "Ovule",
+   "b": "Zygote",
+   "c": "Primary endosperm",
+   "d": "Ovary"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_38",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "easy",
+  "question": "Embryo consists of embryonal axis and :",
+  "options": {
+   "a": "epicotyl",
+   "b": "hypocotyl",
+   "c": "cotyledons",
+   "d": "plume"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_39",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "easy",
+  "question": "Plumule can be called :",
+  "options": {
+   "a": "roof tip",
+   "b": "stem tip",
+   "c": "radicle",
+   "d": "cotyledons"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_40",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "easy",
+  "question": "What is present as cotyledon of grass family ?",
+  "options": {
+   "a": "scutellum",
+   "b": "embryonal axis",
+   "c": "hypocotyl",
+   "d": "epicotyl"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_41",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "medium",
+  "question": "Coleorhiza is the covering of :",
+  "options": {
+   "a": "radicle and roof cap",
+   "b": "shoot apex and leaf primordia",
+   "c": "radicle and root hairs",
+   "d": "radicle and shoot apex"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_42",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "medium",
+  "question": "Coleoptile is the covering of :",
+  "options": {
+   "a": "radicle and rof cap",
+   "b": "shoot apex and leaf primodia",
+   "c": "shoot apex and internodes",
+   "d": "shoot apex and nodes"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_43",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "easy",
+  "question": "Fertilized ovule is :",
+  "options": {
+   "a": "fruit",
+   "b": "endosperm",
+   "c": "embryo",
+   "d": "seed"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_44",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "hard",
+  "question": "Which pair is incorrect ?",
+  "options": {
+   "a": "Non-albuminous seeds - No endosperm",
+   "b": "Albuminous seeds - Endospermous",
+   "c": "Non-albuminous seeds - Endospermous",
+   "d": "Persistent nucellus - perisperm"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_45",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "easy",
+  "question": "Which pair is unrelated ?",
+  "options": {
+   "a": "Pea - Nonalbuminous",
+   "b": "Maize - Albuminous",
+   "c": "Castor - Albuminous",
+   "d": "Ground nut - Albuminous"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_46",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "easy",
+  "question": "Which one has non-albuminous seeds?",
+  "options": {
+   "a": "Barley",
+   "b": "Wheat",
+   "c": "Beans",
+   "d": "Rice"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_47",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "medium",
+  "question": "What are the requirements for a seed to germinate ?",
+  "options": {
+   "a": "Moisture, Oxygen & Temperature",
+   "b": "Moisture & Oxygen",
+   "c": "Moisture & Temperature",
+   "d": "Moisture, Water and Light"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_48",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "easy",
+  "question": "Matured ovary is a :",
+  "options": {
+   "a": "Seed",
+   "b": "Fruit",
+   "c": "Gamete",
+   "d": "Zygote"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_49",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "easy",
+  "question": "True fruits develop from :",
+  "options": {
+   "a": "thalamus",
+   "b": "integlements",
+   "c": "nucellus",
+   "d": "ovary"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_50",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "hard",
+  "question": "Which is not a correct statement about seeds?",
+  "options": {
+   "a": "have better adaptive startegies for dispersal to new habitats.",
+   "b": "have sufficient food reserves for young seedlings.",
+   "c": "Produce no new genetic combination which may lead to variation.",
+   "d": "Provides nourishment till photosynthesis starts in new plant."
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_51",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "easy",
+  "question": "Seeds formed without fertilization is called :",
+  "options": {
+   "a": "Panthenocarpy",
+   "b": "Apomixis",
+   "c": "Syngamy",
+   "d": "Triple fusion"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_52",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "hard",
+  "question": "Which is not an apomictic process ?",
+  "options": {
+   "a": "Seeds formed by sexual reproduction.",
+   "b": "Egg diploid but no sexual reproduction.",
+   "c": "Nucellar tissue produce embryo, no sexual reproduction.",
+   "d": "Seeds develop but no sexual reproduction."
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_53",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "easy",
+  "question": "Anemophilous flowers are pollinated by :",
+  "options": {
+   "a": "Wind",
+   "b": "Water",
+   "c": "Animals",
+   "d": "Man"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_54",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "easy",
+  "question": "Male gametes are formed from :",
+  "options": {
+   "a": "tube cell",
+   "b": "generative cell",
+   "c": "stalk cell",
+   "d": "primordial cell"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_55",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "easy",
+  "question": "Which cell of embryo sac does form zygote ?",
+  "options": {
+   "a": "Synergid",
+   "b": "Antipodals",
+   "c": "Central Cell",
+   "d": "Egg Cell"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_56",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "hard",
+  "question": "Which one does not represent a haploid stage ?",
+  "options": {
+   "a": "Microspore",
+   "b": "Male gamete",
+   "c": "Microsporangium",
+   "d": "Pollen"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_57",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "easy",
+  "question": "Which is a diploid stage ?",
+  "options": {
+   "a": "Megasporangium",
+   "b": "Megaspore",
+   "c": "Embryo sac",
+   "d": "Female gametophyte"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_58",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "easy",
+  "question": "What are archesporium or archesporial cells?",
+  "options": {
+   "a": "Endothelium",
+   "b": "Epidemis",
+   "c": "Tapetum",
+   "d": "Middle layers"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_59",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "easy",
+  "question": "What is the main component of outer layer (exine) of microspore wall?",
+  "options": {
+   "a": "Cellulose",
+   "b": "Chitin",
+   "c": "Lipoprotein",
+   "d": "Sporopollenin"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_60",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "medium",
+  "question": "Which layer of the microsporangial wall does help in dehiscence of spores ?",
+  "options": {
+   "a": "Endothecium",
+   "b": "Tapetum",
+   "c": "Epidermis",
+   "d": "Hypodermis"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_61",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "medium",
+  "question": "Ho w m a ny nuc l e i for m m a l e gametophyte of angiosperms at the time of fertilization ?",
+  "options": {
+   "a": "1",
+   "b": "2",
+   "c": "3",
+   "d": "4"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_62",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "hard",
+  "question": "Which is not a part of the carpels ?",
+  "options": {
+   "a": "Ovary",
+   "b": "Style",
+   "c": "Stigma",
+   "d": "Anther"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_63",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "easy",
+  "question": "Which type of Ovules are called anatropous?",
+  "options": {
+   "a": "Upright",
+   "b": "Inverted",
+   "c": "Horse-shoe shaped",
+   "d": "Horizontal"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_64",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "easy",
+  "question": "Egg apparatus consists of :",
+  "options": {
+   "a": "Egg Cell + Synergids",
+   "b": "Antipodals + Synergids",
+   "c": "Antipodals + Egg Cell",
+   "d": "Polar nulcei + Synergids"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_65",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "easy",
+  "question": "Which one normally fuses with male gamete to form zygote ?",
+  "options": {
+   "a": "Polar nuclei",
+   "b": "Synergids",
+   "c": "Antipodals",
+   "d": "Egg Cell"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_66",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "medium",
+  "question": "The bisexual flowers which never open so as to effect self pollination are called .",
+  "options": {
+   "a": "Cleistogamous",
+   "b": "Homogamous",
+   "c": "Dichogamous",
+   "d": "Herkogamous"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_67",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "medium",
+  "question": "Which are the special characteristics of entomophilous flowers ?",
+  "options": {
+   "a": "Inconspicuous, light and produced in large numbers",
+   "b": "Have colour, nectar and scent.",
+   "c": "Provide shelter to the agents of pollination and have nectar.",
+   "d": "Flowers never open and homogamous"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_68",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "medium",
+  "question": "When pollen tuble enters through micropyle to effect fertilization in angiosperms, it is called :",
+  "options": {
+   "a": "Chalazogamy",
+   "b": "Mesogamy",
+   "c": "Porogamy",
+   "d": "Herkogamy"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_69",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "easy",
+  "question": "What type of endosperm is seen in coconut?",
+  "options": {
+   "a": "Nuclear",
+   "b": "Cellular",
+   "c": "Holobial",
+   "d": "Cellular and Helobial"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_70",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "easy",
+  "question": "In which family are endosperms absent ?",
+  "options": {
+   "a": "Gramineae",
+   "b": "Orchidaceae",
+   "c": "Cruciferae",
+   "d": "Papilionaceae"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_71",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "easy",
+  "question": "In which case does endosperm contain mainly cellulose?",
+  "options": {
+   "a": "Coconut",
+   "b": "Castor",
+   "c": "Black Pepper",
+   "d": "Rice"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot1_72",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Sexual Reproduction in Flowering Plants",
+  "topic": "Sexual Reproduction in Flowering Plants",
+  "difficulty": "easy",
+  "question": "What is the major component of aleurone layer ?",
+  "options": {
+   "a": "Fat",
+   "b": "Proteins",
+   "c": "Carbohydrate",
+   "d": "Oil"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_1",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "easy",
+  "question": "Segregation of genes occurs in :",
+  "options": {
+   "a": "Embryo formation",
+   "b": "Anaphase I",
+   "c": "Anaphase II",
+   "d": "Metaphase II"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_2",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "easy",
+  "question": "To see the effect of sex on inheritance Mendel performed :",
+  "options": {
+   "a": "Test cross",
+   "b": "Out cross",
+   "c": "Reciprocal cross",
+   "d": "Back cross"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_3",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "hard",
+  "question": "Which of the following statements is Incorrect ?",
+  "options": {
+   "a": "Gene is a sequence of nucleotides",
+   "b": "During the process of gene expression, DNA is first copied into RNA",
+   "c": "Genes can acquire mutations in their sequence",
+   "d": "None of the above"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_4",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "medium",
+  "question": "Drosophila of plant kingdom is :",
+  "options": {
+   "a": "Pink bread mould",
+   "b": "Pea",
+   "c": "Maize",
+   "d": "Green mould T - II AND VARIATION up - A the choices given under each bit :"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_5",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "easy",
+  "question": "Mendel conducted his hybridization experiments with garden pea for :",
+  "options": {
+   "a": "6 years",
+   "b": "7 years",
+   "c": "8 years",
+   "d": "Many years"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_6",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "hard",
+  "question": "From a cross AABb x aaBb, the genotypes AaBB : AaBb : Aabb : aabb are obtained in ratio :",
+  "options": {
+   "a": "1:1:1:1",
+   "b": "1:2:1:0",
+   "c": "0:3;1:0",
+   "d": "1:1:1:0"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_7",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "hard",
+  "question": "A dwarf Pea plant is treated with gibberellin which makes it tall.This plant is crossed with genotypically pure tall plant. Phenotypic ratio in next generation shall be :",
+  "options": {
+   "a": "3 tall : 1 dwarf",
+   "b": "50% tall : 50%dwarf",
+   "c": "All tall",
+   "d": "All dwarf"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_8",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "hard",
+  "question": "How many genotypes can be produced by two alleles A and a :",
+  "options": {
+   "a": "1",
+   "b": "3",
+   "c": "2",
+   "d": "4"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_9",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "hard",
+  "question": "Which law Mendel would not have proposed, if the phenomenon of linkage was known to him :",
+  "options": {
+   "a": "Law of Unit Character",
+   "b": "Law of Dominance",
+   "c": "Law of Segregation",
+   "d": "Law of independent assortment"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_10",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "hard",
+  "question": "The contrasting traits of characters chosen by Mendel were :",
+  "options": {
+   "a": "Stem height, flower colour, flower position, pod shape, pod colour, seed shape, seed colour",
+   "b": "Stem height, flower position, pod length, pod shape, seed size, seed colour",
+   "c": "Stem height, flower colour, pod shape, pod colour, seed shape, seed colour, seed size",
+   "d": "Plant height, flower position, pod length, pod shape, seed size, seed colour"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_11",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "hard",
+  "question": "In a dihybrid cross, in F2 generation, the parental types are far greater in number than the recombinants. This is due to :",
+  "options": {
+   "a": "Linkage",
+   "b": "Multiple allelism",
+   "c": "Incomplete dominance",
+   "d": "Complete dominance"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_12",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "easy",
+  "question": "The term allele was coined by :",
+  "options": {
+   "a": "Bateson",
+   "b": "Bateson and Punnet",
+   "c": "Bateson and Saunders",
+   "d": "Morgan"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_13",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "medium",
+  "question": "The principle of independent assortment of characters is proved by :",
+  "options": {
+   "a": "Observation that F1 progeny is tall",
+   "b": "Appearance of tall and dwarf in 3:1 ratio",
+   "c": "Appearance of tall and dwarf in the F2 population",
+   "d": "None of the above"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_14",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "hard",
+  "question": "A trihybrid ratio of 27:9:9:9:3:3:3:1 is obtained because of",
+  "options": {
+   "a": "Multiple alleles",
+   "b": "Interaction genes",
+   "c": "Multiple factor inheritance",
+   "d": "Independent assortment of genes"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_15",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "easy",
+  "question": "Mendel started with :",
+  "options": {
+   "a": "A large number of characters in pea plant",
+   "b": "7 pairs of characters",
+   "c": "14 traits",
+   "d": "None of the above"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_16",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "hard",
+  "question": "In a dihybrid cross when one pair of allele shows incomplete dominance, ratio comes to :",
+  "options": {
+   "a": "1:2:1",
+   "b": "2:4:2:1:2:1:1:2:1",
+   "c": "3:6:3:1:2:1",
+   "d": "9:3:3:1"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_17",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "hard",
+  "question": "The gametes produced by individual with genotypes of aaBBCc are :",
+  "options": {
+   "a": "2",
+   "b": "8",
+   "c": "4",
+   "d": "6"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_18",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "hard",
+  "question": "The number of genotypes in ABO blood groups are",
+  "options": {
+   "a": "5",
+   "b": "6",
+   "c": "7",
+   "d": "8"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_19",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "medium",
+  "question": "Which one of the following is the oldest to be associated with breeding experiments in plants :",
+  "options": {
+   "a": "Naudin",
+   "b": "Goss",
+   "c": "Kolreuter",
+   "d": "Knight"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_20",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "easy",
+  "question": "ABO blood group is an example of:",
+  "options": {
+   "a": "Co-dominance",
+   "b": "Multiple allelism",
+   "c": "Epistasis",
+   "d": "Both a and b"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_21",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "hard",
+  "question": "A test cross of AaBbCC produces how many phenotypes :",
+  "options": {
+   "a": "16",
+   "b": "12",
+   "c": "8",
+   "d": "4"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_22",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "medium",
+  "question": "Wrinkle seeds are produced because of :",
+  "options": {
+   "a": "A wild allele for starch production",
+   "b": "A mutant allele with no function towards starch production",
+   "c": "A mutant allele with less efficient function towards starch production",
+   "d": "A mutant allele with more efficient function towards starch production"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_23",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "easy",
+  "question": "Number of laws formulated by Mendel is :",
+  "options": {
+   "a": "2",
+   "b": "3",
+   "c": "4",
+   "d": "5"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_24",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "easy",
+  "question": "Incomplete dominance was discovered by :",
+  "options": {
+   "a": "Correns",
+   "b": "Bateson",
+   "c": "Johansen",
+   "d": "Mendel"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_25",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "medium",
+  "question": "A Mendelian experiment consisted of breeding of tall pea plants bearing violet flowers with short pea plants bearing white flowers. The progeny all bore violet flowers but almost half of it were short. This suggests that the genetic makeup of tall parent can be depicted as :",
+  "options": {
+   "a": "TTWW",
+   "b": "TTww",
+   "c": "TtWW",
+   "d": "TtWw"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_26",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "hard",
+  "question": "Two genes R and Y are located very close on the chromosome linkage map of maize plant. When RRYY and rryy genotypes are hybridized the F2 segregation will show :",
+  "options": {
+   "a": "Segregation in the expected 9:3:3:1 ratio",
+   "b": "Segregation in 3:1 ratio",
+   "c": "Higher number of parental types",
+   "d": "Higher number of recombinant types"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_27",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "hard",
+  "question": "Person having genotype IA IB would show the blood group as AB. This is because of :",
+  "options": {
+   "a": "Pleiotropy",
+   "b": "Multiple alleles",
+   "c": "Co-dominance",
+   "d": "Both b and c"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_28",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "hard",
+  "question": "Which of the following may not result in variations among siblings?",
+  "options": {
+   "a": "Independent assortment of gene",
+   "b": "Crossing over",
+   "c": "Linkage",
+   "d": "Mutation"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_29",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "hard",
+  "question": "Which of the following method is more suitable for finding both phenotypic and genotypic ratios in Mendelian/Non-Mendelian crosses?",
+  "options": {
+   "a": "Punnets square",
+   "b": "Pie square",
+   "c": "Forked line",
+   "d": "All the above"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_30",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "medium",
+  "question": "Distance between two linked genes is measured in map units that depicts :",
+  "options": {
+   "a": "Ratio of crossing over between them",
+   "b": "Cross-over value",
+   "c": "Number of genes between them",
+   "d": "Both a and b"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_31",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "easy",
+  "question": "Inheritance of skin colour in humans is an example of :",
+  "options": {
+   "a": "Point mutation",
+   "b": "Polygenic inheritance",
+   "c": "Co-dominance",
+   "d": "Chromosomal aberration"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_32",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "medium",
+  "question": "Which is correct about traits chosen by Mendel ?",
+  "options": {
+   "a": "Terminal pod is dominant",
+   "b": "Constricted pod is dominant",
+   "c": "Green coloured pod is dominant",
+   "d": "Tall plants are recessive"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_33",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "medium",
+  "question": "Mendel’s Law of independent assortment holds good for genes situated on the :",
+  "options": {
+   "a": "non-homologous chromosome",
+   "b": "homologous chromosome",
+   "c": "extra nuclear genetic elements",
+   "d": "same chromosome."
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_34",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "hard",
+  "question": "In Mirabilis jalapa, crossing of red flowered and white flowered plants yields pink flowered plants. This is due to :",
+  "options": {
+   "a": "Crossing over",
+   "b": "Complete dominance",
+   "c": "Incomplete dominance",
+   "d": "Epistasis"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_35",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "hard",
+  "question": "In the F2 generation of a Mendelian dihybrid cross the number of phenotypes and genotypes are :",
+  "options": {
+   "a": "phenotypes – 4; genotypes – 16",
+   "b": "phenotypes – 9; genotypes – 4",
+   "c": "phenotypes – 4; genotypes – 8",
+   "d": "phenotypes – 4; genotypes – 9."
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_36",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "medium",
+  "question": "Occasionally, a single gene may express more than one effect. The phenomenon is called :",
+  "options": {
+   "a": "multiple allelism",
+   "b": "mosaicism",
+   "c": "pleiotropy",
+   "d": "polygeny"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_37",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "medium",
+  "question": "The colour based contrasting traits in seven contrasting pairs, studied by Mendel in pea plant were :",
+  "options": {
+   "a": "1",
+   "b": "2",
+   "c": "3",
+   "d": "4"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_38",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "hard",
+  "question": "Which of the following characters was not chosen by Mendel ?",
+  "options": {
+   "a": "Pod shape",
+   "b": "Pod colour",
+   "c": "Location of flower",
+   "d": "Location of pod"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_39",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "hard",
+  "question": "What will be the distribution of phenotypic features in the first filial generation after a cross between a homozygous female and a heterozygous male for a single locus ?",
+  "options": {
+   "a": "3:1",
+   "b": "1:2:1",
+   "c": "1:1",
+   "d": "None of these"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_40",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "easy",
+  "question": "Polygenic inheritance is :",
+  "options": {
+   "a": "Qualitative",
+   "b": "Quantitative",
+   "c": "Qualitative or quantitative",
+   "d": "None of the above"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_41",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "hard",
+  "question": "In a monohybrid cross between two heterozygous individuals, percentage of pure homozygous individuals obtained in F1 generation will be :",
+  "options": {
+   "a": "25 %",
+   "b": "50 %",
+   "c": "75 %",
+   "d": "100 %"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_42",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "easy",
+  "question": "In Bombay phenotype the blood group is closer to :",
+  "options": {
+   "a": "O",
+   "b": "AB",
+   "c": "A or B",
+   "d": "Any of the groups"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_43",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "hard",
+  "question": "What is the probability of production of dwarf offspring in a cross between two heterozygous tall pea plants?",
+  "options": {
+   "a": "Zero",
+   "b": "50%",
+   "c": "25%",
+   "d": "100%"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_44",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "medium",
+  "question": "Mendel formulated the law of purity of gametes on the basis of :",
+  "options": {
+   "a": "monohybrid cross",
+   "b": "dihybrid cross",
+   "c": "test cross",
+   "d": "back cross"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_45",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "medium",
+  "question": "Erythroblastosis occurs when",
+  "options": {
+   "a": "Mother is Rh negative father is Rh positive",
+   "b": "Father is Rh negative and mother is Rh positive",
+   "c": "Both are Rh positive",
+   "d": "Both are RH negative"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_46",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "medium",
+  "question": "The inheritance of flower colour in Antirrhinum (dog flower) is an example of :",
+  "options": {
+   "a": "incomplete dominance",
+   "b": "co-dominance",
+   "c": "multiple alleles",
+   "d": "linkage"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_47",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "hard",
+  "question": "In Antirrhinum (dog flower), phenotypic ratio in F2 generation for the inheritance of flower colour would be :",
+  "options": {
+   "a": "3:1",
+   "b": "1:2:1",
+   "c": "1:1",
+   "d": "2:1"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_48",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "hard",
+  "question": "Phenotypic and genotypic ratio is similar in case of :",
+  "options": {
+   "a": "complete dominance",
+   "b": "incomplete dominance",
+   "c": "over dominance",
+   "d": "epistasis"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_49",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "medium",
+  "question": "What can be the blood group of offspring when both parents have AB blood group ?",
+  "options": {
+   "a": "AB only",
+   "b": "A, B and AB",
+   "c": "A, B, AB and O",
+   "d": "A and B only"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_50",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "easy",
+  "question": "Inheritance of roan coat in cattle is an example of :",
+  "options": {
+   "a": "incomplete dominance",
+   "b": "co-dominance",
+   "c": "multiple alleles",
+   "d": "none of these"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_51",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "easy",
+  "question": "ABO blood grouping in human beings illustrates the example of :",
+  "options": {
+   "a": "incomplete dominance",
+   "b": "co-dominance",
+   "c": "multiple allelism",
+   "d": "Both (b) and (c)"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_52",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "medium",
+  "question": "How many types of gametes can be produced by a diploid organism who is heterozygous for 4 loci?",
+  "options": {
+   "a": "4",
+   "b": "8",
+   "c": "16",
+   "d": "32"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_53",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "medium",
+  "question": "Which three scientists independently rediscovered Mendel’s work ?",
+  "options": {
+   "a": "Avery, McLeod, McCarty",
+   "b": "Sutton, Morgan and Bridge",
+   "c": "Bateson, Punnet and Bridges",
+   "d": "de Vries, Correns and Tschermak"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_54",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "hard",
+  "question": "Two crosses between the same pair of genotype or phenotype in which the source of the gametes are reversed in one cross is known as",
+  "options": {
+   "a": "Reverse cross",
+   "b": "Dihybrid cross",
+   "c": "Test cross",
+   "d": "Reciprocal cross"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_55",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "hard",
+  "question": "Which of the following are reasons for Mendel’s success? (i) Usage of pure lines or pure breeding varieties (ii) Consideration of one character at a time (iii) Maintenance of statistical records of experiments (iv) Knowledge of linkage and incomplete dominance :",
+  "options": {
+   "a": "(i) and (ii) only",
+   "b": "(i), (ii) and (iii)",
+   "c": "(i) and (iv) only",
+   "d": "(ii), (iii) and (iv)"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_56",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "medium",
+  "question": "Select the disease which is caused by recessive autosomal genes when present in homozygous conditions.",
+  "options": {
+   "a": "Alkaptonuria",
+   "b": "Albinism",
+   "c": "Cystic fibrosis",
+   "d": "All of these"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_57",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "easy",
+  "question": "Which of the following trait is controlled by dominant autosomal gene?",
+  "options": {
+   "a": "Polydactyly",
+   "b": "Huntington’s chorea",
+   "c": "PTC (phenylthiocarbamide) tasting",
+   "d": "All of these"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_58",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "medium",
+  "question": "Which is correct about the traits chosen by Mendel?",
+  "options": {
+   "a": "Terminal pod is dominant",
+   "b": "Constricted pod is dominant",
+   "c": "Green coloured pod is dominant",
+   "d": "Tall plants are recessive"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_59",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "easy",
+  "question": "A recessive trait in garden pea is :",
+  "options": {
+   "a": "Wrinkled seeds",
+   "b": "Tall stem",
+   "c": "Round seeds",
+   "d": "Coloured seed coat"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_60",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "easy",
+  "question": "‘Gametes are never hybrid’ is a statement of the law of :",
+  "options": {
+   "a": "Dominance",
+   "b": "Segregation",
+   "c": "Independent assortment",
+   "d": "Random fertilization"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_61",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "hard",
+  "question": "R is dominant red flower trait while r is recessive white flower trait. Heterozygous Rr (red) is crossed with homozygous red flowered plant. 64 offspring are produced number of white flowered plants is:",
+  "options": {
+   "a": "64",
+   "b": "32",
+   "c": "16",
+   "d": "0"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_62",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "hard",
+  "question": "By cross pollinating certain Tobacco species some fertile hybrids were obtained by :",
+  "options": {
+   "a": "Mendel",
+   "b": "Morgan",
+   "c": "Kolreuter",
+   "d": "Khorana"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_63",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "medium",
+  "question": "Independent assortment is absent in case",
+  "options": {
+   "a": "Genes located on the same chromosome",
+   "b": "Genes located on homologous chromosomes",
+   "c": "Genes located on non- homologous chromosomes",
+   "d": "All the above"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_64",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "medium",
+  "question": "When both alleles express their effect on being present together, the phenomenon is called :",
+  "options": {
+   "a": "Dominance",
+   "b": "Co-dominance",
+   "c": "Pseudo-dominance",
+   "d": "Amphi-dominance"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_65",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "hard",
+  "question": "Select the statement which is not correct :",
+  "options": {
+   "a": "Polygenic character is controlled by multiple alleles",
+   "b": "In case of polygenic inheritance thousands of intermediate phenotypes are found between 2-extreme ones",
+   "c": "Height, weight, skin colour are polygenic",
+   "d": "Polygenic character is controlled by multiple genes"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_66",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "easy",
+  "question": "Skin colour inheritance in man is example of",
+  "options": {
+   "a": "Monogenic",
+   "b": "Polygenic",
+   "c": "Sex linked",
+   "d": "Multiple alleles"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_67",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "easy",
+  "question": "What type of gametes are produced by RrYy?",
+  "options": {
+   "a": "RY, Ry, rY, ry",
+   "b": "RY, RY, Ry, RY",
+   "c": "RY, RY, rY, ry",
+   "d": "RY, Ry, rY, ry"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_68",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "hard",
+  "question": "Law of Mendel which is not completely applicable is :",
+  "options": {
+   "a": "Law of dominance",
+   "b": "Law of segregation",
+   "c": "Law of independent assortment",
+   "d": "None of these"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_69",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "easy",
+  "question": "Emasculation is a part of",
+  "options": {
+   "a": "Hybridization",
+   "b": "Mass selection",
+   "c": "Pure line selection",
+   "d": "Clonal selection"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_70",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "hard",
+  "question": "On selfing a plant of F1-generation with genotype ‘AABbCC’ the genotypic ratio of F2 generation will be :",
+  "options": {
+   "a": "3:1",
+   "b": "1:1",
+   "c": "9:3:3:1",
+   "d": "27:9:9:9:3:3:3:1"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_71",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "easy",
+  "question": "Rh factor found in man and Rhesus monkey was discovered by :",
+  "options": {
+   "a": "Landsteiner and Wiener",
+   "b": "William Harvey",
+   "c": "De Casstello and Sturli",
+   "d": "Rhesus"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_72",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "hard",
+  "question": "A pregnant woman has an equal chance of her baby being blood group A or blood group AB. Which one of the following shows the possible genotypes of the woman and the father of her child?",
+  "options": {
+   "a": "IA IA and IB IO",
+   "b": "IA IB and IB IO",
+   "c": "IA IO and IB IO",
+   "d": "IO IB and IA IO"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_73",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "medium",
+  "question": "What will be the number of chromosomes present in each gamete produced by the plants if the palisade cells of a species of plant contain 28 chromosomes in all?",
+  "options": {
+   "a": "56",
+   "b": "28",
+   "c": "14",
+   "d": "4"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_74",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "hard",
+  "question": "In peas, a pure tall plant (TT) is crossed with a pure short plant (tt). The ratio of pure tall plants to pure short plants in F2 generation will be:",
+  "options": {
+   "a": "1:3",
+   "b": "3:1",
+   "c": "1:1",
+   "d": "2:1"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_75",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "easy",
+  "question": "If a hybrid expresses a character, it is called :",
+  "options": {
+   "a": "Epistasis",
+   "b": "Dominant",
+   "c": "Co-dominant",
+   "d": "Recessive"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_76",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "hard",
+  "question": "A plant having the genotype AABbCC will produce the following number of gametes :",
+  "options": {
+   "a": "5",
+   "b": "4",
+   "c": "3",
+   "d": "2"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_77",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "easy",
+  "question": "Experimental verification of the chromosomal theory of inheritance was done by:",
+  "options": {
+   "a": "Sutton",
+   "b": "Boveri",
+   "c": "Morgan",
+   "d": "Mendel"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_78",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "medium",
+  "question": "Identify the wrong statement with reference to the gene 'I' that controls ABO blood groups.",
+  "options": {
+   "a": "A person will have only two of the 3 alleles.",
+   "b": "When IA and IB are present together, they express same type of sugar.",
+   "c": "Allele 'i' does not produce any sugar.",
+   "d": "The gene (I) has three alleles."
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_79",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "hard",
+  "question": "How many true-breeding pea plant varieties did Mendel select as pairs, which were similar except in one character with contrasting traits :",
+  "options": {
+   "a": "2",
+   "b": "14",
+   "c": "6",
+   "d": "4"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_80",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "easy",
+  "question": "The best example for pleiotropy is:-",
+  "options": {
+   "a": "Skin colour",
+   "b": "Phenylketonuria",
+   "c": "Colour Blindness",
+   "d": "ABO Blood group"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_81",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "hard",
+  "question": "The genotypes of a husband and Wife are IAIB and IAi. Among the blood types of their children, how many different genotypes and phenotypes are possible?",
+  "options": {
+   "a": "3 genotypes; 4 phenotypes",
+   "b": "4 genotypes; 3 phenotypes",
+   "c": "4 genotypes; 4 phenotypes",
+   "d": "3 genotypes; 3 phenotypes"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_82",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "easy",
+  "question": "The offspring of mating between two pure strains is called as :",
+  "options": {
+   "a": "Heterosis",
+   "b": "Hybrid",
+   "c": "Progeny",
+   "d": "Cybrid"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_83",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "medium",
+  "question": "Mother is homozygous B and father is A; What will be the possible blood group in their family",
+  "options": {
+   "a": "AB and B",
+   "b": "AB and A",
+   "c": "A and B",
+   "d": "O"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_84",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "hard",
+  "question": "A human male produces sperms with the genotypes AB, Ab, ab pertaining to two diallelic characters in equal proportions. What is the corresponding genotype of this person :",
+  "options": {
+   "a": "AaBB",
+   "b": "AABb",
+   "c": "AABB",
+   "d": "AaBb"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_85",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "hard",
+  "question": "In pea plant, yellow seeds are dominant to green. If a heterozygous yellow seeded plant is crossed with a green seeded plant what ratio of yellow and green seeded plants would you expect in F1 generation :",
+  "options": {
+   "a": "9:1",
+   "b": "1:3",
+   "c": "3:1",
+   "d": "50:50"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_86",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "hard",
+  "question": "Two genes R and Y are located very close on the chromosomal linkage map of maize plant. When RRYY and rryy genotypes are hybridized the F2 segregation will show :",
+  "options": {
+   "a": "Segregation in the expected 9:3:3:1 ratio",
+   "b": "Segregation in 3:1 ratio",
+   "c": "Higher number of parental types",
+   "d": "Higher number of recombinant types"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_88",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "hard",
+  "question": "AB genes are linked. What is genotype of the progeny in a cross between AB/ab and ab/ab ?",
+  "options": {
+   "a": "AABB and aabb",
+   "b": "AaBb and aabb",
+   "c": "AAbb and aaBB",
+   "d": "AaBb and AaBb"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot2_89",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Heredity and Variation",
+  "topic": "Heredity and Variation",
+  "difficulty": "medium",
+  "question": "The sugars attached to blood cells that remain attached to RBC are :",
+  "options": {
+   "a": "Either Galactosamine or galactose",
+   "b": "Both Galactose or galactosamine",
+   "c": "Galactosamine or galactose",
+   "d": "Galactose, galactosamine, both galactose or galactosamine or no sugar"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_1",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "easy",
+  "question": "Bacterial transformation was discovered by:",
+  "options": {
+   "a": "Frederick Griffith",
+   "b": "Messelson and Stahl",
+   "c": "Watson and Crick",
+   "d": "Hershey and Chase"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_2",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "easy",
+  "question": "Avery et al. proved that the transforming principle of Pneumococcus was:",
+  "options": {
+   "a": "mRNA",
+   "b": "DNA",
+   "c": "Protein",
+   "d": "Polysaccharide"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_3",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "easy",
+  "question": "DNA is the genetic material in phages was proved by:",
+  "options": {
+   "a": "Frederick Griffith",
+   "b": "James Watson",
+   "c": "Sutton and Bovery",
+   "d": "Hershey and Chase"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_4",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "medium",
+  "question": "Experiment on Pneumococcus proved that :",
+  "options": {
+   "a": "Bacteria do not reproduce asexually",
+   "b": "Bacteria undergo binary fission",
+   "c": "DNA is the genetic material",
+   "d": "RNA may sometimes control production of DNA and protein. T - II SIS OF INHERITANCE up - A the choices given under each bit :"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_5",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "easy",
+  "question": "RNA contains the sugar:",
+  "options": {
+   "a": "Hexose",
+   "b": "Ribose",
+   "c": "Fructose",
+   "d": "Glucose"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_6",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "easy",
+  "question": "Pyrimidine base present in RNA in place of thymine of DNA is:",
+  "options": {
+   "a": "Uracil",
+   "b": "Adenine",
+   "c": "Cytosine",
+   "d": "Guanine"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_7",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "hard",
+  "question": "Which of the following is the most accurate sequence of intermediates during protein synthesis employed by an RNA tumor virus (retrovirus) after initiating infection ?",
+  "options": {
+   "a": "RNA DNAmRNAprotein",
+   "b": "RNA mRNA  protein",
+   "c": "RNA DNA  protein",
+   "d": "DNA mRNA protein"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_8",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "hard",
+  "question": "Given that a nucleic acid has 30% A, 20% G, 30 % T and 20% C, this nucleic acid is most likely:",
+  "options": {
+   "a": "Double stranded DNA",
+   "b": "Single stranded DNA",
+   "c": "Double stranded RNA",
+   "d": "Single stranded RNA"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_9",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "easy",
+  "question": "The correct order in terms of molecular weight is:",
+  "options": {
+   "a": "DNA<tRNA<mRNA<insulin",
+   "b": "tRNA<mRNA<rRNA< DNA",
+   "c": "rRNA<insulin<cDNA <Z DNA",
+   "d": "Insulin<B-DNA<cDNA< Z-DNA"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_10",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "hard",
+  "question": "Melting of DNA is the process of separation of the complementary strands by heating. Which of the following DNA molecules would melt at the lowest temperature ?",
+  "options": {
+   "a": "GGACGGCTACCGG CCTGCCGATGGCC",
+   "b": "CTACCGCGCTTCGG GATGGCGCGAAGCC",
+   "c": "ATGGAATTCTTACT TACCTTAAGAATGA",
+   "d": "GGGTCGGAACCCGT CCCAGCCTTGGGCA"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_11",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "medium",
+  "question": "Which of the following statements about the base composition of a double-stranded DNA molecule is true? (Each letter refers to the amount of that base in DNA):",
+  "options": {
+   "a": "A = T within each single strand",
+   "b": "C = G within each single strand",
+   "c": "A+T=C+G in the double-stranded molecule",
+   "d": "A/C = 1 in the double-stranded molecule."
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_12",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "easy",
+  "question": "Which one of these is true for DNA?",
+  "options": {
+   "a": "A—T, G—G",
+   "b": "A—C, T—C",
+   "c": "C—G, T—A",
+   "d": "G—C, A—T"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_13",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "medium",
+  "question": "Which of the nucleotide compositions will be possible, if DNA is double stranded ?",
+  "options": {
+   "a": "Only A, G and T",
+   "b": "Only A and T",
+   "c": "Only C and T",
+   "d": "Only A and G"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_14",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "easy",
+  "question": "The two polynucleotide chains in DNA are :",
+  "options": {
+   "a": "Semiconservative",
+   "b": "Parallel",
+   "c": "Discontinuous",
+   "d": "Antiparallel"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_15",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "hard",
+  "question": "Nucleotide arrangement in DNA can be seen by :",
+  "options": {
+   "a": "X-ray crystallography",
+   "b": "Electron microscope",
+   "c": "Ultra centrifuge",
+   "d": "Light microscope"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_16",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "hard",
+  "question": "If the sequence of bases on one strand of DNA is given as GCTAAGTCGAC, the sequence of bases in the complementary strand is written as:",
+  "options": {
+   "a": "CGATTCAGCTG",
+   "b": "CAGCTGAATCG",
+   "c": "GCTAAGTCGAC",
+   "d": "CGATTCAGCTG"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_17",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "medium",
+  "question": "The year 2003 was the 50th anniversary of :",
+  "options": {
+   "a": "Structure of DNA by Watson",
+   "b": "Discovery of cell by Robert Hooke",
+   "c": "Determination of structure of insulin",
+   "d": "Discovery of genetic code"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_18",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "medium",
+  "question": "Telomeres control the function of eukaryotic chromosomes because they :",
+  "options": {
+   "a": "Prevent chromosome loss",
+   "b": "Act as replications",
+   "c": "Are RNA transcription initiator",
+   "d": "Help chromosome pairing"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_19",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "hard",
+  "question": "Escherichia coli fully labelled with N is allowed to grow in 14 N medium. The two strands of DNA molecule of the first generation of bacteria will have:",
+  "options": {
+   "a": "Different density and do not resemble parent DNA",
+   "b": "Different density but resemble parent DNA",
+   "c": "Same density and resemble parent DNA",
+   "d": "Same density but do not resemble parent DNA."
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_20",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "medium",
+  "question": "If double stranded DNA with 15N undergoes replication twice in a normal medium, then which of the following is true?",
+  "options": {
+   "a": "Half of bacteria contain 15N in DNA",
+   "b": "All four contain 15N in DNA",
+   "c": "None contains 15N in DNA",
+   "d": "3/5 contains 15N in DNA"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_21",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "medium",
+  "question": "The enzyme that catalyzes the elongation of DNA chains in the 5'—3' direction and is template- directed is called DNA:",
+  "options": {
+   "a": "Polymerase",
+   "b": "Ligase",
+   "c": "Helicase",
+   "d": "Topoisomerase"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_22",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "medium",
+  "question": "Meselson and Stahl in their experiment on DNA replication used the technique of:",
+  "options": {
+   "a": "Autoradiography",
+   "b": "Starch-gel elecrophoresis",
+   "c": "Density-gradient centrifugation",
+   "d": "Crystallography"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_23",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "hard",
+  "question": "Replication of DNA in eukaryotes begins at :",
+  "options": {
+   "a": "One or more specific sites on a chromosome and proceeds unidirectionally",
+   "b": "One or more specific sites on a chromosome and proceeds bidirectionally",
+   "c": "Random sites along a chromosome and proceeds unidirectionally",
+   "d": "The ends of a chromosome and proceeds towards the centromere."
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_24",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "medium",
+  "question": "The rate of addition of nucleotides per second by DNA Pol III to a growing strand is :",
+  "options": {
+   "a": "20",
+   "b": "2000",
+   "c": "500",
+   "d": "1000"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_25",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "easy",
+  "question": "During DNA replication the bases of two strands separate by :",
+  "options": {
+   "a": "DNA polymerase",
+   "b": "Topoisomerase",
+   "c": "Helicase",
+   "d": "Gyrase"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_26",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "hard",
+  "question": "The separation of strands at the origin and ahead of the replication fork, helicase catalysis is:",
+  "options": {
+   "a": "ATP-independent",
+   "b": "Requires ATP for GC pairs only",
+   "c": "ATP-dependent",
+   "d": "Requires ATP for AT pairs only"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_27",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "easy",
+  "question": "DNA replication is aided by:",
+  "options": {
+   "a": "DNA polymerase only",
+   "b": "DNA ligase only",
+   "c": "Both (a) and (b)",
+   "d": "RNA polymerase"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_28",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "easy",
+  "question": "Semiconservative mode of DNA replication using 15 N was demonstrated by:",
+  "options": {
+   "a": "Messelson",
+   "b": "Taylor",
+   "c": "Messelson and Stahl",
+   "d": "Hershey and Chase"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_29",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "easy",
+  "question": "Semiconservative replication of DNA was proved by using:",
+  "options": {
+   "a": "P",
+   "b": "N",
+   "c": "S",
+   "d": "C"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_30",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "easy",
+  "question": "To form a continuous DNA molecule, the enzyme joins Okazaki fragments:",
+  "options": {
+   "a": "DNA polymerase",
+   "b": "Primase",
+   "c": "Ligase",
+   "d": "Helicase"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_31",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "medium",
+  "question": "DNA polymerases are generally used in DNA replication:",
+  "options": {
+   "a": "To cut the helix at certain places",
+   "b": "For proof reading",
+   "c": "Adding carbonyl compound",
+   "d": "Joining pieces of a DNA strand"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_32",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "easy",
+  "question": "Semiconservative replication of DNA was first demonstrated in:",
+  "options": {
+   "a": "Salmonella typhimurium",
+   "b": "Drosophila melanogaster",
+   "c": "Escherichia coli",
+   "d": "Streptococcus pneumoniae"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_33",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "medium",
+  "question": "The main enzyme responsible for new strand synthesis during DNA replication in prokaryotes is:",
+  "options": {
+   "a": "DNA polymerase I",
+   "b": "DNA polymerase II",
+   "c": "DNA polymerase III",
+   "d": "Topoisomerase"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_34",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "medium",
+  "question": "The okazaki fragments in DNA chain growth :",
+  "options": {
+   "a": "Polymerize in the 5’-to-3’ direction and explain 3’-to-5’ DNA replication",
+   "b": "Result in transcription",
+   "c": "Polymerize in the 3’-to-5’ direction and forms replication fork",
+   "d": "Prove semi-conservative nature of DNA replication"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_35",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "easy",
+  "question": "Beadle and Tatum are known for:",
+  "options": {
+   "a": "Gene theory",
+   "b": "Natural selection theory",
+   "c": "Mutation theory",
+   "d": "One gene-one enzyme theory"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_36",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "easy",
+  "question": "One gene-one enzyme relationship was established for the first time in:",
+  "options": {
+   "a": "Diplococcus pneumoniae",
+   "b": "Neurosprora crassa",
+   "c": "Salmonella typhimurium",
+   "d": "Escherichia coli"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_37",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "medium",
+  "question": "The enzyme in some RNA viruses which has RNA template to synthesize DNA is called:",
+  "options": {
+   "a": "RNA replicase",
+   "b": "Reverse transcriptase",
+   "c": "RNA polymerase",
+   "d": "Viral nuclease"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_38",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "easy",
+  "question": "The protein coding part of a gene is :",
+  "options": {
+   "a": "Muton",
+   "b": "Recon",
+   "c": "Exon",
+   "d": "Cistron"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_39",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "hard",
+  "question": "In split genes, the coding sequences are :",
+  "options": {
+   "a": "Introns",
+   "b": "Exons",
+   "c": "Operons",
+   "d": "Cistrons."
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_40",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "medium",
+  "question": "The segment of DNA which acts as the instruction manual for synthesis of the protein is :",
+  "options": {
+   "a": "Nucleoside",
+   "b": "Nucleotide",
+   "c": "Ribose",
+   "d": "Gene"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_41",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "hard",
+  "question": "Which of the following elements is NOT involved in the information transfer from DNA to finished protein?",
+  "options": {
+   "a": "Ribosome",
+   "b": "tRNA",
+   "c": "DNA polymerase",
+   "d": "RNA polymerase"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_42",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "medium",
+  "question": "The process of flow of genetic information from DNA to RNA or reverse is called:",
+  "options": {
+   "a": "Transversion",
+   "b": "Transcription",
+   "c": "Translation",
+   "d": "Replication"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_43",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "hard",
+  "question": "All of the following are types of post- transcriptional processing of RNA in the nucleus EXCEPT",
+  "options": {
+   "a": "The removal of intron segments",
+   "b": "Polyadenylation",
+   "c": "The addition of a 5' cap",
+   "d": "Nucleotide methylation"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_44",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "medium",
+  "question": "The flow of information from DNA to mRNA and then to protein is called:",
+  "options": {
+   "a": "Transcription",
+   "b": "Translation",
+   "c": "Gene expression",
+   "d": "Genetic code"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_45",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "easy",
+  "question": "DNA elements, which can switch their positions, are called:",
+  "options": {
+   "a": "Exons",
+   "b": "Introns",
+   "c": "Cistrons",
+   "d": "Transposons"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_46",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "hard",
+  "question": "During transcription, the strand not transcribed by the RNA polymerase is the :",
+  "options": {
+   "a": "Coding strand",
+   "b": "Noncoding strand",
+   "c": "Template strand",
+   "d": "Terminator strand"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_47",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "easy",
+  "question": "Central dogma was proposed by:",
+  "options": {
+   "a": "Beadle and Tatum",
+   "b": "Temin and Baltimore",
+   "c": "Klug",
+   "d": "F H C Crick."
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_48",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "medium",
+  "question": "The process by which DNA of a nucleus passes information to RNA is called :",
+  "options": {
+   "a": "Translocation",
+   "b": "Transcription",
+   "c": "Translation",
+   "d": "Transduction"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_49",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "medium",
+  "question": "Genetic information in a DNA molecule is stored in the form of :",
+  "options": {
+   "a": "Sequence of amino acids",
+   "b": "Sequence of nucleosides",
+   "c": "Sequence of nucleotides",
+   "d": "Sequence of sugar and phosphates"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_50",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "hard",
+  "question": "Which one of the following does not follow the central dogma of molecular biology ?",
+  "options": {
+   "a": "Chlamydomonas",
+   "b": "HIV",
+   "c": "Pea",
+   "d": "Mucor"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_51",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "medium",
+  "question": "Transcription begins when one of the following enzymes binds to a promoter site:",
+  "options": {
+   "a": "DNA plymerase",
+   "b": "RNA polymerase",
+   "c": "Helicase",
+   "d": "Gyrase"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_52",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "easy",
+  "question": "In eukaryotic cells, the RNA transcribed from DNA is called .",
+  "options": {
+   "a": "rRNA",
+   "b": "c-DNA",
+   "c": "Cistron",
+   "d": "heterogenous mRNA"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_53",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "medium",
+  "question": "Molecular basis of organ differentiation depends on the modulation in transcription by :",
+  "options": {
+   "a": "Anticodon",
+   "b": "RNA polymerase",
+   "c": "Ribosome",
+   "d": "Transcription factor"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_54",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "easy",
+  "question": "Teminism is the same as :",
+  "options": {
+   "a": "Translation",
+   "b": "DNA synthesis",
+   "c": "Transcription",
+   "d": "Reverse transcription"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_55",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "medium",
+  "question": "Removal of introns and joining the exons in a defined order in a transcript unit is called :",
+  "options": {
+   "a": "Capping",
+   "b": "Splicing",
+   "c": "Tailing",
+   "d": "Transformation"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_56",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "hard",
+  "question": "In an mRNA strand the sequence of bases is UGAGCAU. The sequence of bases in the DNA strand which served as template for the synthesis of mRNA strand was :",
+  "options": {
+   "a": "TCUCAGA",
+   "b": "CTGCTAT",
+   "c": "ACUCGUG",
+   "d": "ACTCGTA"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_57",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "medium",
+  "question": "The function of the rho protein is :",
+  "options": {
+   "a": "To help terminate translation",
+   "b": "To help RNA polymerase bind to the DNA",
+   "c": "To help RNA polymerase find a promoter",
+   "d": "To help terminate transcription"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_58",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "easy",
+  "question": "The process of translation refers to:",
+  "options": {
+   "a": "Ribosome synthesis",
+   "b": "Protein synthesis",
+   "c": "DNA synthesis",
+   "d": "RNA synthesis"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_59",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "easy",
+  "question": "The first codon discovered by Nirenberg and Mathaei was:",
+  "options": {
+   "a": "GGG",
+   "b": "CCC",
+   "c": "UUU",
+   "d": "AAA"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_60",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "medium",
+  "question": "In the genetic code, the number of codons used to code for all 20 aminoacids are :",
+  "options": {
+   "a": "60",
+   "b": "20",
+   "c": "64",
+   "d": "61"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_61",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "easy",
+  "question": "In eukaryotes, the initiation codon for protein synthesis is :",
+  "options": {
+   "a": "GUA",
+   "b": "GCA",
+   "c": "CCA",
+   "d": "AUG"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_62",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "easy",
+  "question": "Whose experiments discovered unequivocally that the genetic code is a “triplet” ?",
+  "options": {
+   "a": "Beadle and Tatum",
+   "b": "Nirenberg and Mathaei",
+   "c": "Hershey and Chase",
+   "d": "Morgan and Sturtevant"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_63",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "hard",
+  "question": "The one aspect which is not a salient feature of genetic code, is its being:",
+  "options": {
+   "a": "Universal",
+   "b": "Specific",
+   "c": "Degenerate",
+   "d": "Ambiguous"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_64",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "hard",
+  "question": "What is not true for genetic code ?",
+  "options": {
+   "a": "It is unambiguous",
+   "b": "A codon in mRNA is read in a non-contiguous fashion",
+   "c": "It is nearly universal",
+   "d": "It is degenerate"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_65",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "easy",
+  "question": "Termination of a polypeptide chain synthesis is brought about by :",
+  "options": {
+   "a": "UUG, UAG and UCG",
+   "b": "UAA, UAG and UGA",
+   "c": "UUG, UGC and UCA",
+   "d": "UCG, GCG and ACC"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_66",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "hard",
+  "question": "The sequence of m-RNA transcribed from a DNA piece having sequence of ATTGCATCT :",
+  "options": {
+   "a": "UAACGUAGA",
+   "b": "TAACTAGA",
+   "c": "UAAGCUAGA",
+   "d": "TAACTUGA"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_67",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "medium",
+  "question": "Amino acyl synthetase enzyme takes part in :",
+  "options": {
+   "a": "Attachment of mRNA of 50 S ribosome",
+   "b": "Transfer of activated amino acid to tRNA",
+   "c": "Activation of amino acid",
+   "d": "Hydrolysis of ATP to AMP"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_68",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "hard",
+  "question": "All of the following statements about the genetic code are correct EXCEPT:",
+  "options": {
+   "a": "More than one triplet codes for many of the amino acids.",
+   "b": "Some triplets code for more than one amino acid.",
+   "c": "The code is not exactly the same in all genetic systems.",
+   "d": "Some triplets do not code for any amino acid."
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_69",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "medium",
+  "question": "Because most of the amino acids are encoded by more than one codon, the genetic code is said to be:",
+  "options": {
+   "a": "Over lapping",
+   "b": "Wobbling",
+   "c": "Degenerate",
+   "d": "Generate"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_70",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "hard",
+  "question": "Triplet codon refers to the sequence of three bases on:",
+  "options": {
+   "a": "mRNA",
+   "b": "tRNA",
+   "c": "rRNA",
+   "d": "SnRNA"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_71",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "medium",
+  "question": "If t-RNA isolated from E.coli and m-RNA as well as ribosomes isolated from mouse liver cell are incubated with ATP and free amino acids, what may happen?",
+  "options": {
+   "a": "Protein specific to mouse will be synthesised",
+   "b": "Protein specific to E.coli will be synthesised",
+   "c": "Protein synthesis will not occur",
+   "d": "Charging of tRNA will occur"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_72",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "hard",
+  "question": "All of the following are possible forms of chromosomal aberration or mutation EXCEPT :",
+  "options": {
+   "a": "Deletion",
+   "b": "Duplication",
+   "c": "Inversion",
+   "d": "Transcription"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_73",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "medium",
+  "question": "What is true about ribosomes?",
+  "options": {
+   "a": "These are composed of ribonucleic acid and proteins.",
+   "b": "These are found only in eukaryotic cells.",
+   "c": "These are self - splicing introns of some RNAs.",
+   "d": "The prokaiyotic ribosomes are 80S, where “S” stands for sedimentation coefficient."
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_74",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "easy",
+  "question": "Most RNA in a eukaryotic cell is synthesised in:",
+  "options": {
+   "a": "Cytoplasm",
+   "b": "Nucleoplasm",
+   "c": "Nucleolus",
+   "d": "Ribosome"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_75",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "medium",
+  "question": "During protein synthesis, the peptide chain is synthesized in the:",
+  "options": {
+   "a": "Amino to carboxyl direction",
+   "b": "Carboxyl to amino direction",
+   "c": "Phosphoryl to hydroxy direction",
+   "d": "Hydroxy to phosphoryl direction"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_76",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "easy",
+  "question": "Polypeptide synthesis in a cell takes place in :",
+  "options": {
+   "a": "Chloroplast",
+   "b": "Mitochondria",
+   "c": "Chromoplast",
+   "d": "Ribosomes"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_77",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "hard",
+  "question": "All of the following are needed for protein synthesis EXCEPT",
+  "options": {
+   "a": "The attachment of mRNA, initiator tRNA, and initiation factors to the small subunit of a ribosome",
+   "b": "The association of the small and large subunits of a ribosome",
+   "c": "The recognition of codons on mRNA by anti-codons of tRNA",
+   "d": "Continuous RNA synthesis"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_78",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "hard",
+  "question": "In a polypeptide, the amino acid sequence is determined by the sequence of bases of :",
+  "options": {
+   "a": "mRNA",
+   "b": "cDNA",
+   "c": "rRNA",
+   "d": "tRNA"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_79",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "medium",
+  "question": "Which of the following bonds serves to link an amino acid to the terminal adenosine residue of transfer RNA?",
+  "options": {
+   "a": "Acyl bond",
+   "b": "Phosphodiester bond",
+   "c": "Hydrogen bond",
+   "d": "Peptide bond"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_80",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "medium",
+  "question": "Reverse transcriptase is also called:",
+  "options": {
+   "a": "RNA-dependent DNA polymerase",
+   "b": "RNA-dependent RNA polymerase",
+   "c": "DNA-dependent-RNA polymerase",
+   "d": "DNA-dependent DNA polymerase"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_81",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "medium",
+  "question": "Genes that are involved in turning on or off the transcription of structural genes are called :",
+  "options": {
+   "a": "Polymorphic genes",
+   "b": "Operator genes",
+   "c": "Represser genes",
+   "d": "Regulatory genes"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": [
+   "Book numbering was shifted around here (81 printed twice, 84 missing); questions re-aligned to key. Key (c) Represser genes vs \"regulatory genes\" - TEACHER CHECK"
+  ]
+ },
+ {
+  "id": "bot3_82",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "medium",
+  "question": "The DNA of E.coli is:",
+  "options": {
+   "a": "Single stranded and linear",
+   "b": "Single stranded and circular",
+   "c": "Double stranded and linear",
+   "d": "Double stranded and circular"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_83",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "hard",
+  "question": "If one strand of DNA has the nitrogenous base sequence as ATGTG, what would be the complementary RNA strand sequence?",
+  "options": {
+   "a": "UACAC",
+   "b": "AACTG",
+   "c": "ATCGU",
+   "d": "TTAGU"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_84",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "easy",
+  "question": "Which of the following is coded by the least number of codons?",
+  "options": {
+   "a": "Glycine",
+   "b": "Histidine",
+   "c": "Methionine",
+   "d": "Serine"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_85",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "medium",
+  "question": "Which one of the following triplet codons is correctly matched with its corresponding amino acid in protein synthesis or as ‘start’ or ‘stop’ codon?",
+  "options": {
+   "a": "UAC—tyrosine",
+   "b": "UCG—start",
+   "c": "UUU—stop",
+   "d": "UGU—Leucine"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_86",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "easy",
+  "question": "What does ‘‘Lac’’ refer to in what we call lac operon?",
+  "options": {
+   "a": "The number 1,00,000",
+   "b": "Lactose",
+   "c": "Lactase",
+   "d": "Lac insect"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot3_87",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Molecular Basis of Inheritance",
+  "topic": "Molecular Basis of Inheritance",
+  "difficulty": "easy",
+  "question": "In E.coli, the lac operon is induced by:",
+  "options": {
+   "a": "Promoter gene",
+   "b": "Lactose",
+   "c": "Operator gene",
+   "d": "Regulator gene"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot4_1",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Microbes in Human Welfare",
+  "topic": "Microbes in Human Welfare",
+  "difficulty": "easy",
+  "question": "The microbes are predominant forms in Kingdom :",
+  "options": {
+   "a": "Plantae and Animalia",
+   "b": "Monera and Protista",
+   "c": "Plantae and Fungi",
+   "d": "Fungi and Animals"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot4_2",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Microbes in Human Welfare",
+  "topic": "Microbes in Human Welfare",
+  "difficulty": "easy",
+  "question": "Which of the following microbes are unicellular eukaryotes ?",
+  "options": {
+   "a": "Bacteria",
+   "b": "Mycoplasma",
+   "c": "Protozoa",
+   "d": "Viruses"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot4_3",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Microbes in Human Welfare",
+  "topic": "Microbes in Human Welfare",
+  "difficulty": "easy",
+  "question": "Which are included in a cellular prokaryotic microbe ?",
+  "options": {
+   "a": "Bacteria",
+   "b": "Protozoa",
+   "c": "Chlamydomonas",
+   "d": "Ferns"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot4_4",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Microbes in Human Welfare",
+  "topic": "Microbes in Human Welfare",
+  "difficulty": "medium",
+  "question": "We prepared some artificial cultures for growing organisms. Which of the following will grow faster in a suitable culture ?",
+  "options": {
+   "a": "Fungi",
+   "b": "Plant tissue",
+   "c": "Animal tissue",
+   "d": "Bacteria"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot4_5",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Microbes in Human Welfare",
+  "topic": "Microbes in Human Welfare",
+  "difficulty": "medium",
+  "question": "Lactic acid bacteria can digest :",
+  "options": {
+   "a": "Casein",
+   "b": "Lactose",
+   "c": "Starch",
+   "d": "Milk Powder T - III HUMAN WELFARE up - A the choices given under each bit :"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot4_6",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Microbes in Human Welfare",
+  "topic": "Microbes in Human Welfare",
+  "difficulty": "medium",
+  "question": "Beside converting milk to curd, the Lactic acid bacterium increases its nutritional quality by increasing :",
+  "options": {
+   "a": "Vitamin C",
+   "b": "Vitamin D",
+   "c": "Vitamin B12",
+   "d": "Vitamin B2"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot4_7",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Microbes in Human Welfare",
+  "topic": "Microbes in Human Welfare",
+  "difficulty": "easy",
+  "question": "Which gas does give puffed up appearance to dough ?",
+  "options": {
+   "a": "CO2",
+   "b": "BO2",
+   "c": "H2",
+   "d": "CO"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot4_8",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Microbes in Human Welfare",
+  "topic": "Microbes in Human Welfare",
+  "difficulty": "easy",
+  "question": "Which organism is used in bread making ?",
+  "options": {
+   "a": "Lactobacillus",
+   "b": "Saccharomyces",
+   "c": "Mucor",
+   "d": "Candida"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot4_9",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Microbes in Human Welfare",
+  "topic": "Microbes in Human Welfare",
+  "difficulty": "medium",
+  "question": "Dosa and Idli are also fermented by bacteria. It appears puffed up due to the production of CO2 gas; where from these bacteria come from ?",
+  "options": {
+   "a": "Environment",
+   "b": "Rice",
+   "c": "Dal",
+   "d": "both rice & dal"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot4_10",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Microbes in Human Welfare",
+  "topic": "Microbes in Human Welfare",
+  "difficulty": "easy",
+  "question": "‘Roquefort Cheese’ is ripened by growing specific :",
+  "options": {
+   "a": "Bacterium",
+   "b": "Protozoa",
+   "c": "Algae",
+   "d": "Fungus"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot4_11",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Microbes in Human Welfare",
+  "topic": "Microbes in Human Welfare",
+  "difficulty": "medium",
+  "question": "What are the large vessels for production of beverages and antibiotics called ?",
+  "options": {
+   "a": "Flasks",
+   "b": "Containers",
+   "c": "Formenters",
+   "d": "Culture vessels"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot4_12",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Microbes in Human Welfare",
+  "topic": "Microbes in Human Welfare",
+  "difficulty": "medium",
+  "question": "Which is called bakers yeast ?",
+  "options": {
+   "a": "Saccharomyces cerevisiae",
+   "b": "Schizosaccharomyces octosporus",
+   "c": "Saccharomyces ludwigii",
+   "d": "Candida albicans"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot4_13",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Microbes in Human Welfare",
+  "topic": "Microbes in Human Welfare",
+  "difficulty": "easy",
+  "question": "Which is a nonalcoholic beverage?",
+  "options": {
+   "a": "Wine",
+   "b": "Beer",
+   "c": "Tea",
+   "d": "Whisky"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot4_14",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Microbes in Human Welfare",
+  "topic": "Microbes in Human Welfare",
+  "difficulty": "easy",
+  "question": "Which are undistiled alcoholic beverages ?",
+  "options": {
+   "a": "Wine and Beer",
+   "b": "Wine and Whisky",
+   "c": "Wine and Brandy",
+   "d": "Wine and Rum"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot4_15",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Microbes in Human Welfare",
+  "topic": "Microbes in Human Welfare",
+  "difficulty": "easy",
+  "question": "Which one is undistilled alcoholic beverage ?",
+  "options": {
+   "a": "Whisky",
+   "b": "Beer",
+   "c": "Rum",
+   "d": "Brandy"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot4_16",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Microbes in Human Welfare",
+  "topic": "Microbes in Human Welfare",
+  "difficulty": "hard",
+  "question": "Which organism could not grow in Alexander Fleming’s ..... petridish ?",
+  "options": {
+   "a": "Chlrococcus",
+   "b": "Streptococcus",
+   "c": "Streptobacillus",
+   "d": "Staphylococcus"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot4_17",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Microbes in Human Welfare",
+  "topic": "Microbes in Human Welfare",
+  "difficulty": "easy",
+  "question": "From which organism first antibiotic was obtained ?",
+  "options": {
+   "a": "Penicillium notatum",
+   "b": "Penicillium roqueforti",
+   "c": "Penicillium chrysogenum",
+   "d": "Saccharomyces cerevisiae"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot4_18",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Microbes in Human Welfare",
+  "topic": "Microbes in Human Welfare",
+  "difficulty": "medium",
+  "question": "Which are the two organisms needed to convert glucose to acetic acid ?",
+  "options": {
+   "a": "Yeast & Acetobacter",
+   "b": "Acetobacter & Aspergillus",
+   "c": "Aspergillus & Lactobacillus",
+   "d": "Lactobacillus & Clostridium"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot4_19",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Microbes in Human Welfare",
+  "topic": "Microbes in Human Welfare",
+  "difficulty": "easy",
+  "question": "Which enzymes are used for clarification of fruit juice ?",
+  "options": {
+   "a": "Lipase & Amylase",
+   "b": "Protease & Pectinase",
+   "c": "Pectinase & Amylase",
+   "d": "Amylase & Protease"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot4_20",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Microbes in Human Welfare",
+  "topic": "Microbes in Human Welfare",
+  "difficulty": "easy",
+  "question": "Which enzymes are used to remove stains from clothes ?",
+  "options": {
+   "a": "Lipase",
+   "b": "Nuclease",
+   "c": "Protease",
+   "d": "Ligase"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot4_21",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Microbes in Human Welfare",
+  "topic": "Microbes in Human Welfare",
+  "difficulty": "easy",
+  "question": "Which enzyme is called clot buster",
+  "options": {
+   "a": "Fructokinase",
+   "b": "Streptokinase",
+   "c": "Ribonuclease",
+   "d": "Nuclease"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot4_22",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Microbes in Human Welfare",
+  "topic": "Microbes in Human Welfare",
+  "difficulty": "easy",
+  "question": "Which immunosuppressive agent is used in organ transplantation ?",
+  "options": {
+   "a": "Streptokinase",
+   "b": "Cyclosporine",
+   "c": "Penicillum",
+   "d": "Streptomycin"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot4_23",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Microbes in Human Welfare",
+  "topic": "Microbes in Human Welfare",
+  "difficulty": "easy",
+  "question": "Which organism is commercially used for producing blood- cholesterol lowering agent?",
+  "options": {
+   "a": "Trichoderma polysporum",
+   "b": "Clostridium butylicum",
+   "c": "Monascus purpureus",
+   "d": "Aspergillus niger"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot4_24",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Microbes in Human Welfare",
+  "topic": "Microbes in Human Welfare",
+  "difficulty": "easy",
+  "question": "Which are removed in primary treatment of waste water ?",
+  "options": {
+   "a": "Floating debris & grit",
+   "b": "Gases & chemicals",
+   "c": "Biogas & oxygen",
+   "d": "Floating debris & gases"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot4_25",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Microbes in Human Welfare",
+  "topic": "Microbes in Human Welfare",
+  "difficulty": "medium",
+  "question": "What are the processes that constitute primary treatment of waste water ?",
+  "options": {
+   "a": "Gasification & microbial treatment",
+   "b": "Filtration & Sedimentation",
+   "c": "Anaerobic fermentation & lowering BOD",
+   "d": "Anaerobic & aerobic fermentation"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot4_26",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Microbes in Human Welfare",
+  "topic": "Microbes in Human Welfare",
+  "difficulty": "easy",
+  "question": "In which treatment of waste water are microorganisms grown.",
+  "options": {
+   "a": "Primary",
+   "b": "Secondary",
+   "c": "Tertiary",
+   "d": "Quaternery"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot4_27",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Microbes in Human Welfare",
+  "topic": "Microbes in Human Welfare",
+  "difficulty": "easy",
+  "question": "Which condition has high polluting potential ?",
+  "options": {
+   "a": "BOD more",
+   "b": "BOD less",
+   "c": "Sludge material completely accumulated",
+   "d": "Maximum growth of microorganisms"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot4_28",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Microbes in Human Welfare",
+  "topic": "Microbes in Human Welfare",
+  "difficulty": "medium",
+  "question": "What are the soft, wet mud or semi solid viscous mixture liquid that arise due to treatment by sewage called :",
+  "options": {
+   "a": "flocs",
+   "b": "sludge",
+   "c": "pulp",
+   "d": "compost"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot4_29",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Microbes in Human Welfare",
+  "topic": "Microbes in Human Welfare",
+  "difficulty": "easy",
+  "question": "What is the major component of biogas ?",
+  "options": {
+   "a": "CO2",
+   "b": "CO",
+   "c": "Sulphur",
+   "d": "CH4"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot4_30",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Microbes in Human Welfare",
+  "topic": "Microbes in Human Welfare",
+  "difficulty": "medium",
+  "question": "During secondary treatment of waste water when masses of bacteria get associated with fungal filaments forming a mesh like structure, what are they called ?",
+  "options": {
+   "a": "Colony",
+   "b": "Sludge",
+   "c": "Flocs",
+   "d": "Slurry"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot4_31",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Microbes in Human Welfare",
+  "topic": "Microbes in Human Welfare",
+  "difficulty": "medium",
+  "question": "Some bacteria produce CO2 gas as end product during fermentation while others produce predominantly methane. The type of gas production depends on :",
+  "options": {
+   "a": "Microbes and organic substrates",
+   "b": "Temperature and organic substrates",
+   "c": "Temeprature and microbes",
+   "d": "Substrate and pH"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot4_32",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Microbes in Human Welfare",
+  "topic": "Microbes in Human Welfare",
+  "difficulty": "easy",
+  "question": "What is the main gas component in cow dung ?",
+  "options": {
+   "a": "CO2",
+   "b": "O2",
+   "c": "NO",
+   "d": "CH4"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot4_33",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Microbes in Human Welfare",
+  "topic": "Microbes in Human Welfare",
+  "difficulty": "hard",
+  "question": "Which is not a character of chemical control agents ?",
+  "options": {
+   "a": "Toxic chemicals used",
+   "b": "Polluting to the environment",
+   "c": "Biochemical agents",
+   "d": "Comprises of pesticides and insecticides"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot4_34",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Microbes in Human Welfare",
+  "topic": "Microbes in Human Welfare",
+  "difficulty": "hard",
+  "question": "Which one is not associated with bicontrol of pests ?",
+  "options": {
+   "a": "Control of pests by natural predation",
+   "b": "Biodiversity is maintained in the field",
+   "c": "Chemicals are introduced to control pests",
+   "d": "Pests are not eradicated but are managed by complex system of checks & balances"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot4_35",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Microbes in Human Welfare",
+  "topic": "Microbes in Human Welfare",
+  "difficulty": "medium",
+  "question": "What is the disadvantage of use of chemical pesticides in agriculture ?",
+  "options": {
+   "a": "enhances crop production",
+   "b": "completely elimates the harmful pests",
+   "c": "crop plants grow profusely",
+   "d": "useful and harmful life forms are killed indiscriminately"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot4_36",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Microbes in Human Welfare",
+  "topic": "Microbes in Human Welfare",
+  "difficulty": "medium",
+  "question": "Gene from which organism is introduced by genetic engineering in Bt-Cotton Plant ?",
+  "options": {
+   "a": "Trichoderma viridiae",
+   "b": "Baculoviruses",
+   "c": "Bacillus thuringiensis",
+   "d": "Nucleopolyhedro virus"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot4_37",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Microbes in Human Welfare",
+  "topic": "Microbes in Human Welfare",
+  "difficulty": "hard",
+  "question": "Which one is not related to Baculovirus?",
+  "options": {
+   "a": "Species specific",
+   "b": "Broad spectrum insecticidal action",
+   "c": "Narrow spectrum insecticidal action",
+   "d": "Included in genus Nucleopolyhedro virus"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot4_38",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Microbes in Human Welfare",
+  "topic": "Microbes in Human Welfare",
+  "difficulty": "medium",
+  "question": "What are the main sources of biofertilizers ?",
+  "options": {
+   "a": "Plants, animals and their debris",
+   "b": "Bacteria, fungi and cyanobacteria",
+   "c": "Bacteria, plants and animals",
+   "d": "Fungi, Bacteria and animals"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot4_39",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Microbes in Human Welfare",
+  "topic": "Microbes in Human Welfare",
+  "difficulty": "easy",
+  "question": "Which one of the following shows symbiotic association with legume?",
+  "options": {
+   "a": "Azospirillus",
+   "b": "Azotobacter",
+   "c": "Costridium",
+   "d": "Rhizobium"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot4_40",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Microbes in Human Welfare",
+  "topic": "Microbes in Human Welfare",
+  "difficulty": "easy",
+  "question": "What is main function of genus Glomus in the mycorrhizal association ?",
+  "options": {
+   "a": "absorbs phosphorus",
+   "b": "resistance to root bone pathogens",
+   "c": "salinity tolerance",
+   "d": "drought tolerance"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot4_41",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Microbes in Human Welfare",
+  "topic": "Microbes in Human Welfare",
+  "difficulty": "easy",
+  "question": "Which organism is used as the biofertilizer in paddy fields ?",
+  "options": {
+   "a": "Fungi",
+   "b": "Bacteria",
+   "c": "Viruses",
+   "d": "Cyanobacteria"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot5_1",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Organisms and Environment",
+  "topic": "Organisms and Environment",
+  "difficulty": "medium",
+  "question": "Which is the correct order of the biological organisations ?",
+  "options": {
+   "a": "Individuals  Ecosystems  Population  Communities  Biomas",
+   "b": "Individuals  Population  Communities  Ecosystem  Biomas",
+   "c": "Individuals  Community  Population  Ecosystem  Biomas",
+   "d": "Individuals  Biomass  Population  Ecosystem  Communities"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot5_2",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Organisms and Environment",
+  "topic": "Organisms and Environment",
+  "difficulty": "hard",
+  "question": "Ecology at the organism level does not essentially include.",
+  "options": {
+   "a": "Physiological ecology",
+   "b": "Adaptation to the environment for survival",
+   "c": "Adaptation for reproduction",
+   "d": "Formation of habitats."
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot5_3",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Organisms and Environment",
+  "topic": "Organisms and Environment",
+  "difficulty": "hard",
+  "question": "Which is not a major biome ?",
+  "options": {
+   "a": "Compost pit",
+   "b": "Desert",
+   "c": "Rain-forest",
+   "d": "Tundra T-V ND ENVIRONMENT up - A the choices given under each bit :"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot5_4",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Organisms and Environment",
+  "topic": "Organisms and Environment",
+  "difficulty": "medium",
+  "question": "Which one leads to formation of wide variety of habitats within each biome?",
+  "options": {
+   "a": "Orbiting of our planet",
+   "b": "Occurence of distinct seasons",
+   "c": "Regional and local variation",
+   "d": "Annual precipitation"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot5_5",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Organisms and Environment",
+  "topic": "Organisms and Environment",
+  "difficulty": "hard",
+  "question": "Which is not a physico-chemical component of a habitat ?",
+  "options": {
+   "a": "Water",
+   "b": "Predator",
+   "c": "Light",
+   "d": "Soil"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot5_6",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Organisms and Environment",
+  "topic": "Organisms and Environment",
+  "difficulty": "easy",
+  "question": "Which is a biotic component of a habitat ?",
+  "options": {
+   "a": "Water",
+   "b": "Railfall",
+   "c": "Parasite",
+   "d": "Light"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot5_7",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Organisms and Environment",
+  "topic": "Organisms and Environment",
+  "difficulty": "easy",
+  "question": "Which is an abiotic component of the habitat ?",
+  "options": {
+   "a": "Producer",
+   "b": "Pathogen",
+   "c": "Parasite",
+   "d": "Water"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot5_8",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Organisms and Environment",
+  "topic": "Organisms and Environment",
+  "difficulty": "easy",
+  "question": "Where can average temperature be >1000C ?",
+  "options": {
+   "a": "Thermal springs",
+   "b": "Tundra",
+   "c": "Arctic regional",
+   "d": "Polar region"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot5_9",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Organisms and Environment",
+  "topic": "Organisms and Environment",
+  "difficulty": "medium",
+  "question": "The organisms which can adopt to wide range of temperature are called :",
+  "options": {
+   "a": "Isothermal",
+   "b": "Stenothermal",
+   "c": "Heterothermal",
+   "d": "Eurythermal"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot5_10",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Organisms and Environment",
+  "topic": "Organisms and Environment",
+  "difficulty": "easy",
+  "question": "Where can you find temperature more than 500C ?",
+  "options": {
+   "a": "Poles",
+   "b": "Tropical deserts",
+   "c": "High altitudes of mounains",
+   "d": "Arctic regions"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot5_11",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Organisms and Environment",
+  "topic": "Organisms and Environment",
+  "difficulty": "medium",
+  "question": "Which factor does influence the life of a fresh water organism in sea water?",
+  "options": {
+   "a": "Nutrient supply",
+   "b": "pH",
+   "c": "Water availability",
+   "d": "Less salt supply"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot5_12",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Organisms and Environment",
+  "topic": "Organisms and Environment",
+  "difficulty": "easy",
+  "question": "In land habitats the Sun is the source of both",
+  "options": {
+   "a": "Energy and temperature",
+   "b": "Temperatue and wind",
+   "c": "Energy and food",
+   "d": "Energy and light"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot5_13",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Organisms and Environment",
+  "topic": "Organisms and Environment",
+  "difficulty": "medium",
+  "question": "Photoperiod denotes :",
+  "options": {
+   "a": "light intensity and light quality",
+   "b": "light intensity and its duration",
+   "c": "light duration and period",
+   "d": "Day and night duration"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot5_14",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Organisms and Environment",
+  "topic": "Organisms and Environment",
+  "difficulty": "hard",
+  "question": "Photoperiod in plants is not associated with :",
+  "options": {
+   "a": "Flowering",
+   "b": "Photosynthesis",
+   "c": "Reproduction",
+   "d": "Pigment formation"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot5_15",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Organisms and Environment",
+  "topic": "Organisms and Environment",
+  "difficulty": "medium",
+  "question": "The process by which the living organisms maintain constant body temperature is called :",
+  "options": {
+   "a": "Osmoregulation",
+   "b": "Thermoregulation",
+   "c": "Eurythermy",
+   "d": "Stenothermy"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot5_16",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Organisms and Environment",
+  "topic": "Organisms and Environment",
+  "difficulty": "hard",
+  "question": "The organisms which can not maintain their constant internal body temperature are known as :",
+  "options": {
+   "a": "Poikilotherms",
+   "b": "Regulators",
+   "c": "Heterothermal",
+   "d": "Escapees"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot5_17",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Organisms and Environment",
+  "topic": "Organisms and Environment",
+  "difficulty": "hard",
+  "question": "Which group of organisims do not have the mechanism to maintain constant body temperature ?",
+  "options": {
+   "a": "Humans",
+   "b": "Birds",
+   "c": "Arctic animals",
+   "d": "Plants"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot5_18",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Organisms and Environment",
+  "topic": "Organisms and Environment",
+  "difficulty": "medium",
+  "question": "The phenomenon of temporary departure from stressful habitat to more hospitable area is called :",
+  "options": {
+   "a": "Nudation",
+   "b": "Migration",
+   "c": "Immigration",
+   "d": "Mortality"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot5_19",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Organisms and Environment",
+  "topic": "Organisms and Environment",
+  "difficulty": "medium",
+  "question": "Dormancy of seeds means :",
+  "options": {
+   "a": "Suspension of metabolic activity",
+   "b": "Death of plant propaganda",
+   "c": "Formation of thick walled spores",
+   "d": "Instant germination"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot5_20",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Organisms and Environment",
+  "topic": "Organisms and Environment",
+  "difficulty": "easy",
+  "question": "What can winter sleep of bears be called ?",
+  "options": {
+   "a": "Aestivation",
+   "b": "Migration",
+   "c": "Hiberation",
+   "d": "Diapause"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot5_21",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Organisms and Environment",
+  "topic": "Organisms and Environment",
+  "difficulty": "easy",
+  "question": "In which case diapause is seen ?",
+  "options": {
+   "a": "Fresh water zooplanktons",
+   "b": "Phytoplanktons",
+   "c": "Mesophytes",
+   "d": "Xerophytes"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot5_22",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Organisms and Environment",
+  "topic": "Organisms and Environment",
+  "difficulty": "medium",
+  "question": "Indicate the unrelated pair ?",
+  "options": {
+   "a": "Bacteria - Zoospore",
+   "b": "Frog - Hibernation",
+   "c": "Snails - Aestivation",
+   "d": "Fresh water zooplanktons - Diapause"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot5_23",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Organisms and Environment",
+  "topic": "Organisms and Environment",
+  "difficulty": "easy",
+  "question": "Which is a physiological adaptation of the xerophytes ?",
+  "options": {
+   "a": "Thick cuticle",
+   "b": "Sunken stomata",
+   "c": "CAM",
+   "d": "Well developed vascular system"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot5_24",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Organisms and Environment",
+  "topic": "Organisms and Environment",
+  "difficulty": "hard",
+  "question": "Which is not relaed to a population?",
+  "options": {
+   "a": "Constitute a species",
+   "b": "Live in a particular geographical area",
+   "c": "Interbreed freely",
+   "d": "Belong to different species"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot5_25",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Organisms and Environment",
+  "topic": "Organisms and Environment",
+  "difficulty": "easy",
+  "question": "Which are the attributes of a population?",
+  "options": {
+   "a": "Birth and death",
+   "b": "Birth and death rate",
+   "c": "Birth rate and death",
+   "d": "Birth rate and death rate"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot5_26",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Organisms and Environment",
+  "topic": "Organisms and Environment",
+  "difficulty": "hard",
+  "question": "Which is not an attribute of a population ?",
+  "options": {
+   "a": "Migration",
+   "b": "Birth rate",
+   "c": "Death rate",
+   "d": "Sex ratio"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot5_27",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Organisms and Environment",
+  "topic": "Organisms and Environment",
+  "difficulty": "easy",
+  "question": "The size of a population is impacted by:",
+  "options": {
+   "a": "Prey organisms",
+   "b": "Predater organisms",
+   "c": "Autotrophs",
+   "d": "Number of Industries"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot5_28",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Organisms and Environment",
+  "topic": "Organisms and Environment",
+  "difficulty": "medium",
+  "question": "Which are the two main factors that contribute towards population growth?",
+  "options": {
+   "a": "Natality and mortality",
+   "b": "Natality and immigration",
+   "c": "Mortality and migration",
+   "d": "Mortality and immigration"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot5_29",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Organisms and Environment",
+  "topic": "Organisms and Environment",
+  "difficulty": "easy",
+  "question": "How does population density increase rapidly in a new habitat ?",
+  "options": {
+   "a": "Birth rate",
+   "b": "Death rate",
+   "c": "Immigration",
+   "d": "Emigration"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot5_30",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Organisms and Environment",
+  "topic": "Organisms and Environment",
+  "difficulty": "easy",
+  "question": "Under which condition can population growth be exponential?",
+  "options": {
+   "a": "famine",
+   "b": "limited resource",
+   "c": "unlimited resource",
+   "d": "small habitat"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot5_31",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Organisms and Environment",
+  "topic": "Organisms and Environment",
+  "difficulty": "medium",
+  "question": "What does carrying capacity of a habitat denote ?",
+  "options": {
+   "a": "Unlimited resource",
+   "b": "Maximum number of individuals of a population, than can be accomodated",
+   "c": "Competition among population",
+   "d": "Various restraints for a population"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot5_32",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Organisms and Environment",
+  "topic": "Organisms and Environment",
+  "difficulty": "easy",
+  "question": "To form a biological community, the organisms that interact together are :",
+  "options": {
+   "a": "Plants, animals and microbes",
+   "b": "Plants and microbes",
+   "c": "Animals and microbes",
+   "d": "Plants and animals"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot5_33",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Organisms and Environment",
+  "topic": "Organisms and Environment",
+  "difficulty": "easy",
+  "question": "When both organisms benefit in an assocaition, it is called :",
+  "options": {
+   "a": "Parasitism",
+   "b": "Mutualism",
+   "c": "Predation",
+   "d": "Competition"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot5_34",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Organisms and Environment",
+  "topic": "Organisms and Environment",
+  "difficulty": "medium",
+  "question": "When one organism lives at the cost of other, it is called :",
+  "options": {
+   "a": "Mutualism",
+   "b": "Commensalism",
+   "c": "Parasitism",
+   "d": "Amensalism"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot5_35",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Organisms and Environment",
+  "topic": "Organisms and Environment",
+  "difficulty": "medium",
+  "question": "What is the association in which one organism is benefited and other neither benefited nor harmed called?",
+  "options": {
+   "a": "Mutualism",
+   "b": "Parasitism",
+   "c": "Commensalism",
+   "d": "Predation"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot5_36",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Organisms and Environment",
+  "topic": "Organisms and Environment",
+  "difficulty": "medium",
+  "question": "When in an association, one species is harmed whereas other is unaffected, it is called :",
+  "options": {
+   "a": "Commensalism",
+   "b": "Amensalism",
+   "c": "Parasitism",
+   "d": "Predation"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot5_37",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Organisms and Environment",
+  "topic": "Organisms and Environment",
+  "difficulty": "medium",
+  "question": "When a non-native, foot spreading exotic species is introduced to a new habitat, it is called?",
+  "options": {
+   "a": "Indigenous species",
+   "b": "Natural species",
+   "c": "Invasive species",
+   "d": "Seral Community"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot5_38",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Organisms and Environment",
+  "topic": "Organisms and Environment",
+  "difficulty": "medium",
+  "question": "By which mechanism does some animal species change its colour to escape from thepredator ?",
+  "options": {
+   "a": "Camouflage",
+   "b": "Mimicry",
+   "c": "Chemical emission",
+   "d": "Presence of spines"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot5_39",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Organisms and Environment",
+  "topic": "Organisms and Environment",
+  "difficulty": "medium",
+  "question": "Superficial resemblance of one organism to another or to the natural objects among which it secures concealment, protection from predation is called:",
+  "options": {
+   "a": "Camoutlage",
+   "b": "Concealment",
+   "c": "Mimicry",
+   "d": "Chemical omission"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot5_40",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Organisms and Environment",
+  "topic": "Organisms and Environment",
+  "difficulty": "easy",
+  "question": "Which type of defence system is seen with spines of Opuntia ?",
+  "options": {
+   "a": "Morophological",
+   "b": "Chemical",
+   "c": "Biochemical",
+   "d": "Physiological"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot5_41",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Organisms and Environment",
+  "topic": "Organisms and Environment",
+  "difficulty": "medium",
+  "question": "Homeostasis is",
+  "options": {
+   "a": "tendency to change with change in environment",
+   "b": "tendency to resist change",
+   "c": "disturbance in regulatory control",
+   "d": "plants and animals living together"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot5_42",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Organisms and Environment",
+  "topic": "Organisms and Environment",
+  "difficulty": "easy",
+  "question": "The size of population tells us lot about",
+  "options": {
+   "a": "Environment",
+   "b": "Sex-ratio",
+   "c": "Age pyramid",
+   "d": "Habitat"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot5_43",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Organisms and Environment",
+  "topic": "Organisms and Environment",
+  "difficulty": "medium",
+  "question": "Under limited resources the competitively superior species will eventually eliminate the other species, what is that condition called ?",
+  "options": {
+   "a": "Competitive inclusion",
+   "b": "Parasitism",
+   "c": "Competitive predation",
+   "d": "Competitive exclusion"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot5_44",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Organisms and Environment",
+  "topic": "Organisms and Environment",
+  "difficulty": "medium",
+  "question": "Due to the presence of a competitively superior species, the distribution of one species becomes restricted to a small geographical area. But once the dominant species experimentally removed, the distribution of othre species get, dramatically increased. What is that condition ecologically termed ?",
+  "options": {
+   "a": "Competitive exclusion",
+   "b": "Competitive inclusion",
+   "c": "Competitive release",
+   "d": "Competitive predation"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot5_45",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Organisms and Environment",
+  "topic": "Organisms and Environment",
+  "difficulty": "medium",
+  "question": "If two species compete for the same resource, they could avoid competition by changing their habit, What is that condition called :",
+  "options": {
+   "a": "Resource partitioning",
+   "b": "Resource distribution",
+   "c": "Resource sharing",
+   "d": "Resource competition"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot5_46",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Organisms and Environment",
+  "topic": "Organisms and Environment",
+  "difficulty": "hard",
+  "question": "Which one may not be considered as an ectoparasite ?",
+  "options": {
+   "a": "grows on the host and draws nourishment",
+   "b": "only harbours the host",
+   "c": "growth and reproduction process completed and host becomes weak",
+   "d": "lives at the cost of host"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot5_47",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Organisms and Environment",
+  "topic": "Organisms and Environment",
+  "difficulty": "medium",
+  "question": "Certain birds lay eggs in the nest of some other birds and the eggs are incubated there. What is the parasitism called here ?",
+  "options": {
+   "a": "Ectoparasitism",
+   "b": "Endoparasitism",
+   "c": "Competitive parasitism",
+   "d": "Brood parasitism"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot5_48",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Organisms and Environment",
+  "topic": "Organisms and Environment",
+  "difficulty": "medium",
+  "question": "What is the function of fungal compenent in mycorrhizae association?",
+  "options": {
+   "a": "absorption of water and mineral",
+   "b": "reproduction",
+   "c": "participate in metabolism",
+   "d": "photosynthetic production of sugars"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot6_1",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 6,
+  "chapter": "Biodiversity",
+  "topic": "Biodiversity",
+  "difficulty": "easy",
+  "question": "Which of the following countries has the highest biodiversity ?",
+  "options": {
+   "a": "Brazil",
+   "b": "Sout Africa",
+   "c": "Russia",
+   "d": "India"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot6_2",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 6,
+  "chapter": "Biodiversity",
+  "topic": "Biodiversity",
+  "difficulty": "medium",
+  "question": "What percentage of the earth’s land area do the biodiversity hotspots host their ecosystems on ?",
+  "options": {
+   "a": "12",
+   "b": "16",
+   "c": "Less than 5",
+   "d": "More than 20"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot6_3",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 6,
+  "chapter": "Biodiversity",
+  "topic": "Biodiversity",
+  "difficulty": "easy",
+  "question": "Hotspots are biogeographic regions with significant levels of :",
+  "options": {
+   "a": "pollution",
+   "b": "human activity",
+   "c": "human population",
+   "d": "biodiversity threatened with destruction"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot6_4",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 6,
+  "chapter": "Biodiversity",
+  "topic": "Biodiversity",
+  "difficulty": "medium",
+  "question": "Which one of the following is a biodiversity hotspot in India ?",
+  "options": {
+   "a": "Sundarbans",
+   "b": "Gangetic plain",
+   "c": "Western Ghats",
+   "d": "Eastern Ghats T-V VERSITY up - A the choices given under each bit :"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot6_5",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 6,
+  "chapter": "Biodiversity",
+  "topic": "Biodiversity",
+  "difficulty": "easy",
+  "question": "Which one is an extinct species ?",
+  "options": {
+   "a": "Red Panda",
+   "b": "Dodo",
+   "c": "One horned rhinoceros",
+   "d": "Sparrow"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot6_6",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 6,
+  "chapter": "Biodiversity",
+  "topic": "Biodiversity",
+  "difficulty": "medium",
+  "question": "Alpha diversity refers to :",
+  "options": {
+   "a": "diversity of species within a community",
+   "b": "diversity of species among communities",
+   "c": "diversity across wider geographical range.",
+   "d": "genetic diversity"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot6_7",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 6,
+  "chapter": "Biodiversity",
+  "topic": "Biodiversity",
+  "difficulty": "easy",
+  "question": "Red data book conains data of :",
+  "options": {
+   "a": "all plant species",
+   "b": "all animal species",
+   "c": "economically important species",
+   "d": "threatened speices"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot6_8",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 6,
+  "chapter": "Biodiversity",
+  "topic": "Biodiversity",
+  "difficulty": "easy",
+  "question": "Which one is the first biosphere reserve in India ?",
+  "options": {
+   "a": "Similipal",
+   "b": "Nilgiri",
+   "c": "Panna",
+   "d": "Manas"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot6_9",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 6,
+  "chapter": "Biodiversity",
+  "topic": "Biodiversity",
+  "difficulty": "easy",
+  "question": "How many biosphere reserves are there in India ?",
+  "options": {
+   "a": "10",
+   "b": "12",
+   "c": "15",
+   "d": "18"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot6_10",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 6,
+  "chapter": "Biodiversity",
+  "topic": "Biodiversity",
+  "difficulty": "easy",
+  "question": "How many biosphere reserves of India ae connected to the world network?",
+  "options": {
+   "a": "05",
+   "b": "10",
+   "c": "12",
+   "d": "15"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot6_11",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 6,
+  "chapter": "Biodiversity",
+  "topic": "Biodiversity",
+  "difficulty": "easy",
+  "question": "Which one is the largest biosphere reserve in India ?",
+  "options": {
+   "a": "Gulf of Mannar",
+   "b": "Sundarbans",
+   "c": "Panchmarhi",
+   "d": "Great Rann of Kutch"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot6_12",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 6,
+  "chapter": "Biodiversity",
+  "topic": "Biodiversity",
+  "difficulty": "easy",
+  "question": "Which one is the smallest biosphere reserve in India ?",
+  "options": {
+   "a": "Dihang - Dibang",
+   "b": "Nokrek",
+   "c": "Dibru - Saikhowa",
+   "d": "Nanda Devi"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot6_13",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 6,
+  "chapter": "Biodiversity",
+  "topic": "Biodiversity",
+  "difficulty": "easy",
+  "question": "Which one is the lone biosphere reserve is Odisha?",
+  "options": {
+   "a": "Similipal",
+   "b": "Bhitarkanika",
+   "c": "Chilka",
+   "d": "Mahendragiri"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot6_14",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 6,
+  "chapter": "Biodiversity",
+  "topic": "Biodiversity",
+  "difficulty": "medium",
+  "question": "IUCN is also called as :",
+  "options": {
+   "a": "World Conservation Consortium",
+   "b": "World Conservation Union",
+   "c": "Worldwide Conservation Union",
+   "d": "Worldwide Fund for Nature"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot6_15",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 6,
+  "chapter": "Biodiversity",
+  "topic": "Biodiversity",
+  "difficulty": "easy",
+  "question": "Which of the following region has maximum diversity ?",
+  "options": {
+   "a": "mangroves",
+   "b": "temperate rain forest",
+   "c": "taiga",
+   "d": "coral reefs"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot6_16",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 6,
+  "chapter": "Biodiversity",
+  "topic": "Biodiversity",
+  "difficulty": "easy",
+  "question": "IUCN headquarters is at :",
+  "options": {
+   "a": "Morges, Switzerland",
+   "b": "Paris, France",
+   "c": "Viena, Austria",
+   "d": "New York, USA"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot6_17",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 6,
+  "chapter": "Biodiversity",
+  "topic": "Biodiversity",
+  "difficulty": "easy",
+  "question": "Dodo is :",
+  "options": {
+   "a": "endangered",
+   "b": "critically endangered",
+   "c": "rare",
+   "d": "extinct"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot6_18",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 6,
+  "chapter": "Biodiversity",
+  "topic": "Biodiversity",
+  "difficulty": "easy",
+  "question": "Approximately half of the total world speceis are present in the:",
+  "options": {
+   "a": "tropical rain forest",
+   "b": "temperate rain forest",
+   "c": "temperate deciduous forest",
+   "d": "coral reefs"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot6_19",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 6,
+  "chapter": "Biodiversity",
+  "topic": "Biodiversity",
+  "difficulty": "medium",
+  "question": "Biodiversity",
+  "options": {
+   "a": "increases towards the equator",
+   "b": "decreases towards the equator",
+   "c": "remains the same throughout the planet",
+   "d": "has no effect on change in latitude"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot6_20",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 6,
+  "chapter": "Biodiversity",
+  "topic": "Biodiversity",
+  "difficulty": "easy",
+  "question": "Conservation within natural habitat is :",
+  "options": {
+   "a": "insitu conservation",
+   "b": "exsitu conservation",
+   "c": "invivo conservation",
+   "d": "exvivo conservation"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot6_21",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 6,
+  "chapter": "Biodiversity",
+  "topic": "Biodiversity",
+  "difficulty": "medium",
+  "question": "Which one is the largest living primate found in Congo, which is declared critically endangered by IUCN?",
+  "options": {
+   "a": "Western Gorilla",
+   "b": "Bornean Orangutang",
+   "c": "Sumatran Orangutang",
+   "d": "Eastern Gorilla"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot6_22",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 6,
+  "chapter": "Biodiversity",
+  "topic": "Biodiversity",
+  "difficulty": "easy",
+  "question": "Which one is an example of ex-situ conservation ?",
+  "options": {
+   "a": "Sacred groves",
+   "b": "Wildlife sanctuary",
+   "c": "Seed bank",
+   "d": "National Park"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot6_23",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 6,
+  "chapter": "Biodiversity",
+  "topic": "Biodiversity",
+  "difficulty": "easy",
+  "question": "Which has the maximum genetic diversity in India?",
+  "options": {
+   "a": "Potato",
+   "b": "Tea",
+   "c": "Mango",
+   "d": "Teak"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot6_24",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 6,
+  "chapter": "Biodiversity",
+  "topic": "Biodiversity",
+  "difficulty": "medium",
+  "question": "Which of the following is defined as the number of species represented in a specific region, landscape or an ecological community?",
+  "options": {
+   "a": "Coevolution",
+   "b": "Commensalism",
+   "c": "Species richness",
+   "d": "Population density"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot6_25",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 6,
+  "chapter": "Biodiversity",
+  "topic": "Biodiversity",
+  "difficulty": "medium",
+  "question": "When the last individual in a particular species dies, it is known as :",
+  "options": {
+   "a": "speciation",
+   "b": "extinction",
+   "c": "phylogenetic diversity",
+   "d": "adaptation"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot6_27",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 6,
+  "chapter": "Biodiversity",
+  "topic": "Biodiversity",
+  "difficulty": "easy",
+  "question": "Nandan Kanan Zoo is known for which of the following ?",
+  "options": {
+   "a": "Hippo",
+   "b": "Nilgiri Tahr",
+   "c": "White tiger",
+   "d": "Whale"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot6_28",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 6,
+  "chapter": "Biodiversity",
+  "topic": "Biodiversity",
+  "difficulty": "medium",
+  "question": "One species the presence or absence of which can make a huge difference to an entire ecosystem is called :",
+  "options": {
+   "a": "extinct species",
+   "b": "endemic species",
+   "c": "keystone species",
+   "d": "endangered species"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "bot6_29",
+  "subject": "Botany",
+  "class": 12,
+  "chapter_no": 6,
+  "chapter": "Biodiversity",
+  "topic": "Biodiversity",
+  "difficulty": "easy",
+  "question": "Different breeds of dogs are the example of which biodiversity?",
+  "options": {
+   "a": "ecosystem",
+   "b": "habitat",
+   "c": "genetic",
+   "d": "species"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ }
+]

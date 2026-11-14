@@ -1,0 +1,5898 @@
+[
+ {
+  "id": "zoo1_hum_1",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "easy",
+  "question": "Seminiferous tubules contain non- germinal cells called",
+  "options": {
+   "a": "Sertoli cells",
+   "b": "Interstitial cells",
+   "c": "Leydig cells",
+   "d": "None of these"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_2",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "easy",
+  "question": "The column of erectile tissue along the ventral side of penis is",
+  "options": {
+   "a": "Corpus luteum",
+   "b": "Corpus cavernosum",
+   "c": "corpus spongiosum",
+   "d": "None of these"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_3",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "hard",
+  "question": "Which of the following characteristics is not associated with testosterone?",
+  "options": {
+   "a": "Maintenance of secondary sex characteristics",
+   "b": "Responsible for primary sex characteristics",
+   "c": "Principal androgen",
+   "d": "Protein hormone"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_4",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "hard",
+  "question": "Which of the following is not a function of Sertoli cells?",
+  "options": {
+   "a": "To phagocytize excess spermatid cytoplasm as development proceeds.",
+   "b": "To control movements of spermatogenic cells and the release of sperm into the lumen of the seminiferous tubule.",
+   "c": "To produce fluid for sperm transport and secrete the hormone inhibin",
+   "d": "To regulate the effects of LH PTER-I RODUCTION"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_5",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "medium",
+  "question": "Leydigcells are located",
+  "options": {
+   "a": "Within the seminiferous tubules.",
+   "b": "In the spaces between adjacent seminiferous tubules.",
+   "c": "In the wall of the epididymis.",
+   "d": "Within seminal vesicles"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_6",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "hard",
+  "question": "Which of the following male accessory glands is not a paired structure?",
+  "options": {
+   "a": "Seminal gland",
+   "b": "Prostate gland",
+   "c": "Bulbourethral gland",
+   "d": "None of these"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_7",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "medium",
+  "question": "Which is the male copulatory organ; a passage way for ejaculation of sperm and excretion of urine.",
+  "options": {
+   "a": "Urethra",
+   "b": "Penis",
+   "c": "Ejaculatory duct",
+   "d": "Ductus deferens"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_8",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "medium",
+  "question": "Which structure carries the sperm from the scrotum into the abdominopelvic cavity for release by ejaculation?",
+  "options": {
+   "a": "Epididymis",
+   "b": "Ductus deferens",
+   "c": "Ejaculatory duct",
+   "d": "Urethra"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_9",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "medium",
+  "question": "Which gland surrounds the urethra at the base of the bladder and produces secretions that contribute to sperm motility and viability?",
+  "options": {
+   "a": "Prostate gland",
+   "b": "Cowper’s gland",
+   "c": "Seminal glands",
+   "d": "None of these"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_10",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "easy",
+  "question": "Which of the following ejects sperm into the urethra just before ejaculation?",
+  "options": {
+   "a": "Epididymis",
+   "b": "Ductus deferens",
+   "c": "Ejaculatory duct",
+   "d": "None of these"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_11",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "medium",
+  "question": "Which gland secretes an alkaline fluid to help neutralize acids in the female reproductive tract; secretes fructose for use in ATP production by sperm.",
+  "options": {
+   "a": "Prostate gland",
+   "b": "Cowper’s gland",
+   "c": "Seminal gland",
+   "d": "None of these"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_12",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "medium",
+  "question": "Which is the shared terminal duct of the reproductive and urinary systems in the male.",
+  "options": {
+   "a": "Epididymis",
+   "b": "Ductus deferens",
+   "c": "Utrehra",
+   "d": "Ejaculatory duct"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_13",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "hard",
+  "question": "Semen contains all of the following except",
+  "options": {
+   "a": "Mucus.",
+   "b": "Clotting enzymes.",
+   "c": "Substances to lower the pH of the uterine environment.",
+   "d": "An active clot-dissolving enzyme."
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_14",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "easy",
+  "question": "Secretions of which contribute maximum to the volume of semen.",
+  "options": {
+   "a": "Bulbourethral glands",
+   "b": "Seminal vesicles",
+   "c": "Prostate gland",
+   "d": "Epididymis"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_15",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "hard",
+  "question": "Which sequence best describes the passage of sperm? 1. Seminiferous tubules 2. Vas deferens 3. Epididymis 4. Ejaculatory duct 5. Urethra",
+  "options": {
+   "a": "3, 1, 2, 4, 5",
+   "b": "1, 3, 2, 4, 5",
+   "c": "5, 4, 2, 3, 1",
+   "d": "1, 3, 4, 2, 5"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_16",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "easy",
+  "question": "Semen has a pH of",
+  "options": {
+   "a": "6.2 - 6.5",
+   "b": "6.5 - 7.0",
+   "c": "7.2 - 7.7",
+   "d": "7.8 – 7.9"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_17",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "easy",
+  "question": "Testosterone secretion from Leydig cells is under the control of",
+  "options": {
+   "a": "FSH",
+   "b": "LH",
+   "c": "Estrogen",
+   "d": "Androgen"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_18",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "hard",
+  "question": "Assertion(A): The testicles of mammals are suspended in the scrotum. Reasoning(R):The optimum temperature for sperm production is higher than the normal core body temperature of the organism",
+  "options": {
+   "a": "A & R correct",
+   "b": "A incorrect & R correct",
+   "c": "A correct & R incorrect",
+   "d": "Both A & R incorrect"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_19",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "hard",
+  "question": "Assertion(A): The penis contains erectile tissue. Reasoning(R): when the male is sexually excited, the erectile tissue is filled with blood causing the penis to become erect.",
+  "options": {
+   "a": "A & R correct",
+   "b": "A incorrect & R correct",
+   "c": "A correct & R incorrect",
+   "d": "Both A & R incorrect"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_20",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "easy",
+  "question": "Fibroblast-like cells called stromal cells are located in",
+  "options": {
+   "a": "Germinal epithelium of ovary",
+   "b": "Tunica albuginea of ovary",
+   "c": "Cortex of ovary",
+   "d": "Medulla of ovary"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_21",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "easy",
+  "question": "The funnel-shaped portion of fallopian tube is known as",
+  "options": {
+   "a": "Ampulla",
+   "b": "Isthmus",
+   "c": "Infundibulum",
+   "d": "Fimbri"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_22",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "easy",
+  "question": "The widest and longest portion of fallopian tube is",
+  "options": {
+   "a": "Isthmus",
+   "b": "Infundibulum",
+   "c": "Fimbri",
+   "d": "Ampulla"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_23",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "easy",
+  "question": "The inferior narrow portion of the uterus is known as",
+  "options": {
+   "a": "Fundus",
+   "b": "Cervix",
+   "c": "Urethra",
+   "d": "Body"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_24",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "easy",
+  "question": "Paraurethral glands or Skene’s glands of women are homologous to",
+  "options": {
+   "a": "Prostate of men",
+   "b": "Cowper’s gland of men",
+   "c": "Seminal glands of men",
+   "d": "None of these"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_25",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "easy",
+  "question": "Greater vestibular (Bartholin’s) glands of women are homologous to",
+  "options": {
+   "a": "Prostate of men",
+   "b": "Cowper’s gland of men",
+   "c": "Seminal glands of men",
+   "d": "None of these"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_26",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "easy",
+  "question": "Labia majora of women are homologous to which one of men?",
+  "options": {
+   "a": "Scrotum",
+   "b": "Spongy (penile) urethra",
+   "c": "Membranous urethra",
+   "d": "Glans penis"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_27",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "medium",
+  "question": "Graafian follicle occupies a position",
+  "options": {
+   "a": "Deep in the ovarian cortex",
+   "b": "Deep in the ovarian medulla",
+   "c": "In the peripheral part of ovarian medulla",
+   "d": "Near the surface of ovary"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_28",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "hard",
+  "question": "The vulva does not include",
+  "options": {
+   "a": "Vestibule of the vagina",
+   "b": "Clitoris",
+   "c": "Mons pubis",
+   "d": "Cervix"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_29",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "hard",
+  "question": "Which of the following is not part of a Graafian follicle?",
+  "options": {
+   "a": "Antrum",
+   "b": "Liquor folliculi",
+   "c": "Primary oocyte",
+   "d": "Secondary oocyte"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_30",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "easy",
+  "question": "The middle layer of uterus is known as",
+  "options": {
+   "a": "Perimetrium",
+   "b": "Myometrium",
+   "c": "Endometrium",
+   "d": "None of these"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_31",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "easy",
+  "question": "What refers to the degeneration of oogonia before and after birth?",
+  "options": {
+   "a": "Amenorrhea",
+   "b": "Atresia",
+   "c": "Menopause",
+   "d": "None of these"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_32",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "easy",
+  "question": "Which of the following structures is the site of spermatogenesis?",
+  "options": {
+   "a": "Prostate",
+   "b": "Urethra",
+   "c": "Bulbourethral gland",
+   "d": "Seminiferous tubule"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_33",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "easy",
+  "question": "During spermatogenesis, the diploid daughter cell that begins meiosis is called a",
+  "options": {
+   "a": "Primary spermatocyte",
+   "b": "Secondary spermatocyte",
+   "c": "Spermatid",
+   "d": "Spermatogonium"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_34",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "medium",
+  "question": "Each secondary spermatocyte undergoes the second meiotic division to produce how many spermatids?",
+  "options": {
+   "a": "2",
+   "b": "4",
+   "c": "6",
+   "d": "8"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_35",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "easy",
+  "question": "Sperms after being produced, develop motility in",
+  "options": {
+   "a": "Epididymis",
+   "b": "Vas deferens",
+   "c": "Seminiferous tubule",
+   "d": "Urethra"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_36",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "hard",
+  "question": "Arrange the following stages into the correct sequence. 1. Spermatogonium 2. Spermatid 3. Primary spermatocyte 4. Secondary spermatocyte 5. Sperm",
+  "options": {
+   "a": "2, 1, 3, 4, 5",
+   "b": "5, 1, 3, 4, 2",
+   "c": "1, 4, 3, 2, 5",
+   "d": "1, 3, 4, 2, 5"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_37",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "easy",
+  "question": "Acrosome of sperm contains",
+  "options": {
+   "a": "DNA",
+   "b": "Mitochondria",
+   "c": "Axial filament",
+   "d": "Hydrolytic enzymes"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_38",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "medium",
+  "question": "Gametogenesis requires the conclusion of meiosis II. When does this occur in females?",
+  "options": {
+   "a": "During foetal development",
+   "b": "At the onset of puberty",
+   "c": "After fertilization",
+   "d": "After implantation"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_39",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "easy",
+  "question": "In human females egg is released from ovary as",
+  "options": {
+   "a": "Primary oocyte",
+   "b": "Secondary oocyte",
+   "c": "Ovum",
+   "d": "Oogonium"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_40",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "hard",
+  "question": "Which statement about human oocytes is true?",
+  "options": {
+   "a": "By birth, the human female infant has produced a lifetime supply of oocytes.",
+   "b": "At the onset of puberty, ovarian follicles produce new oocytes in response to hormonal stimulation.",
+   "c": "At the onset of menopause, a woman stops producing oocytes.",
+   "d": "Oocytes are produced by a woman throughout adolescence."
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_41",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "medium",
+  "question": "During oogenesis in mammals, the second meiotic division occurs",
+  "options": {
+   "a": "In the formation of the primary oocyte.",
+   "b": "In the formation of the secondary oocyte.",
+   "c": "Before ovulation.",
+   "d": "After fertilization."
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_42",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "easy",
+  "question": "Which of the following cells is haploid?",
+  "options": {
+   "a": "Primary oocyte",
+   "b": "Oogonium",
+   "c": "Secondary oocyte",
+   "d": "Follicle cell"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_43",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "medium",
+  "question": "During ovulation",
+  "options": {
+   "a": "Entire graafian follicle is released",
+   "b": "Only secondary oocyte is released",
+   "c": "Secondary oocyte along with zonapellucida is released",
+   "d": "Secondary oocyte along with zonapellucida and corona radiata is released"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_44",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "medium",
+  "question": "During oogenesis, the role of polar bodies is",
+  "options": {
+   "a": "To receive a haploid set of chromosomes",
+   "b": "To slow down the process of oogenesis",
+   "c": "To nourish the developing oocytes",
+   "d": "None of these"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_45",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "medium",
+  "question": "After ovulation, the remaining portion of Graafian follicle develops into a temporary endocrine gland called",
+  "options": {
+   "a": "Corpus hemorrhagicum",
+   "b": "Corpus luteum",
+   "c": "Corpus albicans",
+   "d": "Antrum"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_46",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "hard",
+  "question": "Spermatogenesis & oogenesis differ in",
+  "options": {
+   "a": "Spermatogenesis produces gametes with greater stores of raw materials than those produced by oogenesis.",
+   "b": "Spermatocytes remain in prophase of the first meiotic division longer than oocytes.",
+   "c": "Oogenesis produces four equally functional haploid cells per meiotic event and spermatogenesis does not.",
+   "d": "Spermatogenesis produces many gametes with meagre energy reserves, whereas oogenesis produces relatively few, well- provisioned gametes."
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": [
+   "options were jumbled in book; re-lettered by order of appearance - verify"
+  ]
+ },
+ {
+  "id": "zoo1_hum_47",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "medium",
+  "question": "The corpus luteum",
+  "options": {
+   "a": "Degenerates if fertilization occurs",
+   "b": "Develops in the preovulatory phase",
+   "c": "Is maintained by prostaglandins",
+   "d": "Serves as a temporary endocrine gland"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_48",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "easy",
+  "question": "After ovulation, the secondary oocyte enters the",
+  "options": {
+   "a": "Ovary",
+   "b": "Corpus luteum",
+   "c": "Cervix",
+   "d": "Oviduct"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_49",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "medium",
+  "question": "Which part of Graafian follicle secretes female sex hormones?",
+  "options": {
+   "a": "The inner part of theca and granulosa cells",
+   "b": "Only granulosa cells",
+   "c": "The outer and inner parts of theca",
+   "d": "The outer parts of theca and granulosa cells"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_50",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "easy",
+  "question": "Ovulation usually occurs on which day in a 28-day cycle.",
+  "options": {
+   "a": "12",
+   "b": "13",
+   "c": "14",
+   "d": "15"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_51",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "easy",
+  "question": "Surge in which hormone brings about ovulation.",
+  "options": {
+   "a": "LH",
+   "b": "FSH",
+   "c": "Estrogen",
+   "d": "Progesterone"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_52",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "medium",
+  "question": "The layer of the uterine lining that is partially shed during each monthly cycle is",
+  "options": {
+   "a": "Perimetrium",
+   "b": "Myometrium",
+   "c": "Endometrium",
+   "d": "None of these"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_53",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "medium",
+  "question": "The endometrium is",
+  "options": {
+   "a": "The muscle layer of the uterus",
+   "b": "Thickest during the preovulatory phase",
+   "c": "The site of embryo implantation",
+   "d": "Lines the vagina"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_54",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "easy",
+  "question": "The hormone that reaches its highest level during the postovulatory phase is",
+  "options": {
+   "a": "Progesterone",
+   "b": "Estrogen",
+   "c": "FSH",
+   "d": "LH"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_55",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "hard",
+  "question": "Which of following hormones is not secreted by corpus luteum?",
+  "options": {
+   "a": "Progesterone",
+   "b": "Estrogen",
+   "c": "Relaxin",
+   "d": "Luteinizing hormone"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_56",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "hard",
+  "question": "If the released oocyte is not fertilized, the corpus luteum has a lifespan of only",
+  "options": {
+   "a": "1 week",
+   "b": "2 weeks",
+   "c": "3 weeks",
+   "d": "4 weeks"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_57",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "easy",
+  "question": "Absence of menstruation is known as",
+  "options": {
+   "a": "Amenorrhea",
+   "b": "Atresia",
+   "c": "Menopause",
+   "d": "None of these"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": [
+   "options were jumbled in book; re-lettered by order of appearance - verify"
+  ]
+ },
+ {
+  "id": "zoo1_hum_58",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "medium",
+  "question": "Peak secretion of estrogen occurs",
+  "options": {
+   "a": "During all phases of menstrual cycle",
+   "b": "At the time of ovulation",
+   "c": "Just before ovulation",
+   "d": "In mid luteal phase"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_59",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "easy",
+  "question": "In humans, fertilization and implantation of the zygote occurs in",
+  "options": {
+   "a": "Seminiferous tubules; Uterus",
+   "b": "Vagina; Oviduct",
+   "c": "Oviduct; Uterus",
+   "d": "Urethra; Uterus"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_60",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "hard",
+  "question": "Fertilization involves all of the following except",
+  "options": {
+   "a": "Equal contributions of cell organelles from sperm and egg",
+   "b": "Joining of sperm and egg nuclei",
+   "c": "Sperm binding to specific sites on the egg surface",
+   "d": "Metabolic activation of the egg"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_61",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "medium",
+  "question": "Mutations that affect proteins in the acrosome would affect which of the following functions?",
+  "options": {
+   "a": "Fertilization",
+   "b": "Meiosis",
+   "c": "Implantation",
+   "d": "Semen production"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_62",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "medium",
+  "question": "The viability of spermatozoa in the female genital tract is up to how many hours?",
+  "options": {
+   "a": "6 - 12",
+   "b": "12 - 24",
+   "c": "24 - 48",
+   "d": "48 - 72"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_63",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "easy",
+  "question": "A secondary oocyte is viable for how many hours after ovulation?",
+  "options": {
+   "a": "12",
+   "b": "24",
+   "c": "36",
+   "d": "48"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_64",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "easy",
+  "question": "Theca cells of ovarian follicle are derived from",
+  "options": {
+   "a": "Germinal epithelium",
+   "b": "Granulosa cells",
+   "c": "Zonapellucida",
+   "d": "Stroma cells"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_65",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "easy",
+  "question": "The transport of spermatozoa from cervix to fallopian tube takes about",
+  "options": {
+   "a": "5 – 10 minutes",
+   "b": "10 – 30 minutes",
+   "c": "30 – 60 minutes",
+   "d": "60 – 90 minutes"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_66",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "medium",
+  "question": "The first sign of pregnancy is",
+  "options": {
+   "a": "Enlargement of abdomen",
+   "b": "Rise in basal body temperature",
+   "c": "Lack of HCG in urine",
+   "d": "Absence of menstrual bleeding"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_67",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "medium",
+  "question": "The main function of the acrosome reaction is to",
+  "options": {
+   "a": "Activate the egg",
+   "b": "Improve sperm motility",
+   "c": "Prevent interspecific fertilization",
+   "d": "Facilitate penetration of the egg coverings by the sperm"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_68",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "easy",
+  "question": "Capacitation of sperm occurs in",
+  "options": {
+   "a": "Epididymis",
+   "b": "Vas deferens",
+   "c": "Urethra",
+   "d": "Genital tract of female"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_69",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "easy",
+  "question": "Penetration of the zonapellucida by sperm is facilitated by enzymes present in",
+  "options": {
+   "a": "Acrosome",
+   "b": "Nucleus",
+   "c": "Middle piece",
+   "d": "Tail"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": [
+   "options were jumbled in book; re-lettered by order of appearance - verify"
+  ]
+ },
+ {
+  "id": "zoo1_hum_70",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "medium",
+  "question": "The human zygote divides into two- cells after how many hours of fertilization?",
+  "options": {
+   "a": "Within 12 hours",
+   "b": "After 24 hours",
+   "c": "After 36 hours",
+   "d": "After 48 hours"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_71",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "easy",
+  "question": "The cleavage of fertilized egg starts in the",
+  "options": {
+   "a": "Oviduct",
+   "b": "Ovary",
+   "c": "Uterus",
+   "d": "Vagina"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_72",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "medium",
+  "question": "The process in which embryo gets attached to the endometrium of the uterus is known as",
+  "options": {
+   "a": "Implantation",
+   "b": "Pregnancy",
+   "c": "Placentation",
+   "d": "None of these"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_73",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "easy",
+  "question": "Which cells of blastocyst secrete human chorionic gonadotropin?",
+  "options": {
+   "a": "All the cells",
+   "b": "Cells of the inner mass",
+   "c": "Trophoblast cells",
+   "d": "None of these"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_74",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "easy",
+  "question": "After implantation, the endometrium becomes modified and is known as the",
+  "options": {
+   "a": "Decidua",
+   "b": "Placenta",
+   "c": "Umbilical chord",
+   "d": "Chorionic villi"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_75",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "easy",
+  "question": "Which of the following consists of both foetal and maternal tissues?",
+  "options": {
+   "a": "Umbilical cord",
+   "b": "Placenta",
+   "c": "Allantois",
+   "d": "Yolk sac"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_76",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "easy",
+  "question": "What contains the vascular connections between mother and foetus?",
+  "options": {
+   "a": "Placenta",
+   "b": "Amnion",
+   "c": "Chorionic villi",
+   "d": "Umbilical cord"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_77",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "medium",
+  "question": "Human chorionic gonadotropin (hCG) produced by placenta",
+  "options": {
+   "a": "Maintains the activity of corpus luteum",
+   "b": "Promotes degeneration of corpus luteum",
+   "c": "Promotes lactation",
+   "d": "Inhibits FSH release"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_78",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "hard",
+  "question": "Placenta does not secrete",
+  "options": {
+   "a": "Human chorionic gonadotropin",
+   "b": "Human placental lactogen",
+   "c": "Progesterone",
+   "d": "Prolactin"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_79",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "medium",
+  "question": "Which of the following stimulates the corpus luteum to continue production of progesterone and estrogens?",
+  "options": {
+   "a": "Human chorionic somatomammotropin",
+   "b": "Human chorionic gonadotropin",
+   "c": "Prolactin",
+   "d": "Relaxin"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_80",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "medium",
+  "question": "The gestation period in human female averages how many days from the time of fertilization to the birth of the child?",
+  "options": {
+   "a": "266 days",
+   "b": "290 days",
+   "c": "256 days",
+   "d": "296 days"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": [
+   "Gestation: book key gives first listed option (266 days) - verify"
+  ]
+ },
+ {
+  "id": "zoo1_hum_81",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "medium",
+  "question": "What increases the flexibility of the pubic symphysis and helps dilate the uterine cervix during labour?",
+  "options": {
+   "a": "Oxytocin",
+   "b": "Human chorionic gonadotropin",
+   "c": "Prolactin",
+   "d": "Relaxin"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_82",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "easy",
+  "question": "What helps prepare mammary glands for lactation?",
+  "options": {
+   "a": "Oxytocin",
+   "b": "Human chorionic somatomammotropin",
+   "c": "Human chorionic gonadotropin",
+   "d": "Prolactin"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_83",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "easy",
+  "question": "What stimulates uterine contractions; responsible for the milk ejection reflex?",
+  "options": {
+   "a": "Oxytocin",
+   "b": "Human chorionic gonadotropin",
+   "c": "Prolactin",
+   "d": "Relaxin"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_84",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "easy",
+  "question": "What promotes milk synthesis and secretion; inhibited by progesterone during pregnancy?",
+  "options": {
+   "a": "Oxytocin",
+   "b": "Human chorionic somatomammotropin",
+   "c": "Human chorionic gonadotropin",
+   "d": "Prolactin"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_85",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "easy",
+  "question": "The pregnancy test is based on the detection of",
+  "options": {
+   "a": "LH",
+   "b": "hCG",
+   "c": "Progesterone",
+   "d": "Estrogen"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_86",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "medium",
+  "question": "The ovarian follicle that ruptures at the time of ovulation is promptly filled with blood forming",
+  "options": {
+   "a": "Corpus haemorrhagicum",
+   "b": "Corpus luteum",
+   "c": "Corpus albicans",
+   "d": "None of theses"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_87",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "easy",
+  "question": "The discharge of secondary oocyte from Graafian follicle is known as",
+  "options": {
+   "a": "Abortion",
+   "b": "Oogenesis",
+   "c": "Ovulation",
+   "d": "Fertilization"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_88",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "hard",
+  "question": "Assertion (A): Spermatozoa after being released are not immediately ready for fertilization. Reasoning(R): Without undergoing capacitation spermatozoa cannot fertilize with oocyte.",
+  "options": {
+   "a": "Both A & R correct",
+   "b": "A incorrect & R correct",
+   "c": "A correct & R incorrect",
+   "d": "Both A & R incorrect"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_89",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "hard",
+  "question": "Assertion (A): During menstruation phase blood, tissue fluid, mucus and epithelial cells are shed from the endometrium. Reasoning(R): Menstruation is caused by sudden decline in estrogen and progesterone hormones.",
+  "options": {
+   "a": "Both A & R correct",
+   "b": "A incorrect & R correct",
+   "c": "A correct & R incorrect",
+   "d": "Both A & R incorrect"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo1_hum_90",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 1,
+  "chapter": "Human Reproduction",
+  "topic": "Human Reproduction",
+  "difficulty": "hard",
+  "question": "Assertion (A): Preovulatory phase of menstrual cycle is also known as proliferative phase. Reasoning(R): During preovulatory phase endometrium and myometrium increase in thickness.",
+  "options": {
+   "a": "Both A & R correct",
+   "b": "A incorrect & R correct",
+   "c": "A correct & R incorrect",
+   "d": "Both A & R incorrect"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo2_rep_1",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Reproductive Health",
+  "topic": "Reproductive Health",
+  "difficulty": "easy",
+  "question": "Which of the following is Assisted Reproductive Technology (ART)?",
+  "options": {
+   "a": "IUDs",
+   "b": "GIFT",
+   "c": "ZIFT",
+   "d": "Both (b) & (c)"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo2_rep_2",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Reproductive Health",
+  "topic": "Reproductive Health",
+  "difficulty": "medium",
+  "question": "The technique called Gamete Intra Fallopian Transfer (GIFT) is recommended for those females",
+  "options": {
+   "a": "Who cannot produce an ovum",
+   "b": "Who cannot retain the foetus inside uterus",
+   "c": "Who cannot provide suitable environment for fertilization",
+   "d": "All of these"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo2_rep_3",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Reproductive Health",
+  "topic": "Reproductive Health",
+  "difficulty": "medium",
+  "question": "Which method can be used for women that cannot produce ovum but can provide suitable environment?",
+  "options": {
+   "a": "IUD",
+   "b": "GIFT",
+   "c": "IUI",
+   "d": "ICSI"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo2_rep_4",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Reproductive Health",
+  "topic": "Reproductive Health",
+  "difficulty": "medium",
+  "question": "Which of these can be used to cure infertility in couples where male partner has very low sperm count?",
+  "options": {
+   "a": "IUD",
+   "b": "GIFT",
+   "c": "IUI",
+   "d": "None of these"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo2_rep_5",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Reproductive Health",
+  "topic": "Reproductive Health",
+  "difficulty": "medium",
+  "question": "The method of directly injecting a sperm into ovum in assisted reproductive technology is called TER-II TIVE HEALTH",
+  "options": {
+   "a": "GIFT",
+   "b": "ZIFT",
+   "c": "ICSI",
+   "d": "ET"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo2_rep_6",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Reproductive Health",
+  "topic": "Reproductive Health",
+  "difficulty": "medium",
+  "question": "Increased IMR and decreased MMR in a population will",
+  "options": {
+   "a": "Cause rapid increase in growth rate",
+   "b": "Result in decline in growth rate",
+   "c": "Not cause significant change in growth rate",
+   "d": "Result in an explosive population."
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo2_rep_7",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Reproductive Health",
+  "topic": "Reproductive Health",
+  "difficulty": "hard",
+  "question": "Intensely lactating mothers do not generally conceive due to the",
+  "options": {
+   "a": "Suppression of gonadotropins",
+   "b": "Hypersecretion of gonadotropins",
+   "c": "Suppression of gametic transport",
+   "d": "Suppression of fertilization"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo2_rep_8",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Reproductive Health",
+  "topic": "Reproductive Health",
+  "difficulty": "medium",
+  "question": "A national level approach to build up a reproductively healthy society was taken up in our country in",
+  "options": {
+   "a": "1950s",
+   "b": "1960s",
+   "c": "1980s",
+   "d": "1990s"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo2_rep_9",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Reproductive Health",
+  "topic": "Reproductive Health",
+  "difficulty": "easy",
+  "question": "Emergency contraceptives are effective if used within",
+  "options": {
+   "a": "72 hrs of coitus",
+   "b": "72 hrs of ovulation",
+   "c": "72 hrs of menstruation",
+   "d": "72 hrs of implantation."
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo2_rep_10",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Reproductive Health",
+  "topic": "Reproductive Health",
+  "difficulty": "hard",
+  "question": "From the sexually transmitted diseases mentioned below, identify the onewhich does not specifically affect the sex organs.",
+  "options": {
+   "a": "Syphilis",
+   "b": "AIDS",
+   "c": "Gonorrhea",
+   "d": "Genital warts"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo2_rep_11",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Reproductive Health",
+  "topic": "Reproductive Health",
+  "difficulty": "medium",
+  "question": "Condoms are one of the most popular contraceptives because of the following reasons.",
+  "options": {
+   "a": "These are effective barriers for insemination.",
+   "b": "They do not interfere with coital act.",
+   "c": "These help in reducing the risk of STDs.",
+   "d": "All of the above"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo2_rep_12",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Reproductive Health",
+  "topic": "Reproductive Health",
+  "difficulty": "easy",
+  "question": "The correct surgical procedure as a contraceptive method is",
+  "options": {
+   "a": "Ovariectomy",
+   "b": "Hysterectomy",
+   "c": "Vasectomy",
+   "d": "Castration"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo2_rep_13",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Reproductive Health",
+  "topic": "Reproductive Health",
+  "difficulty": "medium",
+  "question": "RCH stands for",
+  "options": {
+   "a": "Routine check-up of health",
+   "b": "Reproduction cum hygiene",
+   "c": "Reversible contraceptive hazards",
+   "d": "Reproductive and child health care."
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo2_rep_14",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Reproductive Health",
+  "topic": "Reproductive Health",
+  "difficulty": "medium",
+  "question": "Amniocentesis is a technique used to",
+  "options": {
+   "a": "Determine errors in amino acid metabolism in embryo",
+   "b": "Pin point specific cardiac ailments in embryo",
+   "c": "Determine any hereditary genetic abnormality in embryo",
+   "d": "All of these"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": [
+   "Book key (a) looks wrong; correct answer is likely (c) hereditary genetic abnormality - TEACHER CHECK"
+  ]
+ },
+ {
+  "id": "zoo2_rep_15",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Reproductive Health",
+  "topic": "Reproductive Health",
+  "difficulty": "medium",
+  "question": "Which of the following cannot be detected in a developing fetus by amniocentesis?",
+  "options": {
+   "a": "Jaundice",
+   "b": "Down's syndrome",
+   "c": "Cystic fibrosis",
+   "d": "Colourblindness"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo2_rep_16",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Reproductive Health",
+  "topic": "Reproductive Health",
+  "difficulty": "easy",
+  "question": "In which of the following weeks of pregnancy CVS is done?",
+  "options": {
+   "a": "12th - 14th week",
+   "b": "8th - 10th week",
+   "c": "5th - 7th week",
+   "d": "None of these"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo2_rep_17",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Reproductive Health",
+  "topic": "Reproductive Health",
+  "difficulty": "easy",
+  "question": "Causes for increased population growth in India is/are",
+  "options": {
+   "a": "Increase in birth rate",
+   "b": "Decrease in death rate",
+   "c": "Lack of education",
+   "d": "All of these."
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo2_rep_18",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Reproductive Health",
+  "topic": "Reproductive Health",
+  "difficulty": "medium",
+  "question": "Which of the following pairs contributes to an increase in population?",
+  "options": {
+   "a": "Natality and immigration",
+   "b": "Mortality and emigration",
+   "c": "Natality and emigration",
+   "d": "Mortality and immigration"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo2_rep_19",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Reproductive Health",
+  "topic": "Reproductive Health",
+  "difficulty": "hard",
+  "question": "Which of the following is correct regarding the consequences of lower population?",
+  "options": {
+   "a": "Increases the poverty of a country",
+   "b": "Leads to shortage of food supply",
+   "c": "Results in unemployment",
+   "d": "All of these"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo2_rep_20",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Reproductive Health",
+  "topic": "Reproductive Health",
+  "difficulty": "medium",
+  "question": "The best way to decrease population of a country is to",
+  "options": {
+   "a": "Educate people",
+   "b": "Have better houses",
+   "c": "Kill people on a large scale",
+   "d": "Practice and implement family planning."
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo2_rep_21",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Reproductive Health",
+  "topic": "Reproductive Health",
+  "difficulty": "medium",
+  "question": "Which of the following correctly describes the measures that can be used to control over-population?",
+  "options": {
+   "a": "Educating people about the advantages of a small family",
+   "b": "Raising the age of marriage",
+   "c": "Encouraging family planning programme",
+   "d": "All of these"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo2_rep_22",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Reproductive Health",
+  "topic": "Reproductive Health",
+  "difficulty": "hard",
+  "question": "Which of the following is not a characteristic of an ideal contraceptive?",
+  "options": {
+   "a": "User-friendly",
+   "b": "Irreversible",
+   "c": "Easily available",
+   "d": "Least sideeffects"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo2_rep_23",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Reproductive Health",
+  "topic": "Reproductive Health",
+  "difficulty": "medium",
+  "question": "Which of the following is correct regarding HIV, hepatitis B, gonorrhoea, trichomoniasis?",
+  "options": {
+   "a": "Trichomoniasis is an STD whereas others are not.",
+   "b": "Gonorrhoea is a viral disease whereas others are bacterial.",
+   "c": "HIV is a pathogen whereas others are diseases.",
+   "d": "Hepatitis B is eradicated completely whereas others are not."
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo2_rep_24",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Reproductive Health",
+  "topic": "Reproductive Health",
+  "difficulty": "medium",
+  "question": "Which one of the following groups includes sexually transmitted diseases caused by bacteria only?",
+  "options": {
+   "a": "Syphilis, gonorrhoea, chancroid",
+   "b": "Syphilis, chlamydiasis, chancroid",
+   "c": "Syphilis, gonorrhoea, scabies",
+   "d": "Syphilis, scabies, pediculosis"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo2_rep_25",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Reproductive Health",
+  "topic": "Reproductive Health",
+  "difficulty": "easy",
+  "question": "Confirmatory test for STDs is",
+  "options": {
+   "a": "ELISA",
+   "b": "PCR",
+   "c": "DNA hybridization",
+   "d": "All of these"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo2_rep_26",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Reproductive Health",
+  "topic": "Reproductive Health",
+  "difficulty": "easy",
+  "question": "Hepatitis B is transmitted through",
+  "options": {
+   "a": "Blood transfusion",
+   "b": "Intimate physical contact",
+   "c": "Sexual contact",
+   "d": "All of these"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo2_rep_27",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Reproductive Health",
+  "topic": "Reproductive Health",
+  "difficulty": "easy",
+  "question": "The common means of transmission of AIDS is",
+  "options": {
+   "a": "Sexual intercourse",
+   "b": "Blood transfusion",
+   "c": "Placental transfer",
+   "d": "All of these"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo2_rep_28",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Reproductive Health",
+  "topic": "Reproductive Health",
+  "difficulty": "hard",
+  "question": "Which of the following STDs are not completely curable?",
+  "options": {
+   "a": "Chlamydiasis, gonorrhoea, trichomoniasis",
+   "b": "Chancroid syphilis, genital warts",
+   "c": "AIDS, syphilis, hepatitis B",
+   "d": "AIDS, genital herpes, hepatitis B"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo2_rep_29",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Reproductive Health",
+  "topic": "Reproductive Health",
+  "difficulty": "easy",
+  "question": "World AIDS day is",
+  "options": {
+   "a": "December 21",
+   "b": "December 1",
+   "c": "November 1",
+   "d": "June 11"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo2_rep_30",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Reproductive Health",
+  "topic": "Reproductive Health",
+  "difficulty": "medium",
+  "question": "In vitro fertilization is a technique that involves transfer of which one of the following into the fallopian tube?",
+  "options": {
+   "a": "Embryo only upto 8 cell stage",
+   "b": "Either zygote or early embryo up to 8 cell stage",
+   "c": "Embryo of 32 cell stage",
+   "d": "Zygote only"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo2_rep_31",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Reproductive Health",
+  "topic": "Reproductive Health",
+  "difficulty": "medium",
+  "question": "The test tube baby programme employs which one of the following techniques?",
+  "options": {
+   "a": "Zygote intra Fallopian transfer (ZIFT)",
+   "b": "Intra uterine insemination (IUI)",
+   "c": "Gamete intra Fallopian transfer",
+   "d": "All of these"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo2_rep_32",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Reproductive Health",
+  "topic": "Reproductive Health",
+  "difficulty": "medium",
+  "question": "The first case of IVF-ET technique success was reported by",
+  "options": {
+   "a": "Louis joy Brown and Banting Best",
+   "b": "Patrick Steptoe and Robert Edwards",
+   "c": "Robert Steptoe and Gilbert Brown",
+   "d": "Baylis and Starling Taylor."
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo2_rep_33",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Reproductive Health",
+  "topic": "Reproductive Health",
+  "difficulty": "medium",
+  "question": "On which of the following facts does the method of periodic abstinence is based?",
+  "options": {
+   "a": "Ovulation occurs on about the 14th day of menstruation",
+   "b": "Ovum remains alive for about 1-2 days",
+   "c": "Sperms survive for about 3 days",
+   "d": "All of these"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo2_rep_34",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Reproductive Health",
+  "topic": "Reproductive Health",
+  "difficulty": "easy",
+  "question": "Which of the following is a non- medicated intrauterine device (IUD)?",
+  "options": {
+   "a": "Cu-T (a) Cu-T",
+   "b": "Lippes Loop",
+   "c": "Cu-7",
+   "d": "LNG-20"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo2_rep_35",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Reproductive Health",
+  "topic": "Reproductive Health",
+  "difficulty": "easy",
+  "question": "Multiload device contains",
+  "options": {
+   "a": "Manganese",
+   "b": "Iron",
+   "c": "Copper",
+   "d": "Calcium"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo2_rep_36",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Reproductive Health",
+  "topic": "Reproductive Health",
+  "difficulty": "hard",
+  "question": "Which of the following is not an intrauterine device?",
+  "options": {
+   "a": "Progestasert",
+   "b": "Multiload-375",
+   "c": "Norplant",
+   "d": "Lippes loop"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo2_rep_37",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Reproductive Health",
+  "topic": "Reproductive Health",
+  "difficulty": "medium",
+  "question": "What is the work of copper-T?",
+  "options": {
+   "a": "To inhibit ovulation",
+   "b": "To inhibit fertilization",
+   "c": "To inhibit implantation of blastocyst",
+   "d": "To inhibit gametogenesis"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo2_rep_38",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Reproductive Health",
+  "topic": "Reproductive Health",
+  "difficulty": "medium",
+  "question": "IUDs prevent pregnancy by",
+  "options": {
+   "a": "Inhibiting physiological and morphological uterine changes required for implantation.",
+   "b": "Increasing phagocytosis of spermatozoa within uterus",
+   "c": "Suppressing motility of sperms as well as their fertilizing capacity",
+   "d": "All of these."
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo2_rep_39",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Reproductive Health",
+  "topic": "Reproductive Health",
+  "difficulty": "medium",
+  "question": "Cu ions released from copper releasing intrauterine devices (IUDs)",
+  "options": {
+   "a": "Prevent ovulation",
+   "b": "Make uterus unsuitable for implantation",
+   "c": "Decrease phagocytosis of sperms",
+   "d": "Suppress sperm motility"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo2_rep_40",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Reproductive Health",
+  "topic": "Reproductive Health",
+  "difficulty": "easy",
+  "question": "The birth control device used by women is",
+  "options": {
+   "a": "Diaphragm",
+   "b": "Vault",
+   "c": "Copper T",
+   "d": "All of these"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo2_rep_41",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Reproductive Health",
+  "topic": "Reproductive Health",
+  "difficulty": "easy",
+  "question": "The most important component of oral contraceptive pills is",
+  "options": {
+   "a": "Progesterone-estrogen",
+   "b": "Growth hormore",
+   "c": "Thyroxin",
+   "d": "Luteinizing hormone"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo2_rep_42",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Reproductive Health",
+  "topic": "Reproductive Health",
+  "difficulty": "hard",
+  "question": "Progesterone pill helps in preventing pregnancy by not allowing",
+  "options": {
+   "a": "Ova formation",
+   "b": "Fertilization",
+   "c": "Implantation",
+   "d": "None of these"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo2_rep_43",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Reproductive Health",
+  "topic": "Reproductive Health",
+  "difficulty": "medium",
+  "question": "What is true about \"Saheli\"? (i) Developed at the CDRI, Lucknow (ii) Contains a steroidal preparation (iii) \"Once-a-weak\" pill (iv) Many side effects (v) High contraceptive value (vi) Very few side effects value (vii) Low contraceptive value",
+  "options": {
+   "a": "(i), (ii), (iii), (v), (vi)",
+   "b": "(i), (iii), (v), (vi), (vii)",
+   "c": "(i), (ii), (iii), (iv), (v)",
+   "d": "(i), (iii), (iv), (v)"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": [
+   "Book key (d) lists \"many side effects\" for Saheli - likely wrong, expected (b) - TEACHER CHECK"
+  ]
+ },
+ {
+  "id": "zoo2_rep_45",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Reproductive Health",
+  "topic": "Reproductive Health",
+  "difficulty": "medium",
+  "question": "Which of the following birth control measures can be considered as the safest?",
+  "options": {
+   "a": "The rhythm method",
+   "b": "The use of physical barriers",
+   "c": "Termination of unwanted pregnancy",
+   "d": "Sterilization techniques"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo2_rep_46",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Reproductive Health",
+  "topic": "Reproductive Health",
+  "difficulty": "medium",
+  "question": "Which of the following is the most widely accepted method of contraception in India at present?",
+  "options": {
+   "a": "Cervical cap",
+   "b": "Tubectomy",
+   "c": "Diaphragm",
+   "d": "IUD (Intra uterine device)"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo2_rep_47",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Reproductive Health",
+  "topic": "Reproductive Health",
+  "difficulty": "easy",
+  "question": "Which of the following is full proof method contraception?",
+  "options": {
+   "a": "Implantation",
+   "b": "Lactational amenorrhea",
+   "c": "Condoms",
+   "d": "Sterilization"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo2_rep_48",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Reproductive Health",
+  "topic": "Reproductive Health",
+  "difficulty": "medium",
+  "question": "Which of the following statements is correct regarding vasectomy?",
+  "options": {
+   "a": "It prevents the production of sperm in the testes.",
+   "b": "It prevents the production of semen.",
+   "c": "It prevents the movement of sperm into the urethra.",
+   "d": "It prevents a man from having an erection."
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo2_rep_49",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Reproductive Health",
+  "topic": "Reproductive Health",
+  "difficulty": "hard",
+  "question": "Which of the following statements is incorrect regarding the medical termination of pregnancy (MTP)?",
+  "options": {
+   "a": "These help in getting rid of unwanted pregnancies",
+   "b": "These help in aborting the pregnancies which may be harmful to either mother of fetus or both",
+   "c": "These contribute in decreasing the human population",
+   "d": "None of these"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo2_rep_50",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Reproductive Health",
+  "topic": "Reproductive Health",
+  "difficulty": "medium",
+  "question": "Which of the following represents the correct match of a sexually transmitted disease with its pathogen?",
+  "options": {
+   "a": "Syphilis-Treponemapallidum",
+   "b": "Gonorrhoea- Entamoebahistolytica",
+   "c": "Urethritis-Bacillus anthracis",
+   "d": "Softsore-Bacillus brevis"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo2_rep_51",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Reproductive Health",
+  "topic": "Reproductive Health",
+  "difficulty": "medium",
+  "question": "The sexually transmitted disease that can affect both the male and the female genitals and may damage the eyes of babies born of infected mothers is",
+  "options": {
+   "a": "AIDS",
+   "b": "Syphilis",
+   "c": "Gonorrhoea",
+   "d": "Hepatitis"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo2_rep_52",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 2,
+  "chapter": "Reproductive Health",
+  "topic": "Reproductive Health",
+  "difficulty": "medium",
+  "question": "A sexually transmitted disease symptomized by the development of chancre on the genitals is caused by the infection of",
+  "options": {
+   "a": "Treponemapallidum",
+   "b": "Neisseria gonorrhoeae",
+   "c": "Human Immunodeficiency Virus",
+   "d": "Hepatitis B virus"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo3_gen_5",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Genetics",
+  "topic": "Genetics",
+  "difficulty": "medium",
+  "question": "In normal woman whose father was colour blind is married to a normal man. The sons would be",
+  "options": {
+   "a": "All colour-blind",
+   "b": "75% colour-blind",
+   "c": "50% colour-blind",
+   "d": "All normal"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo3_gen_6",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Genetics",
+  "topic": "Genetics",
+  "difficulty": "hard",
+  "question": "A haemophilic man marries a normal homozygous woman. What are the chances that their son will be haemophilic?",
+  "options": {
+   "a": "100%",
+   "b": "75%",
+   "c": "50 %",
+   "d": "None"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo3_gen_7",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Genetics",
+  "topic": "Genetics",
+  "difficulty": "medium",
+  "question": "Colour blind man has a normal brother and colourblind sister. What should be the phenotypes of the parents?",
+  "options": {
+   "a": "Father normal, mother colour blind",
+   "b": "Father colour blind, mother carrier",
+   "c": "Both colour blind",
+   "d": "Both normal"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo3_gen_8",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Genetics",
+  "topic": "Genetics",
+  "difficulty": "medium",
+  "question": "A family of five daughters only is expecting sixth issue. The chance of its being a son is",
+  "options": {
+   "a": "0%",
+   "b": "25%",
+   "c": "50%",
+   "d": "100%"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo3_gen_9",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Genetics",
+  "topic": "Genetics",
+  "difficulty": "medium",
+  "question": "Haemophilia is more common in males because it is a TER-III ETICS",
+  "options": {
+   "a": "Recessive character carried by Y chromosome",
+   "b": "Dominant character carried by Y chromosome",
+   "c": "Dominant trait carried by X chromosome",
+   "d": "Recessive trait carried by X chromosome"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo3_gen_1",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Genetics",
+  "topic": "Genetics",
+  "difficulty": "medium",
+  "question": "An abnormal human male phenotype involving an extra X chromosome is a case of",
+  "options": {
+   "a": "Down syndrome",
+   "b": "Intersex",
+   "c": "Edward syndrome",
+   "d": "Klinefelter syndrome"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo3_gen_2",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Genetics",
+  "topic": "Genetics",
+  "difficulty": "easy",
+  "question": "Which of the following is the example of sex-linked disease?",
+  "options": {
+   "a": "AIDS",
+   "b": "Colour blindness",
+   "c": "Syphilis",
+   "d": "Gonorrhoea"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo3_gen_3",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Genetics",
+  "topic": "Genetics",
+  "difficulty": "hard",
+  "question": "A diseased man marries a normal woman. They get three daughters and five sons. All the daughters were diseased and sons were normal. The gene of this disease is",
+  "options": {
+   "a": "Sex linked dominant",
+   "b": "Sex linked recessive",
+   "c": "Sex limited character",
+   "d": "Autosomal dominant"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo3_gen_4",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Genetics",
+  "topic": "Genetics",
+  "difficulty": "easy",
+  "question": "A colour blind person cannot distinguish the colour",
+  "options": {
+   "a": "Green-blue",
+   "b": "Red-blue",
+   "c": "Green-red",
+   "d": "None"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo3_gen_16",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Genetics",
+  "topic": "Genetics",
+  "difficulty": "easy",
+  "question": "In Down's syndrome (Mongolism) each cell has how many chromosomes",
+  "options": {
+   "a": "21st pair having one less",
+   "b": "23rd pair with one less",
+   "c": "45",
+   "d": "47"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo3_gen_17",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Genetics",
+  "topic": "Genetics",
+  "difficulty": "easy",
+  "question": "The genotype of man having sexual character of female is",
+  "options": {
+   "a": "XXX",
+   "b": "X0",
+   "c": "XYY",
+   "d": "XXY"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo3_gen_18",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Genetics",
+  "topic": "Genetics",
+  "difficulty": "hard",
+  "question": "Turner's syndrome has the following chromosome arrangement",
+  "options": {
+   "a": "XX",
+   "b": "XYY",
+   "c": "XY",
+   "d": "X0"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo3_gen_19",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Genetics",
+  "topic": "Genetics",
+  "difficulty": "easy",
+  "question": "Absence of which factor causes haemophilia?",
+  "options": {
+   "a": "Factor Rh",
+   "b": "Factor I",
+   "c": "Factor II",
+   "d": "Factor VIII"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo3_gen_20",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Genetics",
+  "topic": "Genetics",
+  "difficulty": "easy",
+  "question": "Pattern baldness, moustaches and beard in human males are examples of",
+  "options": {
+   "a": "Sex linked traits",
+   "b": "Sex limited traits",
+   "c": "Sex differentiating traits",
+   "d": "Sex determining traits"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo3_gen_21",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Genetics",
+  "topic": "Genetics",
+  "difficulty": "easy",
+  "question": "Sex chromosomes of a female bird are",
+  "options": {
+   "a": "X0",
+   "b": "ZZ",
+   "c": "ZW",
+   "d": "XX"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo3_gen_10",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Genetics",
+  "topic": "Genetics",
+  "difficulty": "easy",
+  "question": "Down's syndrome is associated with trisomy of chromosome number",
+  "options": {
+   "a": "20",
+   "b": "21",
+   "c": "22",
+   "d": "23"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo3_gen_11",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Genetics",
+  "topic": "Genetics",
+  "difficulty": "medium",
+  "question": "The syndrome in humans in which individual's somatic cells contain the three sex chromosomes XXY is called",
+  "options": {
+   "a": "Klinefelter's syndrome",
+   "b": "Turner's syndrome",
+   "c": "Down's syndrome",
+   "d": "Super female"
+  },
+  "answer": "a",
+  "answer_source": "claude_unverified",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo3_gen_12",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Genetics",
+  "topic": "Genetics",
+  "difficulty": "medium",
+  "question": "In honey bee the males are produced by",
+  "options": {
+   "a": "Mitosis and then fertilization",
+   "b": "Meiosis and then fertilization",
+   "c": "Mitosis but no fertilization",
+   "d": "Meiosis but no fertilization"
+  },
+  "answer": "d",
+  "answer_source": "claude_unverified",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo3_gen_13",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Genetics",
+  "topic": "Genetics",
+  "difficulty": "easy",
+  "question": "The X0 system of sex determination is found in",
+  "options": {
+   "a": "Insects",
+   "b": "Birds",
+   "c": "Reptiles",
+   "d": "Mammals"
+  },
+  "answer": "a",
+  "answer_source": "claude_unverified",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo3_gen_14",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Genetics",
+  "topic": "Genetics",
+  "difficulty": "medium",
+  "question": "In ZZ/ZW system which of the following is true?",
+  "options": {
+   "a": "All organisms have ZZ chromosomes",
+   "b": "The chromosomes are Z like",
+   "c": "Females have ZW constitution",
+   "d": "Male is heterozygous"
+  },
+  "answer": "c",
+  "answer_source": "claude_unverified",
+  "explanation": null,
+  "flags": [
+   "Book key (a) sex-linked traits for pattern baldness - usually sex-limited/influenced (b) - TEACHER CHECK"
+  ]
+ },
+ {
+  "id": "zoo3_gen_15",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Genetics",
+  "topic": "Genetics",
+  "difficulty": "easy",
+  "question": "Which of the following type of inheritance is shown by colour blindness?",
+  "options": {
+   "a": "Chromosomal inheritance",
+   "b": "Criss-cross inheritance",
+   "c": "Zig-zag inheritance",
+   "d": "Up-down inheritance"
+  },
+  "answer": "b",
+  "answer_source": "claude_unverified",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo3_gen_28",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Genetics",
+  "topic": "Genetics",
+  "difficulty": "easy",
+  "question": "By which of the following defects, Thalassemia is caused?",
+  "options": {
+   "a": "Defects in RBCs",
+   "b": "Defects in WBCs",
+   "c": "Defects in platelets",
+   "d": "Defects in lymphocytes"
+  },
+  "answer": "a",
+  "answer_source": "claude_unverified",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo3_gen_29",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Genetics",
+  "topic": "Genetics",
+  "difficulty": "hard",
+  "question": "What is the percentage of children being a carrier of haemophilia if their mother is a carrier and their father is a normal man?",
+  "options": {
+   "a": "25%",
+   "b": "50%",
+   "c": "75%",
+   "d": "100%"
+  },
+  "answer": "a",
+  "answer_source": "claude_unverified",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo3_gen_30",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Genetics",
+  "topic": "Genetics",
+  "difficulty": "medium",
+  "question": "If a boy has sexual characters of that of a girl, its genotype would be",
+  "options": {
+   "a": "XYY",
+   "b": "XX",
+   "c": "XXY",
+   "d": "XXX"
+  },
+  "answer": "c",
+  "answer_source": "claude_unverified",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo3_gen_31",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Genetics",
+  "topic": "Genetics",
+  "difficulty": "easy",
+  "question": "Genes for color blindness in man are located in",
+  "options": {
+   "a": "X-chromosome only",
+   "b": "Y-chromosome only",
+   "c": "Both X and Y chromosomes",
+   "d": "Autosome 10"
+  },
+  "answer": "a",
+  "answer_source": "claude_unverified",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo3_gen_32",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Genetics",
+  "topic": "Genetics",
+  "difficulty": "easy",
+  "question": "Sex-linked characters are",
+  "options": {
+   "a": "Dominant",
+   "b": "Recessive",
+   "c": "Lethal",
+   "d": "None of these"
+  },
+  "answer": "b",
+  "answer_source": "claude_unverified",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo3_gen_22",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Genetics",
+  "topic": "Genetics",
+  "difficulty": "hard",
+  "question": "If a colorblind woman marries a normal man, their children will be",
+  "options": {
+   "a": "Normal daughters and sons",
+   "b": "Normal sons and carrier daughters",
+   "c": "Colorblind sons and carrier daughters",
+   "d": "Color blind sons and daughters"
+  },
+  "answer": "c",
+  "answer_source": "claude_unverified",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo3_gen_23",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Genetics",
+  "topic": "Genetics",
+  "difficulty": "medium",
+  "question": "All the sons of a couple are colorblind because",
+  "options": {
+   "a": "Mother homozygous colorblind",
+   "b": "Mother carrier and father is normal",
+   "c": "Mother normal and father colorblind",
+   "d": "Mother carrier and father colorblind"
+  },
+  "answer": "a",
+  "answer_source": "claude_unverified",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo3_gen_24",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Genetics",
+  "topic": "Genetics",
+  "difficulty": "easy",
+  "question": "Marriage between which pair may cause death of child?",
+  "options": {
+   "a": "Rh- man Rh+ woman",
+   "b": "Rh+ man Rh+ woman",
+   "c": "Rh- man Rh- woman",
+   "d": "Rh+ man Rh- woman"
+  },
+  "answer": "d",
+  "answer_source": "claude_unverified",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo3_gen_25",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Genetics",
+  "topic": "Genetics",
+  "difficulty": "easy",
+  "question": "A person with Turner’s Syndrome has how many X chromosome?",
+  "options": {
+   "a": "1",
+   "b": "2",
+   "c": "3",
+   "d": "4"
+  },
+  "answer": "a",
+  "answer_source": "claude_unverified",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo3_gen_26",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Genetics",
+  "topic": "Genetics",
+  "difficulty": "easy",
+  "question": "Which type of sex determination is found in man",
+  "options": {
+   "a": "ZW female ZZ male",
+   "b": "XX male X0 female",
+   "c": "XX female X0 male",
+   "d": "XX female XY male"
+  },
+  "answer": "d",
+  "answer_source": "claude_unverified",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo3_gen_27",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 3,
+  "chapter": "Genetics",
+  "topic": "Genetics",
+  "difficulty": "easy",
+  "question": "Down's Syndrome is due to",
+  "options": {
+   "a": "Crossing Over",
+   "b": "Linkage",
+   "c": "Non-disjunction of chromosome",
+   "d": "Sex-linked inheritance"
+  },
+  "answer": "c",
+  "answer_source": "claude_unverified",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo4_com_1",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Biology & Human Welfare",
+  "topic": "Common Diseases in Humans",
+  "difficulty": "easy",
+  "question": "Which disease is caused by Salmonella typhi?",
+  "options": {
+   "a": "Malaria",
+   "b": "Pneumonia",
+   "c": "Typhoid",
+   "d": "Cholera"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo4_com_2",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Biology & Human Welfare",
+  "topic": "Common Diseases in Humans",
+  "difficulty": "easy",
+  "question": "Rhinovirus causes",
+  "options": {
+   "a": "AIDS",
+   "b": "Diabetes",
+   "c": "Malaria",
+   "d": "Common cold"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo4_com_3",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Biology & Human Welfare",
+  "topic": "Common Diseases in Humans",
+  "difficulty": "easy",
+  "question": "Which disease is caused by a Protozoan and transmitted by mosquito?",
+  "options": {
+   "a": "Filaria",
+   "b": "Malaria",
+   "c": "Typhoid",
+   "d": "Amoebiasis"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo4_com_4",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Biology & Human Welfare",
+  "topic": "Common Diseases in Humans",
+  "difficulty": "easy",
+  "question": "Malaria parasite enters into human blood as",
+  "options": {
+   "a": "Oocyte",
+   "b": "Metacryptozoite",
+   "c": "Sporozoite",
+   "d": "Schizont"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo4_com_5",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Biology & Human Welfare",
+  "topic": "Common Diseases in Humans",
+  "difficulty": "easy",
+  "question": "Entamoebahistolyticais a parasite of",
+  "options": {
+   "a": "Liver",
+   "b": "Large intestine",
+   "c": "Kidney",
+   "d": "Lung"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo4_com_6",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Biology & Human Welfare",
+  "topic": "Common Diseases in Humans",
+  "difficulty": "easy",
+  "question": "Ring worm is caused by",
+  "options": {
+   "a": "Bacteria",
+   "b": "Virus TER-IV MAN WELFARE",
+   "c": "Fungi",
+   "d": "Protozoa"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo4_com_7",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Biology & Human Welfare",
+  "topic": "Common Diseases in Humans",
+  "difficulty": "medium",
+  "question": "Which of the following causes internal bleeding, fever, muscular pain, anaemia and blockage of intestinal passage?",
+  "options": {
+   "a": "Filariasis",
+   "b": "Ascariasis",
+   "c": "Amoebiasis",
+   "d": "Trypanosomiasis"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo4_com_8",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Biology & Human Welfare",
+  "topic": "Common Diseases in Humans",
+  "difficulty": "easy",
+  "question": "Filariasis causing organism belongs to",
+  "options": {
+   "a": "Platyhelminthes",
+   "b": "Porifera",
+   "c": "Aschelminthes",
+   "d": "Protozoa"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo4_com_9",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Biology & Human Welfare",
+  "topic": "Common Diseases in Humans",
+  "difficulty": "medium",
+  "question": "Which group of diseases is transmitted by insects?",
+  "options": {
+   "a": "Typhoid, Jaundice, Tuberculosis",
+   "b": "Small pox, Measles, Diabetes",
+   "c": "Malaria, Filaria, Yellow fever",
+   "d": "Ring worm, Swine flu, Scabies"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo4_com_10",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Biology & Human Welfare",
+  "topic": "Common Diseases in Humans",
+  "difficulty": "medium",
+  "question": "Diabetes mellitus is caused by",
+  "options": {
+   "a": "Underproduction of insulin",
+   "b": "Underproduction of glycogen",
+   "c": "Overproduction of insulin",
+   "d": "Overproduction of glycogen"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo4_com_11",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Biology & Human Welfare",
+  "topic": "Common Diseases in Humans",
+  "difficulty": "easy",
+  "question": "Which is caused by a virus?",
+  "options": {
+   "a": "Tetanus",
+   "b": "Polio",
+   "c": "Malaria",
+   "d": "Cholera"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo4_com_12",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Biology & Human Welfare",
+  "topic": "Common Diseases in Humans",
+  "difficulty": "easy",
+  "question": "Night blindness is caused due to deficiency of",
+  "options": {
+   "a": "Vitamin B",
+   "b": "Vitamin A",
+   "c": "Vitamin K",
+   "d": "Vitamin E"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo4_com_13",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Biology & Human Welfare",
+  "topic": "Common Diseases in Humans",
+  "difficulty": "easy",
+  "question": "Rabies virus contains",
+  "options": {
+   "a": "DS DNA",
+   "b": "DS RNA",
+   "c": "SS DNA",
+   "d": "SS RNA"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo4_com_14",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Biology & Human Welfare",
+  "topic": "Common Diseases in Humans",
+  "difficulty": "easy",
+  "question": "Which is a water borne disease?",
+  "options": {
+   "a": "Tuberculosis",
+   "b": "Cholera",
+   "c": "Malaria",
+   "d": "Small pox"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo4_com_15",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Biology & Human Welfare",
+  "topic": "Common Diseases in Humans",
+  "difficulty": "easy",
+  "question": "Influenza virus contains",
+  "options": {
+   "a": "RNA",
+   "b": "DNA",
+   "c": "Both RNA & DNA",
+   "d": "Only Protein"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo4_imm_1",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Biology & Human Welfare",
+  "topic": "Immunology & Vaccines",
+  "difficulty": "easy",
+  "question": "First line of defence of body is",
+  "options": {
+   "a": "Skin & mucus membrane",
+   "b": "Neutrophils & Monocytes",
+   "c": "Inflammation",
+   "d": "Interferon"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo4_imm_2",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Biology & Human Welfare",
+  "topic": "Immunology & Vaccines",
+  "difficulty": "hard",
+  "question": "Which cell is not phagocytic in nature",
+  "options": {
+   "a": "Monocyte",
+   "b": "Macrophage",
+   "c": "Neutrophil",
+   "d": "Natural Killer Cell"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo4_imm_3",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Biology & Human Welfare",
+  "topic": "Immunology & Vaccines",
+  "difficulty": "easy",
+  "question": "Neutrophils & Monocytes participate in",
+  "options": {
+   "a": "Phagocytosis",
+   "b": "Perforin production",
+   "c": "Passive immunity",
+   "d": "Antibody production"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo4_imm_5",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Biology & Human Welfare",
+  "topic": "Immunology & Vaccines",
+  "difficulty": "easy",
+  "question": "Which are primary lymphoid organs",
+  "options": {
+   "a": "Bone marrow & Spleen",
+   "b": "Spleen & Thymus",
+   "c": "Bone marrow & Tonsil",
+   "d": "Thymus & Bone marrow"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo4_imm_6",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Biology & Human Welfare",
+  "topic": "Immunology & Vaccines",
+  "difficulty": "easy",
+  "question": "Virus infected cells secrete",
+  "options": {
+   "a": "Enzyme",
+   "b": "Interferon",
+   "c": "Hormone",
+   "d": "Antibody"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo4_imm_7",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Biology & Human Welfare",
+  "topic": "Immunology & Vaccines",
+  "difficulty": "easy",
+  "question": "Cells involved in immune system are",
+  "options": {
+   "a": "Leukocytes",
+   "b": "Platelets",
+   "c": "Erythrocytes",
+   "d": "Gametocytes"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo4_imm_8",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Biology & Human Welfare",
+  "topic": "Immunology & Vaccines",
+  "difficulty": "easy",
+  "question": "Humoral immunity is mediated by",
+  "options": {
+   "a": "B-cells",
+   "b": "T-cells",
+   "c": "Macrophages",
+   "d": "Interferons"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo4_imm_9",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Biology & Human Welfare",
+  "topic": "Immunology & Vaccines",
+  "difficulty": "easy",
+  "question": "Antibody molecule has how many polypeptide chains?",
+  "options": {
+   "a": "2",
+   "b": "4",
+   "c": "6",
+   "d": "8"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo4_imm_10",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Biology & Human Welfare",
+  "topic": "Immunology & Vaccines",
+  "difficulty": "easy",
+  "question": "Antigen binding site of antibody is located between",
+  "options": {
+   "a": "Two heavy chains",
+   "b": "Two light chains",
+   "c": "One heavy & one light chain",
+   "d": "None of these"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo4_imm_11",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Biology & Human Welfare",
+  "topic": "Immunology & Vaccines",
+  "difficulty": "easy",
+  "question": "Number of variable segments of antibody is",
+  "options": {
+   "a": "One",
+   "b": "Two",
+   "c": "Three",
+   "d": "Four"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo4_imm_12",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Biology & Human Welfare",
+  "topic": "Immunology & Vaccines",
+  "difficulty": "easy",
+  "question": "Immunity gained after an infection is called",
+  "options": {
+   "a": "Active immunity",
+   "b": "Innate immunity",
+   "c": "Passive immunity",
+   "d": "None of these"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo4_imm_13",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Biology & Human Welfare",
+  "topic": "Immunology & Vaccines",
+  "difficulty": "easy",
+  "question": "Immunoglobulin abundant in colostrum is",
+  "options": {
+   "a": "IgA",
+   "b": "IgD",
+   "c": "IgE",
+   "d": "IgM"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo4_imm_14",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Biology & Human Welfare",
+  "topic": "Immunology & Vaccines",
+  "difficulty": "medium",
+  "question": "Full form of MALT is",
+  "options": {
+   "a": "Memory associated lymphoid tissue",
+   "b": "Mucosal associated lymphoid tissue",
+   "c": "Memory associated lymphocyte tissue",
+   "d": "Mucosal associated lymphocyte tissue"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo4_imm_15",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Biology & Human Welfare",
+  "topic": "Immunology & Vaccines",
+  "difficulty": "easy",
+  "question": "Vaccine is",
+  "options": {
+   "a": "Antibody",
+   "b": "Inactivated antigen",
+   "c": "Inactivated pathogen",
+   "d": "Activated pathogen"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo4_imm_16",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Biology & Human Welfare",
+  "topic": "Immunology & Vaccines",
+  "difficulty": "easy",
+  "question": "Saliva & tear belong to which type of innate immunity barriers",
+  "options": {
+   "a": "Physiological",
+   "b": "Physical",
+   "c": "Cytokine",
+   "d": "Cellular"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo4_can_1",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Biology & Human Welfare",
+  "topic": "Cancer, HIV, AIDS, Alcohol & Drug Abuse",
+  "difficulty": "easy",
+  "question": "AIDS is due to",
+  "options": {
+   "a": "Reduced helper T-cells",
+   "b": "Lack of interferon",
+   "c": "Reduced Killer T-cells",
+   "d": "Autoimmunity"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo4_can_2",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Biology & Human Welfare",
+  "topic": "Cancer, HIV, AIDS, Alcohol & Drug Abuse",
+  "difficulty": "easy",
+  "question": "AIDS is caused by",
+  "options": {
+   "a": "Bacteria",
+   "b": "Fungus",
+   "c": "Protozoa",
+   "d": "Virus"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo4_can_3",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Biology & Human Welfare",
+  "topic": "Cancer, HIV, AIDS, Alcohol & Drug Abuse",
+  "difficulty": "easy",
+  "question": "Genetic material of HIV is",
+  "options": {
+   "a": "DS RNA",
+   "b": "DS DNA",
+   "c": "Two SS RNA",
+   "d": "SS DNA"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo4_can_4",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Biology & Human Welfare",
+  "topic": "Cancer, HIV, AIDS, Alcohol & Drug Abuse",
+  "difficulty": "easy",
+  "question": "HIV infection is transmitted from infected mother to child through",
+  "options": {
+   "a": "Placenta",
+   "b": "Liver",
+   "c": "Ovary",
+   "d": "Intestine"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo4_can_5",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Biology & Human Welfare",
+  "topic": "Cancer, HIV, AIDS, Alcohol & Drug Abuse",
+  "difficulty": "easy",
+  "question": "Which test is used to confirm AIDS?",
+  "options": {
+   "a": "WIDAL",
+   "b": "ELISA",
+   "c": "MRI",
+   "d": "Ultrasound"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo4_can_7",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Biology & Human Welfare",
+  "topic": "Cancer, HIV, AIDS, Alcohol & Drug Abuse",
+  "difficulty": "hard",
+  "question": "HIV is not transmitted through the following except",
+  "options": {
+   "a": "Hugging",
+   "b": "Sharing food",
+   "c": "Sharing razor",
+   "d": "Using public toilet"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo4_can_8",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Biology & Human Welfare",
+  "topic": "Cancer, HIV, AIDS, Alcohol & Drug Abuse",
+  "difficulty": "easy",
+  "question": "Cancer causing virus is called",
+  "options": {
+   "a": "Retrovirus",
+   "b": "Oncogenic virus",
+   "c": "Poxvirus",
+   "d": "Adenovirus"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo4_can_9",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Biology & Human Welfare",
+  "topic": "Cancer, HIV, AIDS, Alcohol & Drug Abuse",
+  "difficulty": "easy",
+  "question": "Cancerous cells spread through",
+  "options": {
+   "a": "Lymph",
+   "b": "Blood",
+   "c": "Malignant tumour",
+   "d": "Hormone"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo4_can_10",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Biology & Human Welfare",
+  "topic": "Cancer, HIV, AIDS, Alcohol & Drug Abuse",
+  "difficulty": "easy",
+  "question": "Physical carcinogens are",
+  "options": {
+   "a": "UV-ray",
+   "b": "X-ray",
+   "c": "γ-ray",
+   "d": "All of these"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo4_can_11",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Biology & Human Welfare",
+  "topic": "Cancer, HIV, AIDS, Alcohol & Drug Abuse",
+  "difficulty": "medium",
+  "question": "Invasion of cancerous cells from one to other part of body is called",
+  "options": {
+   "a": "Contact inhibition",
+   "b": "Metastasis",
+   "c": "Benign tumour",
+   "d": "Tumour"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo4_can_12",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Biology & Human Welfare",
+  "topic": "Cancer, HIV, AIDS, Alcohol & Drug Abuse",
+  "difficulty": "easy",
+  "question": "Carcinoma is a cancer of",
+  "options": {
+   "a": "Connective tissue",
+   "b": "WBC",
+   "c": "Ectoderm & Endoderm",
+   "d": "RBC"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo4_can_13",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Biology & Human Welfare",
+  "topic": "Cancer, HIV, AIDS, Alcohol & Drug Abuse",
+  "difficulty": "easy",
+  "question": "Blood cancer is known as",
+  "options": {
+   "a": "Thrombosis",
+   "b": "Leukemia",
+   "c": "Haemolysis",
+   "d": "Haemophilia"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo4_can_14",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Biology & Human Welfare",
+  "topic": "Cancer, HIV, AIDS, Alcohol & Drug Abuse",
+  "difficulty": "easy",
+  "question": "Cancer of lymph nodes and spleen is called",
+  "options": {
+   "a": "Carcinoma",
+   "b": "Sarcoma",
+   "c": "Lymphoma",
+   "d": "Leukemia"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo4_can_15",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Biology & Human Welfare",
+  "topic": "Cancer, HIV, AIDS, Alcohol & Drug Abuse",
+  "difficulty": "easy",
+  "question": "Morphine obtained from opium is",
+  "options": {
+   "a": "Latex",
+   "b": "Mucilage",
+   "c": "Alkaloid",
+   "d": "Tannin"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo4_can_16",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Biology & Human Welfare",
+  "topic": "Cancer, HIV, AIDS, Alcohol & Drug Abuse",
+  "difficulty": "easy",
+  "question": "Smack is generally taken by",
+  "options": {
+   "a": "Snorting",
+   "b": "Injection",
+   "c": "Both a & b",
+   "d": "None of these"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo4_can_17",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Biology & Human Welfare",
+  "topic": "Cancer, HIV, AIDS, Alcohol & Drug Abuse",
+  "difficulty": "easy",
+  "question": "Cocaine is obtained from",
+  "options": {
+   "a": "Erythroxylum coca",
+   "b": "Datura",
+   "c": "Cannabis sativa",
+   "d": "Opium plant"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo4_can_18",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Biology & Human Welfare",
+  "topic": "Cancer, HIV, AIDS, Alcohol & Drug Abuse",
+  "difficulty": "easy",
+  "question": "Which is a stimulant?",
+  "options": {
+   "a": "LSD",
+   "b": "Cocaine",
+   "c": "Opium",
+   "d": "Heroin"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo4_can_19",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Biology & Human Welfare",
+  "topic": "Cancer, HIV, AIDS, Alcohol & Drug Abuse",
+  "difficulty": "easy",
+  "question": "Smokeless tobacco causes",
+  "options": {
+   "a": "Oral cancer",
+   "b": "Lung cancer",
+   "c": "Bronchitis",
+   "d": "Heart disease"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo4_can_20",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 4,
+  "chapter": "Biology & Human Welfare",
+  "topic": "Cancer, HIV, AIDS, Alcohol & Drug Abuse",
+  "difficulty": "easy",
+  "question": "Intravenous drug develops the risk of",
+  "options": {
+   "a": "AIDS",
+   "b": "Hepatitis-B",
+   "c": "Both a & b",
+   "d": "Blood cancer"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_1",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "medium",
+  "question": "Combining the DNAs of two species into a single DNA molecule is called",
+  "options": {
+   "a": "Genetic recombination",
+   "b": "Recombinant DNA techniques",
+   "c": "Crossing over",
+   "d": "Gene amplification"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_2",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "medium",
+  "question": "Construction of recombinant DNA involves",
+  "options": {
+   "a": "Cleaving and joining of DNA segments with endonuclease",
+   "b": "Cleaving DNA segments with endonuclease and rejoining with ligase",
+   "c": "Cleaving and rejoining DNA segments with ligase",
+   "d": "Cleaving DNA segments with ligase and rejoining with endonuclease"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_3",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "easy",
+  "question": "Who developed the chemical techniques to synthesize polynucleotides?",
+  "options": {
+   "a": "Barbara McClintock",
+   "b": "James Watson",
+   "c": "Fredrick Sanger",
+   "d": "H. Gobind Khorana"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_4",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "medium",
+  "question": "In 1979, Dr. Khurana synthesized first functional synthetic gene coding for E. coli.",
+  "options": {
+   "a": "Tyrosine Trna",
+   "b": "Yeast alanine tRNA",
+   "c": "Yeast alanine mRNA",
+   "d": "Tyrosine mRNA"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_5",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "medium",
+  "question": "The first recombinant DNA was synthesized by;",
+  "options": {
+   "a": "Herbert Boyer and Stanley Cohen",
+   "b": "Werner Arber and Stuart Linnius",
+   "c": "Boliver and Rodriguez",
+   "d": "Avery and Macleode TER-V & ITS APPLICATIONS"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_6",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "medium",
+  "question": "The enzymes commonly used in genetic engineering are",
+  "options": {
+   "a": "Restriction endonuclease and ligase",
+   "b": "Ligase and polymerase",
+   "c": "Restriction endonuclease and polymerases",
+   "d": "Endonuclease and ligase"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_7",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "medium",
+  "question": "Molecular scissors or chemical scalpels which cut DNA at specific sites into fragments containing identifiable genes is called",
+  "options": {
+   "a": "Alkaline phosphatase",
+   "b": "Ligase",
+   "c": "Restriction enzymes",
+   "d": "DNA polymerase"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_8",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "easy",
+  "question": "Enzymes used for opening up cells for genetic experiments are called:",
+  "options": {
+   "a": "Synthesizing enzymes",
+   "b": "Cleaving enzymes",
+   "c": "Lysing enzymes",
+   "d": "Ligase"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_9",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "easy",
+  "question": "The enzymes used to dissolve bacterial cell wall:",
+  "options": {
+   "a": "Cleaving enzyme",
+   "b": "Synthesizing enzymes",
+   "c": "Ribozymes",
+   "d": "Lysozymes"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_10",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "easy",
+  "question": "Which among these enzymes are cleaving enzymes?",
+  "options": {
+   "a": "Exonuclease",
+   "b": "Endonuclease",
+   "c": "Restriction endonuclease",
+   "d": "All of these"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_11",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "medium",
+  "question": "Restriction endonucleases",
+  "options": {
+   "a": "Are present in mammalian cell for degradation of DNA when the cell dies",
+   "b": "Are used in genetic engineering for ligating two DNA molecules",
+   "c": "Are used for in vitro DNA synthesis",
+   "d": "Are synthesized by bacteria as part of their defence mechanism"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_12",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "medium",
+  "question": "Restriction enzymes are used in genetic engineering because they",
+  "options": {
+   "a": "Can cut DNA at specific base sequence",
+   "b": "Are proteolytic enzymes which can degrade harmful proteins",
+   "c": "Are nucleases that cut DNA at variable sites",
+   "d": "Can join different DNA fragments"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_13",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "medium",
+  "question": "Which of the following enzymes in bacteria are responsible for restricting the growth of viruses?",
+  "options": {
+   "a": "Restriction endonuclease",
+   "b": "Topoisomerase",
+   "c": "Gyrase",
+   "d": "Protease"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_14",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "medium",
+  "question": "First restriction endonuclease was isolated by________ in 1970 and was called Hind III.",
+  "options": {
+   "a": "Kary Mullis",
+   "b": "Dr. HargobindKhurana",
+   "c": "Hamilton Smith",
+   "d": "Werner Arber"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_15",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "easy",
+  "question": "First restriction enzyme isolated was________ in 1970.",
+  "options": {
+   "a": "Hind III",
+   "b": "Eco RI",
+   "c": "Pst I",
+   "d": "Sal I"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_16",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "hard",
+  "question": "Restriction sites have DNA sequences that are:",
+  "options": {
+   "a": "Same in both the strand",
+   "b": "Reverse as compared to sense strand",
+   "c": "Palindromic",
+   "d": "None of the above"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_17",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "easy",
+  "question": "DNA is genetically methylated at",
+  "options": {
+   "a": "A-base",
+   "b": "G-base",
+   "c": "T-base",
+   "d": "C-base"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_18",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "easy",
+  "question": "Which of the following enzymes is used to join bits of DNA?",
+  "options": {
+   "a": "Ligase",
+   "b": "Primase",
+   "c": "DNA polymerase",
+   "d": "Endonuclease"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_19",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "easy",
+  "question": "The sites of DNA where restriction enzyme act are generally",
+  "options": {
+   "a": "Palindromic",
+   "b": "Tandem repeats",
+   "c": "CG rich regions",
+   "d": "TATA boxes"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_20",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "medium",
+  "question": "Which of the following enzymes is necessary to make accurate copies of 20 vector DNA?",
+  "options": {
+   "a": "RNA polymerase",
+   "b": "DNA polymerase",
+   "c": "DNA ligase",
+   "d": "Endonucleases"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_21",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "medium",
+  "question": "In recombinant DNA technology a plasmid vector must be cleaved by:",
+  "options": {
+   "a": "The same enzyme that cleaves the donor gene",
+   "b": "Modified DNA ligase",
+   "c": "Alkaline phosphatase",
+   "d": "DNA polymerase"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_22",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "hard",
+  "question": "Which of the following sequence along a double stranded DNA molecule can be site recognizes as a cutting site for a particular restriction enzyme?",
+  "options": {
+   "a": "AAGG TTCC",
+   "b": "AGTC TCAG",
+   "c": "GGCC CCGG",
+   "d": "ACCA TGGT"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_23",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "medium",
+  "question": "Example of two synthesizing enzymes are:",
+  "options": {
+   "a": "DNA polymerase and Reverse transcriptase",
+   "b": "Restriction endonuclease and Ligase",
+   "c": "DNA polymerase and Ligase",
+   "d": "Reverse transcriptase and Restriction endonuclease"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_24",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "easy",
+  "question": "DNA ligase catalyses the formation of:",
+  "options": {
+   "a": "Glycosidic bonds",
+   "b": "Peptide bond",
+   "c": "Phosphodiester bonds",
+   "d": "None of these"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_25",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "easy",
+  "question": "The gene carried by recombinant DNA is known as",
+  "options": {
+   "a": "Regulator gene",
+   "b": "Mutagen",
+   "c": "Transgene",
+   "d": "None of these"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_26",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "medium",
+  "question": "The DNA molecules used for carrying a foreign DNA to be cloned is known as:",
+  "options": {
+   "a": "Transgene",
+   "b": "Vector",
+   "c": "Probe",
+   "d": "Host gene"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_27",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "medium",
+  "question": "In recombinant DNA methods, the term vectors refer to:",
+  "options": {
+   "a": "A DNA probe used to locate a particular gene",
+   "b": "A plasmid or other agent used to transfer DNA into a living cell",
+   "c": "Enzymes that cut DNA into restriction fragments.",
+   "d": "Sticky end DNA fragments"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_28",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "medium",
+  "question": "What is true for plasmids?",
+  "options": {
+   "a": "Found in viruses",
+   "b": "Contain genes for vital activities",
+   "c": "Part of nuclear chromosomes",
+   "d": "Widely used in gene transfer"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_29",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "easy",
+  "question": "pBR322 is a plasmid belonging to",
+  "options": {
+   "a": "Yeast",
+   "b": "All bacteria",
+   "c": "Escherichia coli",
+   "d": "Bacteriophages"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_30",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "easy",
+  "question": "Which of the following are characteristics of vector?",
+  "options": {
+   "a": "Has origin of replication",
+   "b": "Replicates autonomously",
+   "c": "Has selectable marker",
+   "d": "All the above"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_31",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "hard",
+  "question": "Which of the following is not a cloning vector?",
+  "options": {
+   "a": "Agrobacterium",
+   "b": "Yeast",
+   "c": "Neurospora",
+   "d": "Bacteriophage"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_32",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "easy",
+  "question": "Plasmids are used in genetic engineering because they",
+  "options": {
+   "a": "Are easily available",
+   "b": "Can replicate",
+   "c": "Can integrate with hosts chromosome",
+   "d": "Are inert"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_33",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "easy",
+  "question": "Plasmids that can integrate into bacterial DNA are called:",
+  "options": {
+   "a": "Phagmids",
+   "b": "Bacterophage",
+   "c": "Cosmids",
+   "d": "Episomes"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_34",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "hard",
+  "question": "Vector which not only introduces a gene of interest into the host cell but also aids in the analysis of the foreign gene by relevant protein product expression is called",
+  "options": {
+   "a": "Cloning vector",
+   "b": "Expression vector",
+   "c": "Both the above",
+   "d": "None of the above"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_35",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "easy",
+  "question": "DNA can be separated by",
+  "options": {
+   "a": "Gel electrophoresis",
+   "b": "Autoradiography",
+   "c": "X-ray crystallography",
+   "d": "Centrifugation"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_36",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "medium",
+  "question": "cDNA is a copy or complementary DNA produced by using ________ as a template.",
+  "options": {
+   "a": "DNA",
+   "b": "mRNA",
+   "c": "tRNA",
+   "d": "rRNA"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_37",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "easy",
+  "question": "DNA copy of a RNA molecule is produced by using enzyme:",
+  "options": {
+   "a": "Reverse Transcriptase",
+   "b": "DNA polymerase",
+   "c": "RNA polymerase",
+   "d": "Taq DNA polymerase"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_38",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "hard",
+  "question": "cDNA does not contain ________ and can function in bacterial cell.",
+  "options": {
+   "a": "Exons",
+   "b": "Coding DNA",
+   "c": "DNA",
+   "d": "Introns"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_39",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "medium",
+  "question": "The term ________ is broadly used to a mass of cells, organisms or genes that areproduced by multiplication of a single cell, organism or gene.",
+  "options": {
+   "a": "Clone",
+   "b": "Gene therapy",
+   "c": "PCR",
+   "d": "Vector"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_40",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "easy",
+  "question": "Genetically identical cells produced as a result of asexual reproduction are called",
+  "options": {
+   "a": "Clones",
+   "b": "Siblings",
+   "c": "Offsprings",
+   "d": "Hybrids"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_41",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "hard",
+  "question": "The living systems or cells in which the carrier of recombinant DNA molecule or vector can be propagated or multiplied also known as cloning factories.",
+  "options": {
+   "a": "Vector",
+   "b": "Bacteriophage",
+   "c": "Host",
+   "d": "Bioreactors"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_42",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "medium",
+  "question": "A laboratory (in vitro) technique for generating large quantities of a specified 42 DNA is known as",
+  "options": {
+   "a": "Cloning",
+   "b": "Recombinant DNA Technology",
+   "c": "Polymerase Chain Reaction",
+   "d": "Genetic Engineering"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_43",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "medium",
+  "question": "Thermostable DNA polymerase isolated from the bacterium Thermusaquaticus also called ________ is used for amplification of DNA by PCR technique.",
+  "options": {
+   "a": "Taq DNA polymerase",
+   "b": "DNA polymerase",
+   "c": "Reverse Transcriptase",
+   "d": "All the above"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_44",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "easy",
+  "question": "Genomic library can be prepared by",
+  "options": {
+   "a": "PCR technique",
+   "b": "Shotgun experiment",
+   "c": "Colony hybridization",
+   "d": "All of these"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_45",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "medium",
+  "question": "Which of the following is a commonly used bacteria in plant genetic engineering?",
+  "options": {
+   "a": "Salmonella typhi",
+   "b": "Bacillus subtilis",
+   "c": "Corynebacterium",
+   "d": "Agrobacterium"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_46",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "hard",
+  "question": "Which among the following is not a step involved in recombinant DNA technology?",
+  "options": {
+   "a": "Restriction enzyme digestion",
+   "b": "Ligation of transgene with vector",
+   "c": "Cloning of recombinant DNA into host",
+   "d": "Karyotyping of the host DNA"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_47",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "medium",
+  "question": "The introduction of recombinant DNA into eukaryotic cells by any means is known as:",
+  "options": {
+   "a": "Transformation",
+   "b": "Transfection",
+   "c": "Transduction",
+   "d": "Biolistic"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_48",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "medium",
+  "question": "The protein encoded from a cloned DNA in a heterologous host is called a:",
+  "options": {
+   "a": "Recombinant protein",
+   "b": "Mutated protein",
+   "c": "Bioprotein",
+   "d": "None of the above"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_49",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "easy",
+  "question": "For obtaining recombinant proteins at industrial level, we use:",
+  "options": {
+   "a": "Bioreactors",
+   "b": "Biotransformers",
+   "c": "PCR machine",
+   "d": "Incubator"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_50",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "easy",
+  "question": "The recovery and purification of biosynthetic products from growth medium is called:",
+  "options": {
+   "a": "Formulation",
+   "b": "Downstream processing",
+   "c": "Clinical trial",
+   "d": "Bioreactors"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_51",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "medium",
+  "question": "The maintenance of activity and stability of a biotechnological product during storage and distribution is known as:",
+  "options": {
+   "a": "Downstream processing",
+   "b": "Clinical trials",
+   "c": "Formulations",
+   "d": "All of these"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_52",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "medium",
+  "question": "Gene library is",
+  "options": {
+   "a": "Set of books on genes",
+   "b": "Variety of genetic characters of an organism",
+   "c": "DNA sequences",
+   "d": "Collection of independently isolated DNA of an organism"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_53",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "easy",
+  "question": "Which of the following is used for the production of c DNA?",
+  "options": {
+   "a": "DNA polymerase",
+   "b": "Reverse transcriptase",
+   "c": "Endonucleases",
+   "d": "Ligases"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_54",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "easy",
+  "question": "Gene bank stores",
+  "options": {
+   "a": "Genes only",
+   "b": "Seeds only",
+   "c": "Gene maps only",
+   "d": "Germplasm"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_55",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "medium",
+  "question": "A collection of clones that represent the complete genome of a single organism that are stored in a population of identical vectors is known as:",
+  "options": {
+   "a": "Genomic DNA library",
+   "b": "cDNA library",
+   "c": "Both the above",
+   "d": "None of the above"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_56",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "medium",
+  "question": "Collection of cDNA clones generated in vitro from functional mRNA's of a single tissue or cell of an organism with the help of reversetranscription & stored in bacteria in a population of identical vectors is called:",
+  "options": {
+   "a": "Genomic DNA library",
+   "b": "cDNA library",
+   "c": "Both the above",
+   "d": "None of the above"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_57",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "medium",
+  "question": "Blood stains are found at the site of a murder. If DNA profiling technique is to be us the criminal, which of the following is ideal for use?",
+  "options": {
+   "a": "Leucocytes",
+   "b": "Platelets",
+   "c": "Serum",
+   "d": "Erythrocytes"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_58",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "easy",
+  "question": "Abbreviation 'Bt' in 'Bt' toxin stands for",
+  "options": {
+   "a": "Biotechnology",
+   "b": "Biotoxin",
+   "c": "Toxin released by Bacillus thuringiensis",
+   "d": "Toxins released by bacteria"
+  },
+  "answer": "c",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_59",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "easy",
+  "question": "The technique of DNA finger printing was initially developed by",
+  "options": {
+   "a": "lanWilmut",
+   "b": "Hargobind Khorana",
+   "c": "Jacque Monod",
+   "d": "Alec Jeffreys"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_60",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "easy",
+  "question": "First genetically modified plant commercially released in India is",
+  "options": {
+   "a": "Golden rice",
+   "b": "Slow ripening tomato",
+   "c": "Bt-bringle",
+   "d": "Bt-cotton"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_61",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "easy",
+  "question": "Salt tolerant transgenic has been developed for",
+  "options": {
+   "a": "Brinjal",
+   "b": "Grape",
+   "c": "Potato",
+   "d": "Tomato"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_62",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "easy",
+  "question": "Which of the following is a transgenic plant?",
+  "options": {
+   "a": "FlavrSavr",
+   "b": "Ashbyagossypii",
+   "c": "Meloidogyne incognita",
+   "d": "Gluconobacteroxidans"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_63",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "easy",
+  "question": "The genetically modified brinjal in India has been developed for",
+  "options": {
+   "a": "Insect-resistance",
+   "b": "Enhancing shelf life",
+   "c": "Enhancing mineral content",
+   "d": "Drought-resistance"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_64",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "medium",
+  "question": "In genetic fingerprinting, the 'probe' refers to ________.",
+  "options": {
+   "a": "A radioactively labelled single stranded DNA molecule",
+   "b": "A radioactively labelled single stranded RNA molecule",
+   "c": "A radioactively labelled double stranded RNA molecule",
+   "d": "A radioactively labelled double stranded DNA molecule"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_65",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "medium",
+  "question": "Some characteristics of Bt cotton are",
+  "options": {
+   "a": "Long fibre and resistance to aphids",
+   "b": "Medium-yield, long fibre and resistance to beetle pests",
+   "c": "High yield and production of toxic protein crystals which kill dipteran pests",
+   "d": "High yield and resistance to bollworms"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_66",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "medium",
+  "question": "Which one of the following is now being commercially produced by biotechnological procedures?",
+  "options": {
+   "a": "Nicotine",
+   "b": "Morphine",
+   "c": "Quinine",
+   "d": "Insulin"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_67",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "easy",
+  "question": "Which of the following is produced by genetically engineered bacteria?",
+  "options": {
+   "a": "Thyroxin",
+   "b": "Insulin",
+   "c": "Glucagon",
+   "d": "ADH"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_68",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "medium",
+  "question": "The main aim of the human genome project is",
+  "options": {
+   "a": "To introduce new genes into humans",
+   "b": "To identify and sequence all the genes present in human DNA",
+   "c": "To develop better techniques for comparing two different human DNA samples",
+   "d": "To remove disease causing genes from human DNA"
+  },
+  "answer": "b",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_69",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "medium",
+  "question": "To meet the demands of the society, in vitro production of a large number of plantlets in a short duration is practiced in floriculture and horticulture industry today. This is called",
+  "options": {
+   "a": "Hybridism technology",
+   "b": "Somaclonal variation",
+   "c": "Somatic hybridization",
+   "d": "Micropropagation"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_70",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "easy",
+  "question": "BtBrinjal is an example of transgenic crops. In this, Bt refers to",
+  "options": {
+   "a": "Bacillus tuberculosis",
+   "b": "Biotechnology",
+   "c": "β carotene",
+   "d": "Bacillus thuringiensis"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ },
+ {
+  "id": "zoo5_bio_71",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "easy",
+  "question": "Alec Jeffreys developed the DNA fingerprinting technique. The probe he used was",
+  "options": {
+   "a": "Ribozyme",
+   "b": "Sex chromosome",
+   "c": "SNP",
+   "d": "VNTR"
+  },
+  "answer": "d",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": [
+   "Book key d; options adjusted (VNTR) - verify"
+  ]
+ },
+ {
+  "id": "zoo5_bio_72",
+  "subject": "Zoology",
+  "class": 12,
+  "chapter_no": 5,
+  "chapter": "Biotechnology & its Applications",
+  "topic": "Biotechnology & its Applications",
+  "difficulty": "medium",
+  "question": "Which of the following is true for golden rice?",
+  "options": {
+   "a": "It is vitamin A enriched, with a gene from daffodil",
+   "b": "It is pest resistant, with a gene from Bacillus thuringiensis",
+   "c": "It is drought tolerant, developed using Agrobacterium vector",
+   "d": "It has yellow grains, because of a gene introduced from a primitive variety of rice"
+  },
+  "answer": "a",
+  "answer_source": "book_key",
+  "explanation": null,
+  "flags": []
+ }
+]
