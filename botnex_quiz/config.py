@@ -22,7 +22,7 @@ class Config:
     bot_token: str
     owner_id: int                     # numeric Telegram ID of the owner (env OWNER_ID)
     owner_username: str = "lll_SOLAC_lll"
-    support_link: str = "https://t.me/BOT_NEX_A"
+    support_link: str = "https://t.me/mcq_preparation"
     bot_display_name: str = "BOTNEX Quiz Academy"
     mongo_uri: str = ""
     mongo_db_name: str = "botnex_quiz"
