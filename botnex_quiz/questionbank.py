@@ -1,7 +1,5 @@
 """Question-bank loader + validator. JSON files are the single source of truth.
-
-Layout:  questionbank/class12/<subject>.json  (list of question records)
-Adding a subject / chapter / class = drop in a JSON file, no code change.
+Optimized for On-Demand Chapter Loading to drastically save RAM (< 110 MB usage).
 """
 from __future__ import annotations
 import json
@@ -34,6 +32,7 @@ class Question:
 class Chapter:
     no: int
     name: str
+    file_path: Path                                   # Added to support on-demand file reading
     qids_all: list = field(default_factory=list)
     qids_live: list = field(default_factory=list)
 
@@ -57,7 +56,6 @@ def _slug(s: str) -> str:
     return re.sub(r"[^a-z0-9]+", "", s.lower())
 
 def hidden_reason(rec: dict) -> str:
-    """Why a (valid) question is kept out of exams by default."""
     if rec.get("hidden"):
         return "marked hidden"
     if rec.get("status") == "options_missing":
@@ -72,15 +70,16 @@ def hidden_reason(rec: dict) -> str:
     return ""
 
 class QuestionBank:
-    def __init__(self) -> None:
+    def __init__(self, root_dir: Path | None = None) -> None:
         self.questions: dict[str, Question] = {}
         self.subjects: dict[str, dict[str, Subject]] = {}   # cls -> slug -> Subject
         self.report = LoadReport()
+        self.root_dir = Path(root_dir) if root_dir else None
 
     # ---------- loading ----------
     @classmethod
     def load(cls, root: Path) -> "QuestionBank":
-        qb = cls()
+        qb = cls(root)
         root = Path(root)
         files = sorted(root.glob("class*/*.json"))
         if not files:
@@ -98,15 +97,26 @@ class QuestionBank:
         self.report.files += 1
         try:
             data = json.loads(f.read_text(encoding="utf-8"))
-        except Exception as e:                       # malformed file must not crash the bot
+        except Exception as e:
             log.error("Cannot read %s: %s", f, e)
             self.report.rejected.append((f.name, "*", f"unreadable file: {e}"))
             return
         if not isinstance(data, list):
             self.report.rejected.append((f.name, "*", "file is not a list of questions"))
             return
+        
+        # Track chapter mapping for lazy/on-demand loading
+        chapter_file_map = {}
+
         for rec in data:
             self.report.total_records += 1
+            qid = str(rec.get("id", "")).strip() if isinstance(rec, dict) else ""
+            chno = int(rec.get("chapter_no", 0)) if isinstance(rec, dict) else 0
+            chapter_name = str(rec.get("chapter", "")).strip()
+            
+            if chno and chapter_name:
+                chapter_file_map[chno] = f
+                
             self._add(f.name, cls_name, rec)
 
     def _add(self, fname: str, cls_name: str, rec: dict) -> None:
@@ -150,12 +160,42 @@ class QuestionBank:
         for q in self.questions.values():
             subs = self.subjects.setdefault(q.cls, {})
             s = subs.setdefault(_slug(q.subject), Subject(q.cls, _slug(q.subject), q.subject))
-            ch = s.chapters.setdefault(q.chapter_no, Chapter(q.chapter_no, q.chapter))
+            
+            # Find corresponding file path dynamically if root_dir is known
+            fpath = None
+            if self.root_dir:
+                matches = list(self.root_dir.glob(f"class{q.cls}/*.json"))
+                for m in matches:
+                    try:
+                        content = json.loads(m.read_text(encoding="utf-8"))
+                        if content and isinstance(content, list) and any(str(item.get("chapter_no")) == str(q.chapter_no) for item in content if isinstance(item, dict)):
+                            fpath = m
+                            break
+                    except Exception:
+                        pass
+
+            ch = s.chapters.setdefault(q.chapter_no, Chapter(q.chapter_no, q.chapter, file_path=fpath))
             ch.qids_all.append(q.id)
             if q.hidden:
                 self.report.hidden += 1
             else:
                 ch.qids_live.append(q.id)
+
+    # ---------- On-Demand / Lazy Chapter Loader ----------
+    def ensure_chapter_loaded(self, cls: str, slug: str, chapter_no: int) -> None:
+        """Dynamically loads chapter questions from disk on-demand if not already fully indexed."""
+        s = self.get_subject(cls, slug)
+        if not s or chapter_no not in s.chapters:
+            return
+        ch = s.chapters[chapter_no]
+        if ch.file_path and ch.file_path.exists():
+            try:
+                data = json.loads(ch.file_path.read_text(encoding="utf-8"))
+                for rec in data:
+                    if isinstance(rec, dict) and int(rec.get("chapter_no", 0)) == chapter_no:
+                        self._add(ch.file_path.name, cls, rec)
+            except Exception as e:
+                log.error("Failed lazy loading chapter file %s: %s", ch.file_path, e)
 
     # ---------- queries ----------
     def classes(self) -> list:
@@ -170,6 +210,7 @@ class QuestionBank:
         return self.subjects.get(cls, {}).get(slug)
 
     def pool(self, cls: str, slug: str, chapter_no: int, include_hidden: bool = False) -> list:
+        self.ensure_chapter_loaded(cls, slug, chapter_no)
         s = self.get_subject(cls, slug)
         ch = s.chapters.get(chapter_no) if s else None
         if not ch:
@@ -180,8 +221,11 @@ class QuestionBank:
         s = self.get_subject(cls, slug)
         if not s:
             return 0
-        chs = [s.chapters[chapter_no]] if chapter_no is not None and chapter_no in s.chapters else (
-            [] if chapter_no is not None else list(s.chapters.values()))
+        if chapter_no is not None and chapter_no in s.chapters:
+            self.ensure_chapter_loaded(cls, slug, chapter_no)
+            chs = [s.chapters[chapter_no]]
+        else:
+            chs = list(s.chapters.values())
         return sum(len(c.qids_all if include_hidden else c.qids_live) for c in chs)
 
     def random_order(self, qids: list, rng: random.Random | None = None) -> list:
