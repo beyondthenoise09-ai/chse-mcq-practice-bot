@@ -46,7 +46,6 @@ def spaced_width(d: ImageDraw.ImageDraw, text: str, f, spacing: int) -> int:
     return sum(d.textlength(c, font=f) for c in text) + spacing * (len(text) - 1)
 
 def gold_text(img: Image.Image, xy, text: str, f, anchor: str = "ma", spacing: int = 0, dark: bool = False) -> None:
-    """Draw text filled with a gold gradient. anchor: 'ma' centred at x."""
     d = ImageDraw.Draw(img)
     tw = int(spaced_width(d, text, f, spacing))
     asc, desc = f.getmetrics()
@@ -86,7 +85,6 @@ def fit_font(d, text, name, start, max_w, spacing=0, min_size=36):
     return font(name, min_size)
 
 def guilloche(base: Image.Image) -> None:
-    """Very light engraved pattern in the background."""
     ov = Image.new("RGBA", base.size, (0, 0, 0, 0))
     d = ImageDraw.Draw(ov)
     cx, cy = W // 2, H // 2
@@ -98,7 +96,6 @@ def guilloche(base: Image.Image) -> None:
     base.alpha_composite(ov)
 
 def corner_ornament(base: Image.Image, x: int, y: int, sx: int, sy: int) -> None:
-    """Ornament in a corner; (sx, sy) = direction towards the inside of the page."""
     layer = Image.new("RGBA", (300, 300), (0, 0, 0, 0))
     d = ImageDraw.Draw(layer)
     for i, r in enumerate((190, 150, 112, 76)):
@@ -237,4 +234,10 @@ def render_certificate(info: dict) -> bytes:
 
     out = io.BytesIO()
     img.convert("RGB").save(out, "PNG", optimize=True)
+    
+    # --- MEMORY CLEANUP TO PREVENT RAM CRASH ---
+    img.close()
+    del img
+    del d
+    
     return out.getvalue()
